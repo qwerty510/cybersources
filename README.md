@@ -53,15 +53,21 @@
 </details>
 
 <details>
-<summary>🗂️ Resources</summary>
   
+<summary>🗂️ Resources</summary>
+
+## 🗂️ Resources
+
 |Resource|Description|
 |--|--|
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
 </details>
 
 <details>
+  
 <summary>📖 Learning</summary>
+
+## 📖 Learning
   
 |Courses|Description|
 |--|--|
