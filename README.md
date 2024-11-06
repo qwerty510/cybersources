@@ -30,7 +30,25 @@
 |2|[BlackBird](https://blackbird-osint.herokuapp.com)|
 |3|[Epieos](https://epieos.com )
 |4|[ScanIdentity](https://scan.identityguard.com/full   )|
+|5|[LeakPeak](https://leakpeek.com )|
+|6|[BreachDirectory](https://breachdirectory.org )|
+|7|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|
 
+### GEOINT
+|Number|Tool|
+|--|--|
+|1|[Bellingcat](https://osm-search.bellingcat.com )
+|2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
+
+### News, Search Engines...
+|Number|Tool|
+|--|--|
+|1|[WolrdEinnwes](https://world.einnews.com )|
+|2|[True People Search](https://truepeoplesearch.net )|
+|3|[Webmii](https://webmii.com )|
+|4|[Usa-Oficial](https://usa-official.com)|
+|5|[Ussearch](https://ussearch.com  )|
+|6|[ThatsThem](https://thatsthem.com )|
 
 ## 🗂️ Resources
 |Resource|Description|
