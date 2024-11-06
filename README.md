@@ -1,2 +1,2 @@
 # cybersources
-some tools and resources that I find of cybersecurity
+- This repostory is where i save and post all the tools and respources of cybersecurity. 
