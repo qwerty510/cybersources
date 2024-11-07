@@ -107,7 +107,10 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 ## 📖 Learning
-  
+
+
+### Courses
+
 |Courses|Description|
 |--|--|
 |[cs50 - Harvard](https://cs50.harvard.edu/x/2024/)|CS50’s Introduction to Computer Science. Even if you are not a student at Harvard, you are welcome to “take” this course for free via this OpenCourseWare by working your way through the course’s eleven weeks of material.
@@ -118,6 +121,19 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[TryHackMe](https://tryhackme.com)|TryHackMe goes way beyond textbooks and focuses on fun interactive lessons that make you put theory into practice.
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
 |[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
+
+### CTFs
+|CTFs|Category|Description|
+|--|--|--|
+|[Kase Scenarios](https://kasescenarios.com)|OSINT|Imagine diving headfirst into captivating OSINT scenarios that mirror real-world investigations. You must apply OSINT techniques to solve intricate cases and mysteries.
+|[TraceLabs](https://www.tracelabs.org/initiatives/search-party)|OSINT|The Trace Labs Search Party CTF is a non theoretical, gamified effort that allows for the crowdsourcing of contestants to perform a single task: Conduct open source intelligence operations to help find missing persons|
+|[Geolocating Images (THM)](https://tryhackme.com/r/room/geolocatingimages)|OSINT| A room to understand how to geolocate images|
+|[Google Dorking (THM)](https://tryhackme.com/r/room/googledorking)|OSINT|Explaining how Search Engines work and leveraging them into finding hidden content.|
+|[OhSINT](https://tryhackme.com/r/room/ohsint)|OSINT|What information can you possible get with just one image file?|
+|[Sakura Room](https://tryhackme.com/r/room/sakura)|OSINT|Use a variety of OSINT techniques to solve this room created by the OSINT Dojo.|
+|[Searchlight-IMINT](https://tryhackme.com/r/room/searchlightosint)|OSINT|OSINT challenges in the imagery intelligence category.|
+|[KafeeSec-SoMeMINT](https://tryhackme.com/r/room/somesint)|OSINT|An intro to SOCMINT (Social Media Intelligence/Investigation) techniques and tooling. Use your awesome OSINT skills to perform an online investigation of a mysterious husband!|
+
 
 ## 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
