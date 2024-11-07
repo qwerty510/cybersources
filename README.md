@@ -14,7 +14,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📋 Content 
-- [Cyber Tools](#-%EF%B8%8F-cyber-tools)
+- [Tools](#-%EF%B8%8F-tools)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -25,7 +25,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 
-## [↑](#-content) 🛠️ Cyber Tools
+## [↑](#-content) 🛠️ Tools
 
 
 |Tool|Category|Description|
@@ -61,8 +61,10 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Shodan Search](https://www.shodan.io)|Search Engine|Search engine for Internet-connected devices.|
 |[Maltego](https://www.maltego.com)|Search Engine|Tool for link analysis and data visualization.|
 |[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|DNS|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
-
-
+|[Empire](https://github.com/EmpireProject/Empire)|Post Explotation|A post exploitation framework for powershell and python.|
+|[Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)|Post Explotation|A post exploitation tool that uses iron python to get past powershell restrictions.|
+|[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)|Post Explotation| A PowerShell post exploitation framework.|
+|[ebowla](https://github.com/Genetic-Malware/Ebowla)|Post Explotation|Framework for Making Environmental Keyed Payloads.|
 
 
 ## [↑](#-content) 🗂️ Resources
@@ -77,6 +79,10 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
 |[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
+|[Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html)|Complete list of security related operating systems|
+|[Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/)| Description of main penetration testing distributions|
+|[Security @ Distrowatch](http://distrowatch.com/search.php?category=Security)|Website dedicated to talking about, reviewing and keeping up to date with open source operating systems|
+|[Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of cheat sheets useful for pentesting|
 
 
 
@@ -100,6 +106,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Cybrary](https://www.cybrary.it)|Offers free and paid courses with hands-on labs for certificatitions like  Security+, CISSP and CEH.|
 |[Udemy](https://www.udemy.com)| Affordable courses with video lectures, quizzes, and practice exams for various certifications.|
 |[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
+|[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
 
 ### [↑](#-content) 🚩 CTFs - Training
 |CTFs|Category|Description|
