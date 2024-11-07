@@ -16,12 +16,12 @@ This repostory is where i save and post all the tools and respources of cybersec
 ## 📋 Content 
 - [🛠️ Cyber Tools](#-%EF%B8%8F-cyber-tools)
 - [🗂️ Resources](#-%EF%B8%8F-resources)
-- [📖 Learning](#-learning)
-  - [📚 Courses](#-courses)
-  -  [🚩 CTFs - Training](#-ctfs---training)
-  -  [🕸️ Practice Webs](#%EF%B8%8F-practice-webs)
--  [🎙️ Podcasts](#%EF%B8%8F-podcasts)
--  [💬 Colaborate ](#-colaborate)
+- [📖 Learning](#--learning)
+  - [📚 Courses](#--courses)
+  -  [🚩 CTFs - Training](#--ctfs---training)
+  -  [🕸️ Practice Webs](#-%EF%B8%8F-practice-webs)
+-  [🎙️ Podcasts](#-%EF%B8%8F-podcasts)
+-  [💬 Colaborate ](-#-colaborate)
 
 
 
