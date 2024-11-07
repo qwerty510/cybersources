@@ -102,6 +102,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[DuckyScript™ Quick Reference](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)| DuckyScript™ is the programming language of the USB Rubber Ducky™, Hak5® hotplug attack gear and officially licensed devices. The quick reference to start programming with ducky.
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| 
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
+|[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
 
 
 
