@@ -30,8 +30,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 <summary>🕵️‍♂️ Osint Tools</summary>
 
 ## 🕵️‍♂️ Osint tools
-<details>
-<summary>🗂️ Miscellaneous</summary>
+
   
 ### 🗂️ Miscellaneous  
 
@@ -43,10 +42,9 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Cybdetective](https://cybdetective.com/osintmap)| Worldwide OSINT tools map.|
 |[FaceComparison](https://facecomparison.toolpie.com)| Face comparison tool. |
 |[osint-framework](https://osintframework.com)|Collection of tools.
-</details>
 
-<details>
-<summary>👤 Username Search</summary>
+
+
   
 ### 👤 Username Search
 |Number|Tool|
@@ -55,10 +53,8 @@ This repostory is where i save and post all the tools and respources of cybersec
 |2|[NameCheck](https://www.namecheckr.com )|
 |3|[UserSearch](https://usersearch.org )|
 |4|[BlackBird](https://blackbird-osint.herokuapp.com)|
-</details>
 
-<details>
-<summary>🔗 Email Search</summary>
+
   
 ### 🔗 Email Search
 |Number|Tool|
@@ -70,21 +66,13 @@ This repostory is where i save and post all the tools and respources of cybersec
 |5|[LeakPeak](https://leakpeek.com )|
 |6|[BreachDirectory](https://breachdirectory.org )|
 |7|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|
-</details>
 
-  <details>
-  <summary>📍 GEOINT</summary>
-  
 ### 📍 GEOINT
 |Number|Tool|
 |--|--|
 |1|[Bellingcat](https://osm-search.bellingcat.com )
 |2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
-</details>
 
-<details>
-<summary>📰 News, Search Engines...</summary>
-  
 ### 📰 News, Search Engines...
 |Number|Tool|
 |--|--|
@@ -94,7 +82,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |4|[Usa-Oficial](https://usa-official.com)|
 |5|[Ussearch](https://ussearch.com  )|
 |6|[ThatsThem](https://thatsthem.com )|
-</details>
+
 
 
 
