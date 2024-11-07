@@ -26,25 +26,25 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[FaceComparison](https://facecomparison.toolpie.com)|Miscellaneous|Face comparison tool. |
 |[osint-framework](https://osintframework.com)|Miscellaneous|Collection of tools.
 |[FaceCheckID](https://facecheck.id)|Miscellaneous| Powerfull tool that realizes reverse image search.|
-|[WhatsMyName](https://whatsmyname.app)|Username Search||
-|[NameCheck](https://www.namecheckr.com )|Username Search||
-|[UserSearch](https://usersearch.org )|Username Search||
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Username Search||
-|[Industries OSINT](https://osint.industries)|Email Search||
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Email Search||
-|[Epieos](https://epieos.com)|Email Search||
-|[ScanIdentity](https://scan.identityguard.com/full)|Email Search||
-|[LeakPeak](https://leakpeek.com )|Email Search||
-|[BreachDirectory](https://breachdirectory.org )|Email Search||
-|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|Email Search||
-|[Bellingcat](https://osm-search.bellingcat.com )|GEOINT||
-|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|GEOINT||
-|[WolrdEinnwes](https://world.einnews.com )|News, Search Engines...||
-|[True People Search](https://truepeoplesearch.net )|News, Search Engines...||
-|[Webmii](https://webmii.com )|News, Search Engines...||
-|[Usa-Oficial](https://usa-official.com)|News, Search Engines...||
-|[Ussearch](https://ussearch.com  )|News, Search Engines...||
-|[ThatsThem](https://thatsthem.com )|News, Search Engines...||
+|[WhatsMyName](https://whatsmyname.app)|Username Search|Search for usernames across multiple platforms.|
+|[NameCheck](https://www.namecheckr.com )|Username Search|Check username availability across platforms.|
+|[UserSearch](https://usersearch.org )|Username Search|Search for users and their online profiles.|
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Username Search|Comprehensive username search tool.|
+|[Industries OSINT](https://osint.industries)|Email Search|Various OSINT tools for email investigation.|
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Email Search|Comprehensive email search tool.|
+|[Epieos](https://epieos.com)|Email Search|Investigate email addresses.|
+|[ScanIdentity](https://scan.identityguard.com/full)|Email Search|Identity scanning and verification tool.|
+|[LeakPeak](https://leakpeek.com )|Email Search|Check if email addresses have been leaked.|
+|[BreachDirectory](https://breachdirectory.org )|Email Search|Directory of breached emails.|
+|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|Email Search|OSINT tool for email search.|
+|[Bellingcat](https://osm-search.bellingcat.com )|GEOINT|Geospatial intelligence and analysis.|
+|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|GEOINT|Geospatial OSINT tools.|
+|[WolrdEinnwes](https://world.einnews.com )|News, S.E...|News and search engine tools.|
+|[True People Search](https://truepeoplesearch.net )|News, S.E...|Search for people's information.|
+|[Webmii](https://webmii.com )|News, S.E..|Aggregate search for personal information.|
+|[Usa-Oficial](https://usa-official.com)|News, S.E...|Official USA search tools.|
+|[Ussearch](https://ussearch.com  )|News, S.E...|Search for people in the USA.|
+|[ThatsThem](https://thatsthem.com )|News, S.E...|Comprehensive search for personal information.|
 
 
 
