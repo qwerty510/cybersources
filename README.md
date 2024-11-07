@@ -1,5 +1,7 @@
 # 🔐 Cybersecurity Tools - Resources - Learning
-- This repostory is where i save and post all the tools and respources of cybersecurity. If you like the content of the repository make sure that you give an star. 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+This repostory is where i save and post all the tools and respources of cybersecurity. If you like the content of the repository make sure that you give an star. 
 
 
 
