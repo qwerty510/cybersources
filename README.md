@@ -39,12 +39,13 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|Email Search|OSINT tool for email search.|
 |[Bellingcat](https://osm-search.bellingcat.com )|GEOINT|Geospatial intelligence and analysis.|
 |[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|GEOINT|Geospatial OSINT tools.|
-|[WolrdEinnwes](https://world.einnews.com )|News, S.E...|News and search engine tools.|
-|[True People Search](https://truepeoplesearch.net )|News, S.E...|Search for people's information.|
-|[Webmii](https://webmii.com )|News, S.E..|Aggregate search for personal information.|
-|[Usa-Oficial](https://usa-official.com)|News, S.E...|Official USA search tools.|
-|[Ussearch](https://ussearch.com  )|News, S.E...|Search for people in the USA.|
-|[ThatsThem](https://thatsthem.com )|News, S.E...|Comprehensive search for personal information.|
+|[WolrdEinnwes](https://world.einnews.com )|News|News and search engine tools.|
+|[True People Search](https://truepeoplesearch.net )|Search Engine|Search for people's information.|
+|[Webmii](https://webmii.com )|NSearch Engine|Aggregate search for personal information.|
+|[Usa-Oficial](https://usa-official.com)|Search Engine|Official USA search tools.|
+|[Ussearch](https://ussearch.com  )|Search Engine|Search for people in the USA.|
+|[ThatsThem](https://thatsthem.com )|Search Engine|Comprehensive search for personal information.|
+|[Shodan Search](https://www.shodan.io)|Search Engine|Search engine for Internet-connected devices.|
 
 
 
@@ -58,6 +59,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
+|[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
 
 
 
