@@ -15,6 +15,20 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 ## 📋 Content 
 - [Tools](#-%EF%B8%8F-tools)
+    - [Utility](#1-utility)
+    - [Miscellaneous](#2-miscellaneous)
+    - [Username Search](#3-username-search)
+    - [Email Search](#4-email-search)
+    - [GEOINT](#5-geoint)
+    - [News](#6-news)
+    - [Search Engines](#7-search-engines)
+    - [DNS](#8-dns)
+    - [Post Explotation](#9-post-explotation)
+    - [Deobfuscators](#10-username-search)
+    - [Decompilers](#11-decompilers)
+    - [Disassembler and debuggers](#12-Disassembler-and-debuggers)
+    - [Web](#13-web)
+    - [Network](#14-network)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -30,13 +44,13 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 ## [↑](#-content) 🛠️ Tools
 
-#### 1. Utility
+#### 1. [↑](#-content) Utility
 |Tools|Description|
 |--|--|
 |[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility for password recovery.|
 |[BrowserLeaks](https://browserleaks.com)|Suite of tools that evaluate the security and privacy of your web browser.|
 
-#### 2. Miscellaneous
+#### 2. [↑](#-content) Miscellaneous
 |Tools|Description|
 |--|--|
 |[osint.rocks](https://osint.rocks)|Search people|
@@ -47,7 +61,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[osint-framework](https://osintframework.com)|Collection of tools.
 |[FaceCheckID](https://facecheck.id)| Powerfull tool that realizes reverse image search.|
 
-#### 3. Username Search
+#### 3. [↑](#-content) Username Search
 |Tools|Description|
 |--|--|
 |[WhatsMyName](https://whatsmyname.app)|Search for usernames across multiple platforms.|
@@ -55,7 +69,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[UserSearch](https://usersearch.org )|Search for users and their online profiles.|
 |[BlackBird](https://blackbird-osint.herokuapp.com)|Comprehensive username search tool.|
 
-#### 4. Email Search
+#### 4. [↑](#-content) Email Search
 |Tools|Description|
 |--|--|
 |[Industries OSINT](https://osint.industries)|Various OSINT tools for email investigation.|
@@ -66,18 +80,18 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[BreachDirectory](https://breachdirectory.org )|Directory of breached emails.|
 |[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|OSINT tool for email search.|
 
-#### 5. GEOINT
+#### 5. [↑](#-content) GEOINT
 |Tools|Description|
 |--|--|
 |[Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
 |[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
 
-#### 6. News
+#### 6. [↑](#-content) News
 |Tools|Description|
 |--|--|
 |[WolrdEinnwes](https://world.einnews.com )|News and search engine tools.|
 
-#### 7. Search Engines
+#### 7. [↑](#-content) Search Engines
 |Tools|Description|
 |--|--|
 |[True People Search](https://truepeoplesearch.net )|Search for people's information.|
@@ -88,12 +102,12 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Shodan Search](https://www.shodan.io)|Search engine for Internet-connected devices.|
 |[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
 
-#### 8. DNS
+#### 8. [↑](#-content) DNS
 |Tools|Description|
 |--|--|
 |[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
 
-#### 9. Post Explotation
+#### 9. [↑](#-content) Post Explotation
 | Tools|Description|
 |--|--|
 |[Empire](https://github.com/EmpireProject/Empire)|A post exploitation framework for powershell and python.|
@@ -101,13 +115,13 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)| A PowerShell post exploitation framework.|
 |[ebowla](https://github.com/Genetic-Malware/Ebowla)|Framework for Making Environmental Keyed Payloads.|
 
-#### 10. Deobfuscators
+#### 10. [↑](#-content) Deobfuscators
 |Tools|Description|
 |--|--|
 |[JS Nice](http://jsnice.org/)|Web service guessing JS variables names and types based on the model derived from open source.|
 |[de4dot](https://github.com/0xd4d/de4dot)|.NET deobfuscator and unpacker.|
 
-#### 11. Decompilers
+#### 11. [↑](#-content) Decompilers
 |Tools|Description|
 |--|--|
 |[uncompyle6](https://github.com/rocky/python-uncompyle6)|Decompiler for the over 20 releases and 20 years of CPython.|
@@ -121,7 +135,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Luyten](https://github.com/deathmarine/Luyten)|One of the best, though a bit slow, hangs on some binaries and not very well maintained.|
 |[cutter](https://github.com/radareorg/cutter)|A decompiler based on radare2.|
 
-#### 12. Disassembler and debuggers
+#### 12. [↑](#-content) Disassembler and debuggers
 |Tools|Description|
 |--|--|
 |[IDA](https://www.hex-rays.com/products/ida/)|IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger|
@@ -132,7 +146,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[ScratchABit](https://github.com/pfalcon/ScratchABit)| Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API|
 |[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
 
-#### 13. Web
+#### 13. [↑](#-content) Web
 |Web|Description|
 |--|--|
 |[SpySe](https://spyse.com/)|Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.|
@@ -144,7 +158,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[SubFinder](https://github.com/subfinder/subfinder)|SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.|
 |[sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|
 
-#### 14. Network
+#### 14. [↑](#-content) Network
 |Tools|Description|
 |--|--|
 |[NetworkMiner](http://www.netresec.com/?page=NetworkMiner)|A Network Forensic Analysis Tool (NFAT)|
