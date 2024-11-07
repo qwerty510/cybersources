@@ -18,7 +18,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 |Tool|Category|Description|
 |--|--|--|
-|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility||
+|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility|Utility for password recovery.|
 |[BrowserLeaks](https://browserleaks.com)|Utility|Suite of tools that evaluate the security and privacy of your web browser.|
 |[osint.rocks](https://osint.rocks)|Miscellaneous |Search people|
 |[Pim Eyes](https://pimeyes.com/en)|Miscellaneous |Face Search Engine Reverse Image Search. |
