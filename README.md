@@ -13,6 +13,12 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## 📋 Content 
+- [🛠️ Cyber Tools](https://github.com/brunoooost/cybersources/edit/main/README.md#%EF%B8%8F-cyber-tools)
+- [🗂️ Resources](https://github.com/brunoooost/cybersources/edit/main/README.md#%EF%B8%8F-resources)
+
+
+
 ## 🛠️ Cyber Tools
 
 
@@ -48,6 +54,9 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[ThatsThem](https://thatsthem.com )|Search Engine|Comprehensive search for personal information.|
 |[Shodan Search](https://www.shodan.io)|Search Engine|Search engine for Internet-connected devices.|
 |[Maltego](https://www.maltego.com)|Search Engine|Tool for link analysis and data visualization.|
+|[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|DNS|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
+
+
 
 
 ## 🗂️ Resources
@@ -61,6 +70,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
 |[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
+|[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 
 
 
@@ -103,7 +113,10 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Codeforces](https://codeforces.com)|Problems Solving|Codeforces is a project joining people interested in and taking part in programming contests.|
 |[DevChallenges](https://devchallenges.io/dashboard)|Challenges|Platform to improve your coding skills through practical projects and build an outstanding portfolio.|
 
-
+## 🎙️ Podcasts
+|Podcasts|Language|Description|
+|--|--|--|
+|[Tierra de Hackers](https://www.tierradehackers.com)|Spanish|Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.|
 
 ## 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
