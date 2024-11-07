@@ -76,4 +76,7 @@
 |[HTB-Academy](https://academy.hackthebox.com)|HTB Academy is cybersecurity learning the HTB way.
 |[HackTheBox](https://hackthebox.com)|Hack The Box is a training platform where you can find matchines and CTFs to practice.
 |[Coursera](https://www.coursera.org)|Plataform where there are open online courses.
+|[TryHackMe](https://tryhackme.com)|TryHackMe goes way beyond textbooks and focuses on fun interactive lessons that make you put theory into practice.
+|[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
+|[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
 </details>
