@@ -121,6 +121,42 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[ScratchABit](https://github.com/pfalcon/ScratchABit)| Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API|
 |[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
 
+|Web|Description|
+|--|--|
+|[SpySe](https://spyse.com/)|Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.|
+|[FindSubdomains](https://findsubdomains.com/)|A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.|
+|[Git-Scanner](https://github.com/HightechSec/git-scanner)|A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public|
+|[Keyscope](https://github.com/SpectralOps/keyscope)|An extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors|
+|[VHostScan](https://github.com/codingo/VHostScan)|A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.|
+|[Shodan](https://www.shodan.io/)|A web-crawling search engine that lets users search for various types of servers connected to the internet.|
+|[SubFinder](https://github.com/subfinder/subfinder)|SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.|
+|[sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|
+
+|Network|Description|
+|--|--|
+|[NetworkMiner](http://www.netresec.com/?page=NetworkMiner)|A Network Forensic Analysis Tool (NFAT)|
+|[Paros](http://sourceforge.net/projects/paros/)|A Java-based HTTP/HTTPS proxy for assessing web application vulnerability.|
+|[pig](https://github.com/rafael-santiago/pig)|A Linux packet crafting tool|
+|[findsubdomains](https://findsubdomains.com)|really fast subdomains scanning service that has much greater opportunities than simple subs finder(works using OSINT).|
+|[cirt-fuzzer](http://www.cirt.dk/)|A simple TCP/UDP protocol fuzzer.|
+|[ASlookup](https://aslookup.com/)|A useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)|
+|[ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)|The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.|
+|[mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j)|Man-in-the-middle SOCKS Proxy for Java|
+|[ssh-mitm](https://github.com/jtesta/ssh-mitm)|An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.|
+|[nmap](https://nmap.org/)|Nmap (Network Mapper) is a security scanner|
+|[Aircrack-ng](http://www.aircrack-ng.org/)| An 802.11 WEP and WPA-PSK keys cracking program||
+|[Nipe](https://github.com/GouveaHeitor/nipe)|A script to make Tor Network your default gateway.|
+|[Habu](https://github.com/portantier/habu)|Python Network Hacking Toolkit|
+|[Wifi Jammer](https://n0where.net/wifijammer/)|Free program to jam all wifi clients in range|
+|[Firesheep](https://codebutler.github.io/firesheep/)|Free program for HTTP session hijacking attacks.|
+|[Scapy](https://github.com/secdev/awesome-scapy)|A Python tool and library for low level packet creation and manipulation|
+|[Amass](https://github.com/OWASP/Amass)|In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping|
+|[sniffglue](https://github.com/kpcyrd/sniffglue)|Secure multithreaded packet sniffer|
+|[Netz](https://github.com/spectralops/netz)|Discover internet-wide misconfigurations, using zgrab2 and others.|
+|[RustScan](https://github.com/rustscan/rustscan)|Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.|
+|[PETEP](https://github.com/Warxim/petep)|Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.|
+
+
 ## [↑](#-content) 🗂️ Resources
 
 |Resource|Description|
