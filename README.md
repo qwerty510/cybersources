@@ -61,6 +61,7 @@
 |Resource|Description|
 |--|--|
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
+|[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
 </details>
 
 <details>
