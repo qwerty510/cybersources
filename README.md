@@ -31,6 +31,9 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [Network](#14--network)
     - [Cryptography](#15--cryptography)
     - [Forensic](#16--forensic)
+    - [Hex editors](#17--hex-editors)
+    - [Execution logging and tracing](#18--execution-logging-and-tracing)
+    - [System](#19--system)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -203,6 +206,34 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
 |[CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
 |[CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
+
+#### 17. [↑](#-content) Hex editors
+|Tools|Description|
+|--|--|
+|[HxD](http://mh-nexus.de/en/hxd/) |A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size|
+|[WinHex](http://www.winhex.com/winhex/) |A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security|
+|[wxHexEditor](https://github.com/EUA/wxHexEditor)||
+|[Synalize It](https://www.synalysis.net/)||
+|[Hexinator](https://hexinator.com/)||
+
+#### 18. [↑](#-content) Execution logging and tracing
+|Tools|Description|
+|--|--|
+|[Wireshark](https://www.wireshark.org/)|A free and open-source packet analyzer
+|[tcpdump](http://www.tcpdump.org/)|A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture.|
+|[mitmproxy](https://github.com/mitmproxy/mitmproxy)| An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.|
+|[Charles Proxy](https://charlesproxy.com) |A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.|
+|[usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)|USB capture for Linux.|
+|[USBPcap](https://github.com/desowin/usbpcap) |USB capture for Windows.|
+|[dynStruct](https://github.com/ampotos/dynStruct) |structures recovery via dynamic instrumentation.|
+|[drltrace](https://github.com/mxmssh/drltrace) |shared library calls tracing.|
+
+#### 19. [↑](#-content) System
+|Tools|Description|
+|--|--|
+|[Metasploit](https://github.com/rapid7/metasploit-framework) |A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.|
+|[mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|
+|[Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) |Tutorial on tools.|
 
 
 ## [↑](#-content) 🗂️ Resources
