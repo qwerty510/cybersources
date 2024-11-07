@@ -1,5 +1,5 @@
 # 🔐 Cybersecurity Tools - Resources - Learning
-- This repostory is where i save and post all the tools and respources of cybersecurity. 
+- This repostory is where i save and post all the tools and respources of cybersecurity. If you have some tool, resource or course that you want to share, contact me. If you like the content of the repository make sure that you give an star. 
 
 <details>
 <summary>🛠️ Cyber Tools</summary>
