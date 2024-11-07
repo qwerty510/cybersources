@@ -93,6 +93,12 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Searchlight-IMINT](https://tryhackme.com/r/room/searchlightosint)|OSINT|OSINT challenges in the imagery intelligence category.|
 |[KafeeSec-SoMeMINT](https://tryhackme.com/r/room/somesint)|OSINT|An intro to SOCMINT (Social Media Intelligence/Investigation) techniques and tooling. Use your awesome OSINT skills to perform an online investigation of a mysterious husband!|
 
+### Practice Webs
+|Web Practice|Category|Description|
+|--|--|--|
+|[Codeforces](https://codeforces.com)|Problems Solving|Codeforces is a project joining people interested in and taking part in programming contests.|
+|[DevChallenges](https://devchallenges.io/dashboard)|Challenges|Platform to improve your coding skills through practical projects and build an outstanding portfolio.|
+
 
 ## 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
