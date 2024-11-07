@@ -31,43 +31,72 @@ This repostory is where i save and post all the tools and respources of cybersec
 ## [↑](#-content) 🛠️ Tools
 
 
+|Utility|Description|
+|--|--|
+|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility for password recovery.|
+|[BrowserLeaks](https://browserleaks.com)|Suite of tools that evaluate the security and privacy of your web browser.|
+
+|Miscellaneous|Description|
+|--|--|
+|[osint.rocks](https://osint.rocks)|Search people|
+|[Pim Eyes](https://pimeyes.com/en)|Face Search Engine Reverse Image Search. |
+|[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Search engines tool.|
+|[Cybdetective](https://cybdetective.com/osintmap)|Worldwide OSINT tools map.|
+|[FaceComparison](https://facecomparison.toolpie.com)|Face comparison tool. |
+|[osint-framework](https://osintframework.com)|Collection of tools.
+|[FaceCheckID](https://facecheck.id)| Powerfull tool that realizes reverse image search.|
+
+|Username Search|Description|
+|--|--|
+|[WhatsMyName](https://whatsmyname.app)|Search for usernames across multiple platforms.|
+|[NameCheck](https://www.namecheckr.com )|Check username availability across platforms.|
+|[UserSearch](https://usersearch.org )|Search for users and their online profiles.|
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Comprehensive username search tool.|
+
+|Email Search|Description|
+|--|--|
+|[Industries OSINT](https://osint.industries)|Various OSINT tools for email investigation.|
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Comprehensive email search tool.|
+|[Epieos](https://epieos.com)|Investigate email addresses.|
+|[ScanIdentity](https://scan.identityguard.com/full)|Identity scanning and verification tool.|
+|[LeakPeak](https://leakpeek.com )|Check if email addresses have been leaked.|
+|[BreachDirectory](https://breachdirectory.org )|Directory of breached emails.|
+|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|OSINT tool for email search.|
+
+|GEOINT|Description|
+|--|--|
+|[Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
+|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
+
+|News|Description|
+|--|--|
+|[WolrdEinnwes](https://world.einnews.com )|News and search engine tools.|
+
+|Search Engines|Description|
+|--|--|
+|[True People Search](https://truepeoplesearch.net )|Search for people's information.|
+|[Webmii](https://webmii.com )|Aggregate search for personal information.|
+|[Usa-Oficial](https://usa-official.com)|Official USA search tools.|
+|[Ussearch](https://ussearch.com  )|Search for people in the USA.|
+|[ThatsThem](https://thatsthem.com )|Comprehensive search for personal information.|
+|[Shodan Search](https://www.shodan.io)|Search engine for Internet-connected devices.|
+|[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
+
+|DNS|Description|
+|--|--|
+|[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
+
+| Post Explotation |Description|
+|--|--|
+|[Empire](https://github.com/EmpireProject/Empire)|A post exploitation framework for powershell and python.|
+|[Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)|A post exploitation tool that uses iron python to get past powershell restrictions.|
+|[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)| A PowerShell post exploitation framework.|
+|[ebowla](https://github.com/Genetic-Malware/Ebowla)|Framework for Making Environmental Keyed Payloads.|
+
 |Tool|Category|Description|
 |--|--|--|
-|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility|Utility for password recovery.|
-|[BrowserLeaks](https://browserleaks.com)|Utility|Suite of tools that evaluate the security and privacy of your web browser.|
-|[osint.rocks](https://osint.rocks)|Miscellaneous |Search people|
-|[Pim Eyes](https://pimeyes.com/en)|Miscellaneous |Face Search Engine Reverse Image Search. |
-|[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Miscellaneous |Search engines tool.|
-|[Cybdetective](https://cybdetective.com/osintmap)|Miscellaneous |Worldwide OSINT tools map.|
-|[FaceComparison](https://facecomparison.toolpie.com)|Miscellaneous|Face comparison tool. |
-|[osint-framework](https://osintframework.com)|Miscellaneous|Collection of tools.
-|[FaceCheckID](https://facecheck.id)|Miscellaneous| Powerfull tool that realizes reverse image search.|
-|[WhatsMyName](https://whatsmyname.app)|Username Search|Search for usernames across multiple platforms.|
-|[NameCheck](https://www.namecheckr.com )|Username Search|Check username availability across platforms.|
-|[UserSearch](https://usersearch.org )|Username Search|Search for users and their online profiles.|
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Username Search|Comprehensive username search tool.|
-|[Industries OSINT](https://osint.industries)|Email Search|Various OSINT tools for email investigation.|
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Email Search|Comprehensive email search tool.|
-|[Epieos](https://epieos.com)|Email Search|Investigate email addresses.|
-|[ScanIdentity](https://scan.identityguard.com/full)|Email Search|Identity scanning and verification tool.|
-|[LeakPeak](https://leakpeek.com )|Email Search|Check if email addresses have been leaked.|
-|[BreachDirectory](https://breachdirectory.org )|Email Search|Directory of breached emails.|
-|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|Email Search|OSINT tool for email search.|
-|[Bellingcat](https://osm-search.bellingcat.com )|GEOINT|Geospatial intelligence and analysis.|
-|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|GEOINT|Geospatial OSINT tools.|
-|[WolrdEinnwes](https://world.einnews.com )|News|News and search engine tools.|
-|[True People Search](https://truepeoplesearch.net )|Search Engine|Search for people's information.|
-|[Webmii](https://webmii.com )|NSearch Engine|Aggregate search for personal information.|
-|[Usa-Oficial](https://usa-official.com)|Search Engine|Official USA search tools.|
-|[Ussearch](https://ussearch.com  )|Search Engine|Search for people in the USA.|
-|[ThatsThem](https://thatsthem.com )|Search Engine|Comprehensive search for personal information.|
-|[Shodan Search](https://www.shodan.io)|Search Engine|Search engine for Internet-connected devices.|
-|[Maltego](https://www.maltego.com)|Search Engine|Tool for link analysis and data visualization.|
-|[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|DNS|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
-|[Empire](https://github.com/EmpireProject/Empire)|Post Explotation|A post exploitation framework for powershell and python.|
-|[Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)|Post Explotation|A post exploitation tool that uses iron python to get past powershell restrictions.|
-|[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)|Post Explotation| A PowerShell post exploitation framework.|
-|[ebowla](https://github.com/Genetic-Malware/Ebowla)|Post Explotation|Framework for Making Environmental Keyed Payloads.|
+|[JS Nice](http://jsnice.org/)|Deobfuscators|Web service guessing JS variables names and types based on the model derived from open source.|
+|[de4dot](https://github.com/0xd4d/de4dot)|Deobfuscators|.NET deobfuscator and unpacker.|
 
 
 ## [↑](#-content) 🗂️ Resources
