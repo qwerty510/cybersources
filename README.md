@@ -1,9 +1,13 @@
 # 🔐 Cybersecurity Tools - Resources - Learning
-- This repostory is where i save and post all the tools and respources of cybersecurity. If you have some tool, resource or course that you want to share, contact me. If you like the content of the repository make sure that you give an star. 
+- This repostory is where i save and post all the tools and respources of cybersecurity. If you like the content of the repository make sure that you give an star. 
+
+
+
+## 🛠️ Cyber Tools
 
 <details>
-<summary>🛠️ Cyber Tools</summary>
-
+<summary>🗂️ Miscellaneous</summary>
+  
 ### 🗂️ Miscellaneous  
 
 |Tool|Description|
@@ -14,8 +18,11 @@
 |[Cybdetective](https://cybdetective.com/osintmap)| Worldwide OSINT tools map.|
 |[FaceComparison](https://facecomparison.toolpie.com)| Face comparison tool. |
 |[osint-framework](https://osintframework.com)|Collection of tools.
+</details>
 
-
+<details>
+<summary>👤 Username Search</summary>
+  
 ### 👤 Username Search
 |Number|Tool|
 |--|--|
@@ -23,7 +30,11 @@
 |2|[NameCheck](https://www.namecheckr.com )|
 |3|[UserSearch](https://usersearch.org )|
 |4|[BlackBird](https://blackbird-osint.herokuapp.com)|
+</details>
 
+<details>
+<summary>🔗 Email Search</summary>
+  
 ### 🔗 Email Search
 |Number|Tool|
 |--|--|
@@ -34,13 +45,21 @@
 |5|[LeakPeak](https://leakpeek.com )|
 |6|[BreachDirectory](https://breachdirectory.org )|
 |7|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|
+</details>
 
-### 📍 GEOINT
-|Number|Tool|
-|--|--|
-|1|[Bellingcat](https://osm-search.bellingcat.com )
-|2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
+  <details>
+  <summary>📍 GEOINT</summary>
+  
+  ### 📍 GEOINT
+  |Number|Tool|
+  |--|--|
+  |1|[Bellingcat](https://osm-search.bellingcat.com )
+  |2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
+  </details>
 
+<details>
+<summary>📰 News, Search Engines...</summary>
+  
 ### 📰 News, Search Engines...
 |Number|Tool|
 |--|--|
@@ -52,9 +71,8 @@
 |6|[ThatsThem](https://thatsthem.com )|
 </details>
 
-<details>
-  
-<summary>🗂️ Resources</summary>
+
+
 
 ## 🗂️ Resources
 
@@ -62,11 +80,10 @@
 |--|--|
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
 |[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
-</details>
 
-<details>
-  
-<summary>📖 Learning</summary>
+
+
+
 
 ## 📖 Learning
   
@@ -80,4 +97,7 @@
 |[TryHackMe](https://tryhackme.com)|TryHackMe goes way beyond textbooks and focuses on fun interactive lessons that make you put theory into practice.
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
 |[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
-</details>
+
+## 💬 Colaborate 
+- If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
+
