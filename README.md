@@ -5,6 +5,21 @@
 
 ## 🛠️ Cyber Tools
 
+- Some tools or utility for cybersecurity or program.
+<details>
+<summary>🔢 Hashcat tools</summary>
+  
+## 🔢 Hashcat tools
+|Tool|Description|
+|--|--|
+|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)||
+
+</details>
+
+<details>
+<summary>🕵️‍♂️ Osint Tools</summary>
+
+## 🕵️‍♂️ Osint tools
 <details>
 <summary>🗂️ Miscellaneous</summary>
   
@@ -50,12 +65,12 @@
   <details>
   <summary>📍 GEOINT</summary>
   
-  ### 📍 GEOINT
-  |Number|Tool|
-  |--|--|
-  |1|[Bellingcat](https://osm-search.bellingcat.com )
-  |2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
-  </details>
+### 📍 GEOINT
+|Number|Tool|
+|--|--|
+|1|[Bellingcat](https://osm-search.bellingcat.com )
+|2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
+</details>
 
 <details>
 <summary>📰 News, Search Engines...</summary>
@@ -74,13 +89,18 @@
 
 
 
+</details>
+
+
+
 ## 🗂️ Resources
 
 |Resource|Description|
 |--|--|
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
 |[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
-
+|[DuckyScript™ Quick Reference](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)| DuckyScript™ is the programming language of the USB Rubber Ducky™, Hak5® hotplug attack gear and officially licensed devices. The quick reference to start programming with ducky.
+|[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| 
 
 
 
