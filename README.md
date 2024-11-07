@@ -46,7 +46,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Ussearch](https://ussearch.com  )|Search Engine|Search for people in the USA.|
 |[ThatsThem](https://thatsthem.com )|Search Engine|Comprehensive search for personal information.|
 |[Shodan Search](https://www.shodan.io)|Search Engine|Search engine for Internet-connected devices.|
-
+|[Maltego](https://www.maltego.com)|Search Engine|Tool for link analysis and data visualization.|
 
 
 ## 🗂️ Resources
@@ -59,7 +59,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
-|[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
+
 
 
 
