@@ -19,6 +19,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |Tool|Category|Description|
 |--|--|--|
 |[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility||
+|[BrowserLeaks](https://browserleaks.com)|Utility|Suite of tools that evaluate the security and privacy of your web browser.|
 |[osint.rocks](https://osint.rocks)|Miscellaneous |Search people|
 |[Pim Eyes](https://pimeyes.com/en)|Miscellaneous |Face Search Engine Reverse Image Search. |
 |[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Miscellaneous |Search engines tool.|
@@ -26,7 +27,6 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[FaceComparison](https://facecomparison.toolpie.com)|Miscellaneous|Face comparison tool. |
 |[osint-framework](https://osintframework.com)|Miscellaneous|Collection of tools.
 |[FaceCheckID](https://facecheck.id)|Miscellaneous| Powerfull tool that realizes reverse image search.|
-|[BrowserLeaks](https://browserleaks.com)|Miscellaneous|Suite of tools that offers a range of tests to evaluate the security and privacy of your web browser.|
 |[WhatsMyName](https://whatsmyname.app)|Username Search|Search for usernames across multiple platforms.|
 |[NameCheck](https://www.namecheckr.com )|Username Search|Check username availability across platforms.|
 |[UserSearch](https://usersearch.org )|Username Search|Search for users and their online profiles.|
