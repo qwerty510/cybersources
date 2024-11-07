@@ -123,7 +123,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
 |[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
 
-### CTFs
+### CTFs - Training
 |CTFs|Category|Description|
 |--|--|--|
 |[Kase Scenarios](https://kasescenarios.com)|OSINT|Imagine diving headfirst into captivating OSINT scenarios that mirror real-world investigations. You must apply OSINT techniques to solve intricate cases and mysteries.
