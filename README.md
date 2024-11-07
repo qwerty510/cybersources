@@ -16,80 +16,35 @@ This repostory is where i save and post all the tools and respources of cybersec
 ## 🛠️ Cyber Tools
 
 
-<details>
-<summary>🔢 Hashcat tools</summary>
-  
-## 🔢 Hashcat tools
-|Tool|Description|
-|--|--|
-|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)||
-
-</details>
-
-<details>
-<summary>🕵️‍♂️ Osint Tools</summary>
-
-## 🕵️‍♂️ Osint tools
-
-  
-### 🗂️ Miscellaneous  
-
-|Tool|Description|
-|--|--|
-|[osint.rocks](https://osint.rocks)|Search people|
-|[Pim Eyes](https://pimeyes.com/en)|Face Search Engine Reverse Image Search. |
-|[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Search engines tool.|
-|[Cybdetective](https://cybdetective.com/osintmap)| Worldwide OSINT tools map.|
-|[FaceComparison](https://facecomparison.toolpie.com)| Face comparison tool. |
-|[osint-framework](https://osintframework.com)|Collection of tools.
-|[FaceCheckID](https://facecheck.id)| Powerfull tool that realizes reverse image search.|
-
-
-
-
-  
-### 👤 Username Search
-|Number|Tool|
-|--|--|
-|1|[WhatsMyName](https://whatsmyname.app)|
-|2|[NameCheck](https://www.namecheckr.com )|
-|3|[UserSearch](https://usersearch.org )|
-|4|[BlackBird](https://blackbird-osint.herokuapp.com)|
-
-
-  
-### 🔗 Email Search
-|Number|Tool|
-|--|--|
-|1|[Industries OSINT](https://osint.industries)|
-|2|[BlackBird](https://blackbird-osint.herokuapp.com)|
-|3|[Epieos](https://epieos.com )
-|4|[ScanIdentity](https://scan.identityguard.com/full   )|
-|5|[LeakPeak](https://leakpeek.com )|
-|6|[BreachDirectory](https://breachdirectory.org )|
-|7|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|
-
-### 📍 GEOINT
-|Number|Tool|
-|--|--|
-|1|[Bellingcat](https://osm-search.bellingcat.com )
-|2|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|
-
-### 📰 News, Search Engines...
-|Number|Tool|
-|--|--|
-|1|[WolrdEinnwes](https://world.einnews.com )|
-|2|[True People Search](https://truepeoplesearch.net )|
-|3|[Webmii](https://webmii.com )|
-|4|[Usa-Oficial](https://usa-official.com)|
-|5|[Ussearch](https://ussearch.com  )|
-|6|[ThatsThem](https://thatsthem.com )|
-
-
-
-
-
-</details>
+|Tool|Category|Description|
+|--|--|--|
+|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility||
+|[osint.rocks](https://osint.rocks)|Miscellaneous |Search people|
+|[Pim Eyes](https://pimeyes.com/en)|Miscellaneous |Face Search Engine Reverse Image Search. |
+|[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Miscellaneous |Search engines tool.|
+|[Cybdetective](https://cybdetective.com/osintmap)|Miscellaneous |Worldwide OSINT tools map.|
+|[FaceComparison](https://facecomparison.toolpie.com)|Miscellaneous|Face comparison tool. |
+|[osint-framework](https://osintframework.com)|Miscellaneous|Collection of tools.
+|[FaceCheckID](https://facecheck.id)|Miscellaneous| Powerfull tool that realizes reverse image search.|
+|[WhatsMyName](https://whatsmyname.app)|Username Search||
+|[NameCheck](https://www.namecheckr.com )|Username Search||
+|[UserSearch](https://usersearch.org )|Username Search||
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Username Search||
+|[Industries OSINT](https://osint.industries)|Email Search||
+|[BlackBird](https://blackbird-osint.herokuapp.com)|Email Search||
+|[Epieos](https://epieos.com)|Email Search||
+|[ScanIdentity](https://scan.identityguard.com/full)|Email Search||
+|[LeakPeak](https://leakpeek.com )|Email Search||
+|[BreachDirectory](https://breachdirectory.org )|Email Search||
+|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|Email Search||
+|[Bellingcat](https://osm-search.bellingcat.com )|GEOINT||
+|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|GEOINT||
+|[WolrdEinnwes](https://world.einnews.com )|News, Search Engines...||
+|[True People Search](https://truepeoplesearch.net )|News, Search Engines...||
+|[Webmii](https://webmii.com )|News, Search Engines...||
+|[Usa-Oficial](https://usa-official.com)|News, Search Engines...||
+|[Ussearch](https://ussearch.com  )|News, Search Engines...||
+|[ThatsThem](https://thatsthem.com )|News, Search Engines...||
 
 
 
@@ -100,7 +55,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
 |[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
 |[DuckyScript™ Quick Reference](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)| DuckyScript™ is the programming language of the USB Rubber Ducky™, Hak5® hotplug attack gear and officially licensed devices. The quick reference to start programming with ducky.
-|[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| 
+|[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
 
