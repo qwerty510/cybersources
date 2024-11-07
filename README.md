@@ -60,6 +60,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
+|[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
 
 
 
