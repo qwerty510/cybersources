@@ -29,6 +29,8 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [Disassembler and debuggers](#12--Disassembler-and-debuggers)
     - [Web](#13--web)
     - [Network](#14--network)
+    - [Cryptography](#15--cryptography)
+    - [Forensic](#16--forensic)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -182,6 +184,25 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Netz](https://github.com/spectralops/netz)|Discover internet-wide misconfigurations, using zgrab2 and others.|
 |[RustScan](https://github.com/rustscan/rustscan)|Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.|
 |[PETEP](https://github.com/Warxim/petep)|Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.|
+
+#### 15. [↑](#-content) Cryptography
+|Tools|Description|
+|--|--|
+|[xortool](https://github.com/hellman/xortool)| A tool to analyze multi-byte XOR cipher|
+|[John the Ripper](http://www.openwall.com/john/) |A fast password cracker|
+|[Aircrack](http://www.aircrack-ng.org/) |Aircrack is 802.11 WEP and WPA-PSK keys cracking program.|
+|[Ciphey](https://github.com/ciphey/ciphey)| Automated decryption tool using artificial intelligence & natural language processing.|
+
+#### 16. [↑](#-content) Forensic
+|Tools|Description|
+|--|--|
+|[Autopsy](http://www.sleuthkit.org/autopsy/)|A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools|
+|[sleuthkit](https://github.com/sleuthkit/sleuthkit)|A library and collection of command-line digital forensics tools|
+|[EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) |The shared technology within a suite of digital investigations products by Guidance Software|
+|[malzilla](http://malzilla.sourceforge.net/) |Malware hunting tool|
+|[IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
+|[CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
+|[CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
 
 
 ## [↑](#-content) 🗂️ Resources
