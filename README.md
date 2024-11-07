@@ -15,7 +15,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 ## 🛠️ Cyber Tools
 
-- Some tools or utility for cybersecurity or program.
+
 <details>
 <summary>🔢 Hashcat tools</summary>
   
