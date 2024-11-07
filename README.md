@@ -46,6 +46,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 
+
   
 ### 👤 Username Search
 |Number|Tool|
@@ -100,6 +101,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
 |[DuckyScript™ Quick Reference](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)| DuckyScript™ is the programming language of the USB Rubber Ducky™, Hak5® hotplug attack gear and officially licensed devices. The quick reference to start programming with ducky.
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| 
+|[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 
 
 
