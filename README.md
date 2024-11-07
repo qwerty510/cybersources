@@ -37,6 +37,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
+  - [Tutorials](#--tutorials)
   -  [CTFs - Training](#--ctfs---training)
   -  [Practice Webs](#-%EF%B8%8F-practice-webs)
 -  [Podcasts](#-%EF%B8%8F-podcasts)
@@ -276,6 +277,19 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Udemy](https://www.udemy.com)| Affordable courses with video lectures, quizzes, and practice exams for various certifications.|
 |[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
+
+### [↑](#-content) 🎥 Tutorials
+|Tutorials|
+|--|
+|[Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)|
+|[Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)|
+|[Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)|
+|[Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)|
+|[Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)|
+|[Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)|
+|[Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)|
+|[Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)|
+|[Lena151: Reversing With Lena](https://archive.org/details/lena151)|
 
 ### [↑](#-content) 🚩 CTFs - Training
 |CTFs|Category|Description|
