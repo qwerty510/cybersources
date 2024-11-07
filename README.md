@@ -79,7 +79,10 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Coursera](https://www.coursera.org)|Plataform where there are open online courses.
 |[TryHackMe](https://tryhackme.com)|TryHackMe goes way beyond textbooks and focuses on fun interactive lessons that make you put theory into practice.
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
-|[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
+|[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.|
+|[Cybrary](https://www.cybrary.it)|Offers free and paid courses with hands-on labs for certificatitions like  Security+, CISSP and CEH.|
+|[Udemy](https://www.udemy.com)| Affordable courses with video lectures, quizzes, and practice exams for various certifications.|
+|[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
 
 ### 🚩 CTFs - Training
 |CTFs|Category|Description|
