@@ -93,11 +93,33 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)| A PowerShell post exploitation framework.|
 |[ebowla](https://github.com/Genetic-Malware/Ebowla)|Framework for Making Environmental Keyed Payloads.|
 
-|Tool|Category|Description|
-|--|--|--|
-|[JS Nice](http://jsnice.org/)|Deobfuscators|Web service guessing JS variables names and types based on the model derived from open source.|
-|[de4dot](https://github.com/0xd4d/de4dot)|Deobfuscators|.NET deobfuscator and unpacker.|
+|Deobfuscators|Description|
+|--|--|
+|[JS Nice](http://jsnice.org/)|Web service guessing JS variables names and types based on the model derived from open source.|
+|[de4dot](https://github.com/0xd4d/de4dot)|.NET deobfuscator and unpacker.|
 
+|Decompilers|Description|
+|--|--|
+|[uncompyle6](https://github.com/rocky/python-uncompyle6)|Decompiler for the over 20 releases and 20 years of CPython.|
+|[Hopper](https://www.hopperapp.com/)|A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.|
+|[Karkatau](https://github.com/Storyyeller/Krakatau)|The best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.|
+|[dnSpy](https://github.com/0xd4d/dnSpy)|.NET assembly editor, decompiler, and debugger|
+|[ILSpy](https://github.com/icsharpcode/ILSpy/)|An open-source .NET assembly browser and decompiler|
+|[DotPeek](https://www.jetbrains.com/decompiler/)|A free-of-charge .NET decompiler from JetBrains|
+|[JADX](https://github.com/skylot/jadx)|Decompiler for Android apps. Not related to JAD.|
+|[JAD](http://varaneckas.com/jad/)|JAD Java Decompiler (closed-source, unmaintained)|
+|[Luyten](https://github.com/deathmarine/Luyten)|One of the best, though a bit slow, hangs on some binaries and not very well maintained.|
+|[cutter](https://github.com/radareorg/cutter)|A decompiler based on radare2.|
+
+|Disassembler and debuggers|Description|
+|--|--|
+|[IDA](https://www.hex-rays.com/products/ida/)|IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger|
+|[Olly](http://www.ollydbg.de/)| A 32-bit assembler level analysing debugger for Windows|
+|[plasma](https://github.com/joelpx/plasma)|Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.|
+|[radare2](https://github.com/radare/radare2)|A portable reversing framework|
+|[x64dbg](https://github.com/x64dbg/x64dbg)|An open-source x64/x32 debugger for Windows|
+|[ScratchABit](https://github.com/pfalcon/ScratchABit)| Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API|
+|[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
 
 ## [↑](#-content) 🗂️ Resources
 
