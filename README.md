@@ -68,7 +68,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 ## 📖 Learning
 
 
-### Courses
+### 📚 Courses
 
 |Courses|Description|
 |--|--|
@@ -81,7 +81,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
 |[Security Blue Team](https://elearning.securityblue.team/login)| Plataform to learn with courses orientated to the blue team.
 
-### CTFs - Training
+### 🚩 CTFs - Training
 |CTFs|Category|Description|
 |--|--|--|
 |[Kase Scenarios](https://kasescenarios.com)|OSINT|Imagine diving headfirst into captivating OSINT scenarios that mirror real-world investigations. You must apply OSINT techniques to solve intricate cases and mysteries.
@@ -93,7 +93,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Searchlight-IMINT](https://tryhackme.com/r/room/searchlightosint)|OSINT|OSINT challenges in the imagery intelligence category.|
 |[KafeeSec-SoMeMINT](https://tryhackme.com/r/room/somesint)|OSINT|An intro to SOCMINT (Social Media Intelligence/Investigation) techniques and tooling. Use your awesome OSINT skills to perform an online investigation of a mysterious husband!|
 
-### Practice Webs
+### 🕸️ Practice Webs
 |Web Practice|Category|Description|
 |--|--|--|
 |[Codeforces](https://codeforces.com)|Problems Solving|Codeforces is a project joining people interested in and taking part in programming contests.|
