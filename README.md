@@ -170,5 +170,28 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [War for the Web](https://www.imdb.com/title/tt2390367/)                                   | Documentary               | 2015 | 7.4/10 |
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
 
+## [↑](#-content) 🖥️ TV Shows
+
+| Title                                                                                      | Genere                     | Year | Rating |
+|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
+| [Black Mirror](https://www.imdb.com/title/tt2085059/)                                      | Drama - Science Fiction     | 2011 | 8.9/10 |
+| [CSI: Cyber](https://www.imdb.com/title/tt3560060/)                                        | Drama - Crime - Mystery       | 2015 | 5.4/10 |
+| [Dark Net](https://www.imdb.com/title/tt5397520/)                                          | Documentary - Series        | 2016 | 7.3/10 |
+| [Devs](https://www.imdb.com/title/tt8134186/)                                              | Drama - Mystery - Sci-Fi      | 2020 | 7.9/10 |
+| [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)                               | Drama                     | 2014 | 8.3/10 |
+| [Mr. Robot](https://www.imdb.com/title/tt4158110/)                                         | Thriller - Drama            | 2015 | 8.7/10 |
+| [Person of Interest](https://www.imdb.com/title/tt1839578/)                                | Action - Crime - Drama        | 2011 | 8.5/10 |
+| [Scorpion](https://www.imdb.com/title/tt3514324/)                                          | Action - Drama              | 2014 | 7.2/10 |
+| [Serial Experiments Lain](https://www.imdb.com/title/tt0500092/)                           | Cyberpunk - Animation       | 1998 | 8.2/10 |
+| [Silicon Valley](https://www.imdb.com/title/tt2575988/)                                    | Comedy                    | 2014 | 8.5/10 |
+| [StartUp](https://www.imdb.com/title/tt5028002/)                                           | Thriller - Crime            | 2016 | 8.1/10 |
+| [The Code](https://www.imdb.com/title/tt3914672/)                                          | Drama                     | 2014 | 7.6/10 |
+| [The IT Crowd](https://www.imdb.com/title/tt0487831/)                                      | Comedy                    | 2006 | 8.6/10 |
+| [Travelers](https://www.imdb.com/title/tt5651844/)                                         | Science Fiction           | 2016 | 8.0/10 |
+| [Valley of the Boom](https://www.imdb.com/title/tt7768092/)                                | Documentary - Drama         | 2019 | 6.5/10 |
+| [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama - Mystery             | 2016 | 9.0/10 |
+| [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller - Drama            | 2017 | 6.1/10 |
+
+
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
