@@ -40,6 +40,8 @@ This repostory is where i save and post all the tools and respources of cybersec
       - [TikTok](#203---tiktok)
       - [OnlyFans](#204---onlyfans)
       - [Discord](#205---discord)
+      - [Twitch](#206---twitch)
+      - [Tinder](#207---tinder)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -376,6 +378,45 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord. | 
 | [Discord History Tracker](https://dht.chylex.com/) | A tool for tracking and saving chat histories in Discord. |
 
+
+#### 20.6  [↑](#-content) Twitch
+| Tools | Description |
+|-------|-------------|
+[Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) | Tool for viewing follower lists on Twitch. | 
+| [Twitch Tracker](https://twitchtracker.com/) | Tool for tracking Twitch statistics and analytics. | 
+| [Sully Gnome](https://sullygnome.com/) | Tool for analyzing Twitch stream statistics. | 
+| [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Tool for filtering and previewing Twitch streams. | 
+| [Untwitch.com](https://untwitch.com/) | Tool for downloading Twitch videos. | 
+| [Twitch Overlap](https://stats.roki.sh/) | Tool for analyzing viewer overlap between Twitch streamers. | 
+| [Justlog](https://logs.ivr.fi/) | Tool for viewing Twitch chat logs. | 
+|[Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) | Tool for recovering deleted Twitch videos. | 
+| [Twitch Database](https://www.twitchdatabase.com/following) | Database for tracking Twitch followings. | 
+| [Twitch Insights](https://twitchinsights.net/) | Tool for analyzing Twitch trends and statistics. | 
+| [Twitch Followage Tool](https://streamscharts.com/tools/followage) | Tool for checking how long users have been following a Twitch channel.
+
+
+#### 20.7  [↑](#-content) Tinder
+| Tools | Description |
+|-------|-------------|
+| [Badoo](https://badoo.com) | Social discovery and dating app. | 
+| [Bumble](https://bumble.com) | Dating app where women make the first move. | 
+| [Coffee Meets Bagel](https://coffeemeetsbagel.com) | Dating app that curates matches for users. | 
+| [eHarmony](https://www.eharmony.com) | Dating site focused on long-term relationships. | 
+| [Grindr](https://www.grindr.com) | Social networking app for gay, bi, trans, and queer people. | 
+| [happn](https://www.happn.com) | Dating app that shows users people they've crossed paths with. | 
+| [HER](https://weareher.com) | Dating and social app for LGBTQ+ women and non-binary people. | 
+| [Heybaby](https://www.heybaby.com) | Dating app for single parents and those open to dating them. | 
+| [Hinge](https://hinge.co) | Dating app designed to be deleted. | 
+| [The Inner Circle](https://theinnercircle.co) | Exclusive dating app for ambitious professionals. | 
+| [The League](https://www.theleague.com) | Dating app for professionals. | 
+| [Match.com](https://www.match.com) | One of the largest dating sites. | 
+| [MeetMe](https://www.meetme.com) | Social discovery app for meeting new people. | 
+| [OkCupid](https://www.okcupid.com) | Dating app with a detailed questionnaire for matching. | 
+| [Plenty of Fish](https://pof.com) | Dating site with a large user base. | 
+| [Scruff](https://www.scruff.com) | Social app for gay, bi, trans, and queer people. | 
+| [Tastebuds](https://tastebuds.fm) | Dating app that matches people based on music taste. | 
+| [Tinder](https://tinder.com) | Popular dating app for meeting new people. | 
+| [zoosk](https://www.zoosk.com) | Dating site with a behavioral matchmaking algorithm. |
 
 ## [↑](#-content) 🗂️ Resources
 
