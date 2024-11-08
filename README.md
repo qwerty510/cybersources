@@ -34,6 +34,7 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [Hex editors](#17--hex-editors)
     - [Execution logging and tracing](#18--execution-logging-and-tracing)
     - [System](#19--system)
+    - [Instagram](#20--instagram)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -55,6 +56,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |--|--|
 |[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility for password recovery.|
 |[BrowserLeaks](https://browserleaks.com)|Suite of tools that evaluate the security and privacy of your web browser.|
+|[Have I been Pwned](https://haveibeenpwned.com/)|It allows you to check if an email address has been compromised in previous data breaches.|
 
 #### 2. [↑](#-content) Miscellaneous
 |Tools|Description|
@@ -107,6 +109,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[ThatsThem](https://thatsthem.com )|Comprehensive search for personal information.|
 |[Shodan Search](https://www.shodan.io)|Search engine for Internet-connected devices.|
 |[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
+|[Spiderfoot](https://github.com/smicallef/spiderfoot)|An OSINT automation tool.|
 
 #### 8. [↑](#-content) DNS
 |Tools|Description|
@@ -155,6 +158,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 #### 13. [↑](#-content) Web
 |Web|Description|
 |--|--|
+|[recon-ng](https://github.com/lanmaster53/recon-ng)|A web reconnaissance framework.|
 |[SpySe](https://spyse.com/)|Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.|
 |[FindSubdomains](https://findsubdomains.com/)|A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.|
 |[Git-Scanner](https://github.com/HightechSec/git-scanner)|A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public|
@@ -235,6 +239,67 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Metasploit](https://github.com/rapid7/metasploit-framework) |A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.|
 |[mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|
 |[Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) |Tutorial on tools.|
+
+
+
+#### 20. [↑](#-content) Instagram 
+
+| Tools | Description |
+|-------|-------------|
+| [Aware Online: Instagram Search Tool](https://www.aware-online.com/osint-tools/instagram-search-tool) | Instagram Search Tool |
+| [Combin](https://www.combin.com) | Instagram marketing tool for managing and growing your account. |
+| [Comment Picker](https://commentpicker.com) | Tool for selecting random winners from comments. |
+| [Display Purposes](https://displaypurposes.com) | Tool for finding hashtags related to your content. |
+| [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) | Chrome extension for downloading photos and videos from Instagram. |
+| [Engagement-calculator](https://phlanx.com/engagement-calculator) | Tool for calculating engagement rates on Instagram. |
+| [Export Comments](https://exportcomments.com) | Tool for exporting Instagram comments. |
+| [Find-instagram-user-id](https://codeofaninja.com/tools/find-instagram-user-id) | Tool to find Instagram user IDs. |
+| [Gramfind](http://gramfind.com) | Tool for finding Instagram profiles and posts. |
+| [Hashtagify](http://hashtagify.me) | Tool for finding and analyzing hashtags. |
+| [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for Instagram. |
+| [Helper Tools for Instagram](https://chrome.google.com/webstore/detail/helper-tools-forinstagra/hcdbfckhdcpepllecbkaaojfgipnpbpb) | Chrome extension to enhance Instagram functionalities. |
+| [HypeAuditor](https://hypeauditor.com) | Tool for analyzing the authenticity of influencers and their engagement. |
+| [Iconosquare](http://iconosquare.com) | Tool for managing and analyzing Instagram accounts. |
+| [IGSuperStar](https://igsuperstar.com) | Tool for finding Instagram influencers. |
+| [Imgbunk](https://imgbunk.com) | Tool for searching and downloading Instagram photos. |
+| [ImgInn](https://imginn.com) | Tool for viewing and downloading Instagram stories anonymously. |
+| [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags) | Tool for finding the best tags for your Instagram posts. |
+| [INSSIST](https://chrome.google.com/webstore/detail/inssist-post-stories-dmw/bcocdbombenodlegijagbhdjbifpiijp) | Chrome extension for posting photos and stories on Instagram from desktop. |
+| [InstaFollowers](https://www.instafollowers.co) | Tool for gaining followers and engagement on Instagram. |
+| [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler) | Tool for scraping Instagram data. |
+| [Instagram Explorer](https://www.osintcombine.com/instagram-explorer) | Tool for exploring Instagram profiles and posts. |
+| [Instagram OSINT](https://github.com/sc1341/InstagramOSINT) | Open-source intelligence tool for Instagram. |
+| [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper) | Tool for scraping Instagram posts and profiles. |
+| [Instagram Search Tool (Aware Online)](http://www.aware-online.com/en/osint-tools/instagram-search-tool) | Tool for searching Instagram profiles and posts. |
+| [InstaLoader](https://github.com/instaloader/instaloader) | Tool for downloading Instagram photos, videos, and metadata. |
+| [instaloctrack](https://github.com/bernsteining/instaloctrack) | Tool for tracking Instagram locations. |
+| [InstaLooter](https://github.com/althonos/InstaLooter) | Tool for downloading photos and videos from Instagram profiles. |
+| [Izuum](http://izuum.com) | Instagram search engine. |
+| [Keyhole](http://keyhole.co) | Tool for tracking and analyzing social media campaigns. |
+| [Leetags](https://www.leetags.com) | Tool for finding the best hashtags for Instagram posts. |
+| [MetaHashtags](https://metahashtags.com) | Tool for generating and analyzing hashtags. |
+| [Minter.io](https://minter.io) | Tool for Instagram analytics and reporting. |
+| [noninstagram](https://github.com/datvance/noinstagram) | Tool for Instagram data analysis. |
+| [Osi.ig](https://github.com/th3unkn0n/osi.ig) | Tool for Instagram OSINT. |
+| [Osintgram](https://github.com/Datalux/Osintgram) | OSINT tool for analyzing Instagram profiles and posts. |
+| [Otzberg.net](https://www.otzberg.net/iguserid/index.php) | Tool for finding Instagram user IDs. |
+| [Panoramiq](https://apps.hootsuite.com/apps/panoramiq) | Tool for scheduling and managing Instagram posts. |
+| [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for social media platforms. |
+| [Phlanx: Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) | Tool for calculating Instagram engagement rates. |
+| [Picker](https://commentpicker.com) | Tool for selecting random winners from Instagram comments. |
+| [Picodash](https://www.picodash.com) | Tool for searching and organizing Instagram content. |
+| [Scylla](https://github.com/josh0xA/Scylla) | Tool for Instagram OSINT and data scraping. |
+| [Skimagram](https://snoopreport.com) | Tool for tracking Instagram activity. |
+| [Social-alerts](https://github.com/mamoedo/social-alerts) | Tool for setting up social media alerts. |
+| [SocialInsider](https://www.socialinsider.io) | Tool for social media analytics and competitive analysis. |
+| [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. |
+| [SoIG](https://github.com/yezz123/SoIG) | Tool for Instagram OSINT. |
+| [tailwind](https://www.tailwindapp.com) | Tool for scheduling and managing Instagram posts. |
+| [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader) | Tool for downloading Instagram profile pictures. |
+| [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
+| [Webstagram](https://webstagram.org) | Instagram web viewer and search tool. |
+
+
 
 
 ## [↑](#-content) 🗂️ Resources
