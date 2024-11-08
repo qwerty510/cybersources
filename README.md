@@ -422,7 +422,8 @@ This repostory is where i save and post all the tools and respources of cybersec
 |Resource|Description|
 |--|--|
 |[Wiki - AddieLamarr](https://publish.obsidian.md/addielamarr/00+Home+MOC)|Wikipedia form AddieLamarr of his 14 years cyber carrer.|
-|[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.
+|[PowerShell - Notes](https://github.com/ab14jain/PowerShell)| A readme.md about PowerShell Commands and learning.|
+|[PowerShell Guide](https://achirou.com/powershell-para-hackers-guia-rapida/)|We will unravel the secrets of PowerShell for Quick Guide Hackers and strengthen your skills in the world of hacking!|
 |[DuckyScript™ Quick Reference](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference)| DuckyScript™ is the programming language of the USB Rubber Ducky™, Hak5® hotplug attack gear and officially licensed devices. The quick reference to start programming with ducky.
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
