@@ -36,7 +36,7 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [System](#19--system)
     - [Social Networks](#20--social-networks)
       - [Instagram](#201--instagram)
-      - [Linkedin](#202--linkedin)
+      - [Linkedin](#202---linkedin)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
