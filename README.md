@@ -37,6 +37,9 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [Social Networks](#20--social-networks)
       - [Instagram](#201--instagram)
       - [Linkedin](#202---linkedin)
+      - [TikTok](#203---tiktok)
+      - [OnlyFans](#204---onlyfans)
+      - [Discord](#205---discord)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -329,6 +332,50 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn) | Tool for scraping LinkedIn profiles. |
 
 
+#### 20.3  [↑](#-content) TikTok 
+| Tools | Description |
+|-------|-------------|
+| [Exolyt.com](https://exolyt.com/) | Tool for analyzing TikTok profiles and videos. | 
+| [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for TikTok posts. | 
+| [HypeAuditor](https://hypeauditor.com) | Tool for analyzing the authenticity of TikTok influencers. | 
+| [Influence Grid](https://www.influencegrid.com) | Tool for finding TikTok influencers. | | 
+[InstaFollowers](https://www.instafollowers.co/find-tiktok-user-id) | Tool for finding TikTok user IDs. | 
+| [Mavekite.com](https://mavekite.com/) | Tool for managing and analyzing TikTok campaigns. | 
+| [OSINT Combine TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) | Quick search tool for TikTok profiles. | 
+| [Savefrom.net](https://en.savefrom.net/download-from-tiktok) | Tool for downloading TikTok videos. | 
+| [Sinwindie TikTok Bookmarklet Tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools) | Bookmarklet tools for TikTok OSINT. | 
+| [Snaptik.app](https://snaptik.app/) | Tool for downloading TikTok videos. | 
+| [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. | 
+| [Tikbuddy](https://app.tikbuddy.com/) | Tool for analyzing TikTok profiles and content. | 
+| [TikTok API](https://github.com/szdc/tiktok-api) | API for interacting with TikTok. | 
+| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok. | 
+| [TikTok Downloader](https://tiktokdownloader.com/) | Tool for downloading TikTok videos. | 
+| [TikTok Hashtags](https://tiktokhashtags.com) | Tool for generating TikTok hashtags. | 
+| [TikTok Scraper](https://github.com/Dutchosintguy/tiktok-scraper) | Tool for scraping TikTok profiles and videos. | 
+| [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | Tool for analyzing timestamps on TikTok videos. | 
+| [TikView](https://tikview.com/tiktok-search) | Tool for searching TikTok profiles and content. | 
+| [tikvstock](https://tikvstok.com/tiktok) | Tool for stock and analyzing TikTok videos. | 
+| [Tokvid](https://tokvid.com) | Tool for downloading TikTok videos. | 
+| [TubeHi](https://tubehi.com) | Tool for analyzing TikTok and YouTube content. | 
+| [Vidnice](https://vidnice.com) | Tool for analyzing TikTok profiles and content. |
+
+#### 20.4  [↑](#-content) OnlyFans 
+| Tools | Description |
+|-------|-------------|
+| [fansmetrics.com](http://fansmetrics.com/) | Tool for analyzing OnlyFans metrics. | 
+| [Onlysearch.com](https://onlysearch.co/) | Search tool for finding OnlyFans profiles. | 
+| [onlyfinder.com](https://onlyfinder.com/) | Tool for finding OnlyFans creators. | 
+| [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool. | 
+| [SimilarFans](https://similarfans.com/) | Tool for finding similar OnlyFans profiles. | 
+| [FanSearch](https://www.fansearch.com/) | Comprehensive search tool for OnlyFans. |
+
+
+#### 20.5  [↑](#-content) Discord
+| Tools | Description |
+|-------|-------------|
+| [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord. | 
+| [Discord History Tracker](https://dht.chylex.com/) | A tool for tracking and saving chat histories in Discord. |
+
 
 ## [↑](#-content) 🗂️ Resources
 
@@ -346,8 +393,6 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/)| Description of main penetration testing distributions|
 |[Security @ Distrowatch](http://distrowatch.com/search.php?category=Security)|Website dedicated to talking about, reviewing and keeping up to date with open source operating systems|
 |[Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of cheat sheets useful for pentesting|
-
-
 
 
 
