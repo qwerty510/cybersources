@@ -47,6 +47,7 @@ This repostory is where i save and post all the tools and respources of cybersec
   - [Tutorials](#--tutorials)
   -  [CTFs - Training](#--ctfs---training)
   -  [Practice Webs](#-%EF%B8%8F-practice-webs)
+-  [Events](#-events)
 -  [Podcasts](#-%EF%B8%8F-podcasts)
 -  [Documentaries](#--documentaries)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
@@ -487,6 +488,11 @@ This repostory is where i save and post all the tools and respources of cybersec
 |--|--|--|
 |[Codeforces](https://codeforces.com)|Problems Solving|Codeforces is a project joining people interested in and taking part in programming contests.|
 |[DevChallenges](https://devchallenges.io/dashboard)|Challenges|Platform to improve your coding skills through practical projects and build an outstanding portfolio.|
+
+## 🎤 Events
+|Event|Description|
+|--|--|
+|[BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid)|The calendar of BSides events arround the world.|
 
 ## [↑](#-content) 🎙️ Podcasts
 |Podcasts|Language|Description|
