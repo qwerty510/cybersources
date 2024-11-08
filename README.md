@@ -34,7 +34,9 @@ This repostory is where i save and post all the tools and respources of cybersec
     - [Hex editors](#17--hex-editors)
     - [Execution logging and tracing](#18--execution-logging-and-tracing)
     - [System](#19--system)
-    - [Instagram](#20--instagram)
+    - [Social Networks](#20--social-networks)
+      - [Instagram](#20.1--instagram)
+      - [Linkedin](#20.2--linkedin)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -242,7 +244,9 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 
-#### 20. [↑](#-content) Instagram 
+#### 20. [↑](#-content) Social Networks
+
+##### 20.1 [↑](#-content) Instagram
 
 | Tools | Description |
 |-------|-------------|
@@ -299,6 +303,30 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
 | [Webstagram](https://webstagram.org) | Instagram web viewer and search tool. |
 
+
+##### 20.2  [↑](#-content) Linkedin
+
+| Tools | Description |
+|-------|-------------|
+| [IntelligenceX: Linkedin](https://intelx.io/tools?tab=linkedin) | LinkedIn search tool by IntelligenceX. | 
+| [BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) | Tool for OSINT on LinkedIn profiles. | 
+| [CrossLinked](https://github.com/m8r0wn/crosslinked) | LinkedIn enumeration tool. | 
+| [Email Reverse Lookup](https://github.com/rebootORZ/OSINT_Spider.py) | Tool for reverse email lookup on LinkedIn. | 
+| [Free People Search Tools](https://freepeoplesearchtool.com) | Comprehensive people search tool. | 
+| [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) | Chrome extension for LinkedIn OSINT. | 
+| [osint.support](https://osint.support/chrome-extensions) | Collection of OSINT tools for LinkedIn. | 
+| [InSpy](https://github.com/leapsecurity/InSpy) | LinkedIn enumeration tool. | 
+| [Linkedin Bookmarklet](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/Bookmarklet%20Tools) | Bookmarklet tools for LinkedIn OSINT. | 
+| [Linkedin Profile Scraper](https://github.com/Monst3rSec/linkedin-profile-scraper) | Tool for scraping LinkedIn profiles. |
+| [Linkedin Search TGC](https://www.anantha.co.in/linkedin) | Tool for searching LinkedIn profiles. | 
+| [LinkedInt](https://github.com/vysecurity/LinkedInt) | LinkedIn intelligence and OSINT tool. | 
+| [Osint Support Linkedin](https://github.com/jqueguiner/lk_scraper) | Support tools for LinkedIn OSINT. | 
+| [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for LinkedIn tasks. | 
+| [raven](https://github.com/0x09AL/raven) | LinkedIn enumeration and scraping tool. | 
+| [Recruit’em](https://recruitin.net) | Tool for finding profiles on LinkedIn. | 
+| [Recruitin.net](https://recruitin.net/) | Tool for recruiting on LinkedIn. | 
+| [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin) | LinkedIn search tool for recruiters. | 
+| [ScrapedIn](https://github.com/dchrastil/ScrapedIn) | Tool for scraping LinkedIn profiles. |
 
 
 
