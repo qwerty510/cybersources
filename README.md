@@ -1,13 +1,12 @@
 # 🔐 Cybersecurity Tools - Resources - Learning
 
-<p align="left">
-<img src="https://img.shields.io/github/watchers/brunoooost/cybersources?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>
-<img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/>
-</p>
 
-
-
+<!-- INCLUDING STATS -->
+<!-- <p align="left"> -->
+<!-- <img src="https://img.shields.io/github/watchers/brunoooost/cybersources?style=for-the-badge"/> -->
+<!-- <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/> -->
+<!-- <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/> -->
+<!-- </p> -->
   
 This repostory is where i save and post all the tools and respources of cybersecurity. If you like the content of the repository make sure that you give an star. 
 
