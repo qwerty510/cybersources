@@ -75,6 +75,9 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[FaceComparison](https://facecomparison.toolpie.com)|Face comparison tool. |
 |[osint-framework](https://osintframework.com)|Collection of tools.
 |[FaceCheckID](https://facecheck.id)| Powerfull tool that realizes reverse image search.|
+|[SocialCatFish](https://socialcatfish.com)|Social Catfish is a service that helps you search for people using their names, images, phone numbers, emails and usernames.|
+|[Google Lens](https://lens.google)|Google Lens to find a person|
+|[LensoAI](https://lenso.ai/en)|AI Reverse Image Search|
 
 #### 3. [↑](#-content) Username Search
 |Tools|Description|
@@ -100,6 +103,8 @@ This repostory is where i save and post all the tools and respources of cybersec
 |--|--|
 |[Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
 |[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
+|[GeoSpy](https://geospy.ai)|The World's Best AI Geolocation Tool|
+|[Picarta](https://picarta.ai)|We find where a photo has been taken in the world using Artificial Intelligence.|
 
 #### 6. [↑](#-content) News
 |Tools|Description|
