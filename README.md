@@ -41,6 +41,7 @@ This repostory is where i save and post all the tools and respources of cybersec
       - [Discord](#205---discord)
       - [Twitch](#206---twitch)
       - [Tinder](#207---tinder)
+    - Steganographic
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -424,6 +425,79 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [Tastebuds](https://tastebuds.fm) | Dating app that matches people based on music taste. | 
 | [Tinder](https://tinder.com) | Popular dating app for meeting new people. | 
 | [zoosk](https://www.zoosk.com) | Dating site with a behavioral matchmaking algorithm. |
+
+
+### [↑](#-content) 21. Steganographic
+| Title | Description |
+|-------|-------------|
+| [110 steganographic tools](http://www.jjtc.com/Steganography/tools.html) | A comprehensive list of 110 steganographic tools. |
+| [Cloakify](https://github.com/TryCatchHCF/Cloakify) | A tool for disguising data to bypass data loss prevention mechanisms. |
+| [Stego_Dropper](https://github.com/ahhh/Stego_Dropper) | A steganography-based dropper written in Python. |
+| [silenteye](https://github.com/achorein/silenteye) | A cross-platform application for steganography. |
+| [deep-steg](https://github.com/alexandremuzio/deep-steg) | Deep learning based steganography tool. |
+| [StegX](https://github.com/Heisenberk/StegX) | A Python-based steganography tool. |
+| [js-steg](https://github.com/owencm/js-steg) | A steganography tool using JavaScript. |
+| [steg](https://github.com/surg0r/steg) | A simple steganography tool. |
+| [StegoProxy](https://github.com/LabunskyA/StegoProxy) | A proxy tool that implements steganography. |
+| [Video-Steganography-for-Piracy-Prevention](https://github.com/adityangud/Video-Steganography-for-Piracy-Prevention) | A video steganography tool to prevent piracy. |
+| [openstego](https://github.com/syvaidya/openstego) | An open-source steganography tool. |
+| [steg](https://github.com/beatsbears/steg) | Another steganography tool. |
+| [Stegbook](https://github.com/lozarcher/Stegbook) | A steganography tool for Facebook messages. |
+| [PDF_steganography](https://github.com/thoppe/PDF_steganography) | A tool for hiding data within PDF files. |
+| [steganography_talk](https://github.com/raulfraile/steganography_talk) | A presentation on steganography. |
+| [ascii-steganography](https://github.com/vgmoose/ascii-steganography) | A tool for hiding data within ASCII text. |
+| [voices](https://github.com/gitbrew/voices) | A tool for audio steganography. |
+| [stego-retweet](https://github.com/daniellerch/stego-retweet) | A tool for hiding data within retweets. |
+| [ARMS](https://github.com/adyra/ARMS) | Another steganography tool. |
+| [stegosaurus](https://github.com/h-lame/stegosaurus) | A simple steganography tool. |
+| [Outguess](https://github.com/Rbcafe/Outguess) | A universal steganography tool. |
+| [BitStegNet](https://github.com/manmar92/BitStegNet) | A neural network based steganography tool. |
+| [stego-wave](https://github.com/pboueke/stego-wave) | A steganography tool for hiding data in audio files. |
+| [StegoMP3](https://github.com/maksimvrs/StegoMP3) | A tool for MP3 steganography. |
+| [jSteganographiX](https://github.com/Epredator/jSteganographiX) | A steganography tool written in Java. |
+| [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography) | A tool for least significant bit steganography. |
+| [jsteg](https://github.com/lukechampine/jsteg) | A steganography tool written in Go. |
+| [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) | A collection of steganography tools. |
+| [f5-steganography](https://code.google.com/archive/p/f5-steganography/) | An implementation of the F5 steganography algorithm. |
+| [Matroschka](https://github.com/fbngrm/Matroschka) | A steganography tool. |
+| [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography) | A deep learning based steganography tool. |
+| [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
+| [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
+| [StegCracker](https://github.com/Paradoxis/StegCracker) | A steganography brute-force tool. |
+| [StegExpose](https://github.com/b3dk7/StegExpose) | A steganalysis tool for detecting hidden data. |
+| [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
+| [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
+| [SteCoSteg](https://github.com/cryptolok/SteCoSteg) | A steganography tool. |
+| [PNG-Mask](https://github.com/AlphaDelta/PNG-Mask) | A tool for hiding data in PNG images. |
+| [chess-steg](https://github.com/jes/chess-steg) | A steganography tool for hiding data in chess games. |
+| [strogonoff](https://github.com/jbochi/strogonoff) | Another steganography tool. |
+| [Pictograph](https://github.com/MrAdamBoyd/Pictograph) | A steganography tool for images. |
+| [stegoVeritas](https://github.com/bannsec/stegoVeritas) | A steganography tool. |
+| [secretbook](https://github.com/owencm/secretbook) | A steganography tool for Facebook messages. |
+| [snow10](https://github.com/beardog108/snow10) | A steganography tool. |
+| [mp3stego](http://www.petitcolas.net/fabien/steganography/mp3stego) | A tool for MP3 steganography. |
+| [stego_video](http://compression.ru/video/stego_video) | A video steganography tool. |
+| [diit](http://diit.sourceforge.net/) | A steganography tool. |
+| [stegosploit](https://stegosploit.info/) | A tool for embedding exploits in images. |
+| [stegolab](https://github.com/daniellerch/stegolab) | A steganography tool. |
+| [stego-book-2014](https://github.com/daniellerch/stego-book-2014) | A collection of steganography tools from 2014. |
+| [timeshifter](https://github.com/anfractuosity/timeshifter) | A tool for covert channels based on time. |
+| [covertele](https://github.com/LabunskyA/covertele) | A tool for covert communication. |
+| [CCEAP](https://github.com/cdpxe/CCEAP) | A steganography tool. |
+| [cloud-covert-channels](https://github.com/bsteen/cloud-covert-channels) | A tool for covert channels in the cloud. |
+| [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) | A tool for data exfiltration via DNS. |
+| [StegPage](https://sourceforge.net/p/stegpage/wiki/Home/) | A source for various steganography tools. |
+| [CameraShy](https://sourceforge.net/projects/camerashy/) | A steganography tool. |
+| [stegUnicode](https://github.com/mindcrypt/stegUnicode) | A steganography tool using Unicode. |
+| [stelin](http://stelin.sourceforge.net/) | Another steganography tool. |
+| [Hydan](http://www.crazyboy.com/hydan/) | A steganography tool for binary files. |
+| [deogol](https://hord.ca/projects/deogol/intro.html) | A steganography tool. |
+| [Hugo source code](https://jabriffa.wordpress.com/other/hugo-source-code/) | Source code for a steganography tool. |
+| [WOW](http://dde.binghamton.edu/download/stego_algorithms/) | Steganography algorithms. |
+| [stegify](https://github.com/DimitarPetrov/stegify) | A simple steganography tool. |
+| [Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101) | An introductory guide to steganography. |
+| [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | A tool for embedding PowerShell scripts in images. |
+| [instegogram](https://github.com/endgameinc/instegogram) | A tool for stegan|
 
 ## [↑](#-content) 🗂️ Resources
 
