@@ -51,6 +51,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 -  [Podcasts](#-%EF%B8%8F-podcasts)
 -  [Community](#--community)
 -  [Documentaries](#--documentaries)
+-  Books & Papers/Articles
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
 -  [Colaborate](#--colaborate)
 
@@ -550,6 +551,31 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [The Singularity](https://www.imdb.com/title/tt2073120/)                                   | Drama - Science Fiction     | 2012 | 7.3/10 |
 | [War for the Web](https://www.imdb.com/title/tt2390367/)                                   | Documentary               | 2015 | 7.4/10 |
 | [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
+
+
+## [↑](#-content) 📖 Books & Papers/Articles
+
+| Title | Category | Description |
+|-------|----------|-------------|
+| [Information Hiding Techniques for Steganography and Digital Watermarking](https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111) | Steganography | Techniques for steganography and digital watermarking. |
+| [Information Hiding: Steganography and Watermarking-Attacks and Countermeasures](https://www.amazon.es/Information-Hiding-Steganography-Watermarking-Attacks-Countermeasures/dp/1461369673/ref=sr_1_50?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514854&s=gateway&sr=8-50) | Steganography | Attacks and countermeasures in steganography and watermarking. |
+| [Digital Watermarking and Steganography](https://www.amazon.es/Digital-Watermarking-Steganography-Ingemar-Cox/dp/0124054765/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514737&s=gateway&sr=8-8) | Steganography| Digital watermarking and steganography techniques. |
+| [Hiding in Plain Sight: Steganography and the Art of Covert Communication](https://www.amazon.es/Hiding-Plain-Sight-Steganography-Communication/dp/0471469793/ref=sr_1_20?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-20) | Steganography | Steganography and covert communication techniques. |
+| [Steganography in Digital Media: Principles, Algorithms, and Applications](https://www.amazon.es/Steganography-Digital-Media-Principles-Applications-ebook/dp/B00INYG7S4/ref=sr_1_24?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-24) | Steganography | Principles and applications of steganography in digital media. |
+| [Investigator's Guide to Steganography](https://www.amazon.es/Investigators-Steganography-English-Gregory-Kipper-ebook/dp/B00UV99Y9S/ref=sr_1_26?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-26) | Steganography | A guide for investigators on steganography. |
+| [Disappearing Cryptography: Information Hiding: Steganography and Watermarking](https://www.amazon.es/Disappearing-Cryptography-Information-Steganography-Watermarking-ebook/dp/B002ZJSUYM/ref=sr_1_36?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514819&s=gateway&sr=8-36) | Steganography | Information hiding techniques including steganography and watermarking. |
+| [Publications by Fridrich](http://www.ws.binghamton.edu/fridrich/publications.html) | Steganography | Publications on steganography by Fridrich. |
+| [Privacidad y ocultación de información digital. Esteganografía. Protegiendo y atacando redes informáticas](http://www.ra-ma.es/libros/PRIVACIDAD-Y-OCULTACION-DE-INFORMACION-DIGITAL-ESTEGANOGRAFIA/92742/978-84-9964-644-2) | Steganography | Privacy and information hiding in digital networks. |
+| [Esteganografía lingüística y canales encubiertos - libro](https://github.com/mindcrypt/libros/blob/master/Esteganograf%C3%ADa%20ling%C3%BC%C3%ADstica%20y%20canales%20encubiertos%20-%20libro.pdf) | Steganography | Linguistic steganography and covert channels. |
+| [Privacidad y protección: Lección 7](http://www.criptored.upm.es/crypt4you/temas/privacidad-proteccion/leccion7/leccion7.html) | Steganography | Lesson on privacy and protection in information hiding. |
+| [Buscando stegomalware en un océano de apps](https://es.slideshare.net/elevenpaths/buscando-stegomalware-en-un-oceano-de-apps) | Steganography | Searching for stegomalware in a sea of apps. |
+| [Steganography tools on Wikipedia](https://en.wikipedia.org/wiki/Steganography_tools) | Steganography | Wikipedia page on steganography tools. |
+| [Steganography reference by Gary Kessler](https://www.garykessler.net/library/fsc_stego.html) | Steganography | Reference on steganography by Gary Kessler. |
+| [Covert channel on Wikipedia](https://en.wikipedia.org/wiki/Covert_channel) | Steganography | Wikipedia page on covert channels. |
+| [Gray World projects](http://gray-world.net/projects.shtml.html) | Steganography | Various projects on steganography and security. |
+| [A guide to understanding cover channels analysis of trusted systems](https://www.researchgate.net/publication/235170603_Covert_Channel_Analysis_of_Trusted_Systems_A_Guide_to_Understanding/download) | Steganography | Guide on covert channel analysis in trusted systems. |
+| [MITRE ATT&CK Technique T1029](https://attack.mitre.org/techniques/T1029/) | Steganography | MITRE ATT&CK framework on techniques related to steganography. |
+
 
 ## [↑](#-content) 🖥️ TV Shows
 
