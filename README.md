@@ -575,4 +575,4 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 ## [↑](#-content) 💬 Colaborate 
-- If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an issue.
+- If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
