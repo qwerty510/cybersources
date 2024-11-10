@@ -488,6 +488,9 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Sakura Room](https://tryhackme.com/r/room/sakura)|OSINT|Use a variety of OSINT techniques to solve this room created by the OSINT Dojo.|
 |[Searchlight-IMINT](https://tryhackme.com/r/room/searchlightosint)|OSINT|OSINT challenges in the imagery intelligence category.|
 |[KafeeSec-SoMeMINT](https://tryhackme.com/r/room/somesint)|OSINT|An intro to SOCMINT (Social Media Intelligence/Investigation) techniques and tooling. Use your awesome OSINT skills to perform an online investigation of a mysterious husband!|
+|[Stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)|Steganography||
+|[Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/)|Steganography||
+|[awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)||
 
 ### [↑](#-content) 🕸️ Practice Webs
 |Web Practice|Category|Description|
