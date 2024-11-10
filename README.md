@@ -49,7 +49,7 @@ This repostory is where i save and post all the tools and respources of cybersec
   -  [Practice Webs](#-%EF%B8%8F-practice-webs)
 -  [Events](#--events)
 -  [Podcasts](#-%EF%B8%8F-podcasts)
--  [Community](#-.community)
+-  [Community](#--community)
 -  [Documentaries](#--documentaries)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
 -  [Colaborate](#--colaborate)
