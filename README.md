@@ -41,7 +41,7 @@ This repostory is where i save and post all the tools and respources of cybersec
       - [Discord](#205---discord)
       - [Twitch](#206---twitch)
       - [Tinder](#207---tinder)
-    - Steganographic
+    - [Steganographic](#-21-steganographic)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -428,8 +428,8 @@ This repostory is where i save and post all the tools and respources of cybersec
 
 
 ### [↑](#-content) 21. Steganographic
-| Title | Description |
-|-------|-------------|
+| Tools | Description |
+|--|--|
 | [110 steganographic tools](http://www.jjtc.com/Steganography/tools.html) | A comprehensive list of 110 steganographic tools. |
 | [Cloakify](https://github.com/TryCatchHCF/Cloakify) | A tool for disguising data to bypass data loss prevention mechanisms. |
 | [Stego_Dropper](https://github.com/ahhh/Stego_Dropper) | A steganography-based dropper written in Python. |
