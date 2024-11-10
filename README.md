@@ -51,7 +51,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 -  [Podcasts](#-%EF%B8%8F-podcasts)
 -  [Community](#--community)
 -  [Documentaries](#--documentaries)
--  Books & Papers/Articles
+-  [Books & Papers/Articles](#--books--papersarticles)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
 -  [Colaborate](#--colaborate)
 
@@ -556,7 +556,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 ## [↑](#-content) 📖 Books & Papers/Articles
 
 | Title | Category | Description |
-|-------|----------|-------------|
+|--|--|--|
 | [Information Hiding Techniques for Steganography and Digital Watermarking](https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111) | Steganography | Techniques for steganography and digital watermarking. |
 | [Information Hiding: Steganography and Watermarking-Attacks and Countermeasures](https://www.amazon.es/Information-Hiding-Steganography-Watermarking-Attacks-Countermeasures/dp/1461369673/ref=sr_1_50?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514854&s=gateway&sr=8-50) | Steganography | Attacks and countermeasures in steganography and watermarking. |
 | [Digital Watermarking and Steganography](https://www.amazon.es/Digital-Watermarking-Steganography-Ingemar-Cox/dp/0124054765/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514737&s=gateway&sr=8-8) | Steganography| Digital watermarking and steganography techniques. |
