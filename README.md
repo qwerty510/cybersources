@@ -43,6 +43,7 @@ This repostory is where i save and post all the tools and respources of cybersec
       - [Tinder](#207---tinder)
     - [Steganographic](#-21-steganographic)
     - [Steganalysis](#-22-steganalysis)
+    - [Cryptocurrency](#-23-cryptocurrency)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -554,8 +555,11 @@ This repostory is where i save and post all the tools and respources of cybersec
 | [DeepSteg](https://github.com/deepsteg/deepsteg) | A steganalysis tool for detecting hidden data in images using deep learning techniques. |
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2) | A steganography analysis tool. |
 
-
-
+### [↑](#-content) 23. Cryptocurrency
+| Tool | Description |
+| --- | --- |
+|[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
+|[CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
 
 ## [↑](#-content) 🗂️ Resources
 
