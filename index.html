@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersources Overview</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #fafaff;
+            color: #1c1c1c;
+        }
+        .container {
+            max-width: 800px;
+            width: 90%;
+            padding: 30px;
+            background: #ecebe4;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .container:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+            color: #1c1c1c;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #1c1c1c;
+            border-bottom: 2px solid #daddd8;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .section p {
+            line-height: 1.6;
+            color: #1c1c1c;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            margin-top: 10px;
+            background-color: #daddd8;
+            color: #1c1c1c;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .button:hover {
+            background-color: #eef0f2;
+            transform: scale(1.05);
+        }
+        .credit {
+            margin-top: 20px;
+            font-size: 1rem;
+            color: #777;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Cybersources</h1>
+        <div class="section">
+            <h2>About the Project</h2>
+            <p>Cybersources is a comprehensive collection of tools and resources for cyber security professionals. It aims to provide everything you need to enhance your knowledge, improve your skills, and stay updated with the latest trends in cyber security.</p>
+        </div>
+        <div class="section">
+            <h2>How to Use</h2>
+            <p>Explore the various tools and resources available in this repository. Each tool comes with detailed instructions and examples to help you get started. To use a specific tool, navigate to the corresponding directory and follow the README file.</p>
+            <a class="button" href="https://github.com/brunoooost/cybersources">Explore the Repository</a>
+        </div>
+        <div class="section">
+            <h2>Contributing</h2>
+            <p>We welcome contributions from the community! If you have a tool or resource that you think would be valuable to others, feel free to submit a pull request. Please make sure to follow our contribution guidelines and ensure your addition is well-documented.</p>
+            <a class="button" href="https://github.com/brunoooost/cybersources/blob/main/CONTRIBUTING.md">Read Contribution Guidelines</a>
+        </div>
+        <div class="credit">Created by bst04</div>
+    </div>
+</body>
+</html>
