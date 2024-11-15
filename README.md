@@ -574,9 +574,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
 |[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
-|[AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag](https://www.nxp.com/docs/en/application-note/AN1305.pdf)|NFC Forum, NFC data mapping, MIFARE Classic 1K/4K, MIFARE
-Classic 1K, MIFARE Classic 4K, MIFARE Plus X/S, NFC Type MIFARE
-Tag|
+|[AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag](https://www.nxp.com/docs/en/application-note/AN1305.pdf)|NFC Forum, NFC data mapping, MIFARE Classic 1K/4K, MIFARE Classic 1K, MIFARE Classic 4K, MIFARE Plus X/S, NFC Type MIFARE Tag|
 |[Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html)|Complete list of security related operating systems|
 |[Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/)| Description of main penetration testing distributions|
 |[Security @ Distrowatch](http://distrowatch.com/search.php?category=Security)|Website dedicated to talking about, reviewing and keeping up to date with open source operating systems|
