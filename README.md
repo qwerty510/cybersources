@@ -645,6 +645,8 @@ This repostory is where i save and post all the tools and respources of cybersec
 |Podcasts|Language|Description|
 |--|--|--|
 |[Tierra de Hackers](https://www.tierradehackers.com)|Spanish|Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.|
+|[ISC](https://isc.sans.edu/podcast.html)|English|The ISC StormCast is a daily short-form podcast that provides a summary of current network security-related events.|
+|[Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast)|English|Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.|
 
 ## [↑](#-content) 👤 Community
 |Community|Description|
