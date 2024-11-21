@@ -110,6 +110,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
 |[GeoSpy](https://geospy.ai)|The World's Best AI Geolocation Tool|
 |[Picarta](https://picarta.ai)|We find where a photo has been taken in the world using Artificial Intelligence.|
+|[IPLogger](https://iplogger.org/)|IP Logger link shortener with geolocalizaction with advanced analytics.|
 
 #### 6. [↑](#-content) News
 |Tools|Description|
