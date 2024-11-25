@@ -593,7 +593,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[cs50 - Harvard](https://cs50.harvard.edu/x/2024/)|CS50’s Introduction to Computer Science. Even if you are not a student at Harvard, you are welcome to “take” this course for free via this OpenCourseWare by working your way through the course’s eleven weeks of material.
 |[overthewire.org](https://overthewire.org/wargames/bandit/bandit0.html)| The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. 
 |[HTB-Academy](https://academy.hackthebox.com)|HTB Academy is cybersecurity learning the HTB way.
-|[HackTheBox](https://hackthebox.com)|Hack The Box is a training platform where you can find matchines and CTFs to practice.
+|[HackTheBox](https://referral.hackthebox.com/mz8tDbE)|Hack The Box is a training platform where you can find matchines and CTFs to practice.
 |[Coursera](https://www.coursera.org)|Plataform where there are open online courses.
 |[TryHackMe](https://tryhackme.com)|TryHackMe goes way beyond textbooks and focuses on fun interactive lessons that make you put theory into practice.
 |[EC-Council - Learning](https://codered.eccouncil.org/?logged=false)|Get started with a free account and gain immediate access to 20+ complete cybersecurity courses from the creators of the Certified Ethical Hacker (CEH) program.|
