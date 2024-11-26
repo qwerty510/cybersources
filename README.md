@@ -630,6 +630,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)|Steganography||
 |[Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/)|Steganography||
 |[awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)|Steganography|
+|[Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)|Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.|
 
 ### [↑](#-content) 🕸️ Practice Webs
 |Web Practice|Category|Description|
