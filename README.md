@@ -47,6 +47,7 @@ This repostory is where i save and post all the tools and respources of cybersec
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
+  - [Certifications](#--certifications)
   - [Tutorials](#--tutorials)
   -  [CTFs - Training](#--ctfs---training)
   -  [Practice Webs](#-%EF%B8%8F-practice-webs)
@@ -602,6 +603,13 @@ This repostory is where i save and post all the tools and respources of cybersec
 |[Udemy](https://www.udemy.com)| Affordable courses with video lectures, quizzes, and practice exams for various certifications.|
 |[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
+
+### [↑](#-content) 📝 Certifications
+|Certifications|Description|
+|--|--|
+|[Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)|Validate your knowledge and skills in network fundamentals and access, IP connectivity, IP services, security fundamentals, and more.|
+|[CompTIA Security+](https://www.comptia.org/certifications/security)|CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.|
+
 
 ### [↑](#-content) 🎥 Tutorials
 |Tutorials|
