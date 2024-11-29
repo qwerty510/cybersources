@@ -86,32 +86,37 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 #### 1. [↑](#-content) Utility
 |Tools|Description|
-|--|--|
-|[Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)|Utility for password recovery.|
-|[BrowserLeaks](https://browserleaks.com)|Suite of tools that evaluate the security and privacy of your web browser.|
-|[Have I been Pwned](https://haveibeenpwned.com/)|It allows you to check if an email address has been compromised in previous data breaches.|
+| **Tool** | **Description** |
+|----------|-----------------|
+| [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/) | Password recovery utility for cracking hashes. |
+| [BrowserLeaks](https://browserleaks.com) | Suite of tools to test the security and privacy of your web browser. |
+| [Have I Been Pwned](https://haveibeenpwned.com/) | Check if your email address was compromised in data breaches. |
+
 
 #### 2. [↑](#-content) Miscellaneous
-|Tools|Description|
-|--|--|
-|[osint.rocks](https://osint.rocks)|Search people|
-|[Pim Eyes](https://pimeyes.com/en)|Face Search Engine Reverse Image Search. |
-|[IntelTechniques](https://inteltechniques.com/tools/Search.htm)|Search engines tool.|
-|[Cybdetective](https://cybdetective.com/osintmap)|Worldwide OSINT tools map.|
-|[FaceComparison](https://facecomparison.toolpie.com)|Face comparison tool. |
-|[osint-framework](https://osintframework.com)|Collection of tools.
-|[FaceCheckID](https://facecheck.id)| Powerfull tool that realizes reverse image search.|
-|[SocialCatFish](https://socialcatfish.com)|Social Catfish is a service that helps you search for people using their names, images, phone numbers, emails and usernames.|
-|[Google Lens](https://lens.google)|Google Lens to find a person|
-|[LensoAI](https://lenso.ai/en)|AI Reverse Image Search|
+| **Tool** | **Description** |
+|----------|-----------------|
+| [osint.rocks](https://osint.rocks) | Tool for searching and finding people. |
+| [Pim Eyes](https://pimeyes.com/en) | Reverse image search for face recognition. |
+| [IntelTechniques](https://inteltechniques.com/tools/Search.htm) | OSINT search engine tool for various data types. |
+| [Cybdetective](https://cybdetective.com/osintmap) | Global map of OSINT tools. |
+| [Face Comparison](https://facecomparison.toolpie.com) | Tool for comparing facial images. |
+| [OSINT Framework](https://osintframework.com) | Comprehensive collection of OSINT resources. |
+| [FaceCheckID](https://facecheck.id) | Reverse image search focused on facial recognition. |
+| [Social Catfish](https://socialcatfish.com) | Locate people by names, images, or other identifiers. |
+| [Google Lens](https://lens.google) | AI-powered tool for finding information about images. |
+| [LensoAI](https://lenso.ai/en) | AI-based reverse image search. |
+
 
 #### 3. [↑](#-content) Username Search
 |Tools|Description|
-|--|--|
-|[WhatsMyName](https://whatsmyname.app)|Search for usernames across multiple platforms.|
-|[NameCheck](https://www.namecheckr.com )|Check username availability across platforms.|
-|[UserSearch](https://usersearch.org )|Search for users and their online profiles.|
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Comprehensive username search tool.|
+| **Tool** | **Description** |
+|----------|-----------------|
+| [WhatsMyName](https://whatsmyname.app) | Search for usernames across multiple platforms. |
+| [NameCheck](https://www.namecheckr.com) | Verify username availability on various websites. |
+| [UserSearch](https://usersearch.org) | Locate user profiles and associated online activity. |
+| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced username search tool for OSINT. |
+
 
 #### 4. [↑](#-content) Email Search
 |Tools|Description|
