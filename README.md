@@ -84,6 +84,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 ## [↑](#-content) 🛠️ Tools
 
 #### 1. [↑](#-content) Utility
+
 | **Tool**                                             | **Description**                                                                 |
 |------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/) | Password recovery utility for cracking hashes.                                  |
@@ -92,6 +93,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 2. [↑](#-content) Miscellaneous
+
 | **Tool**                                    | **Description**                                                              |
 |--------------------------------------------|------------------------------------------------------------------------------|
 | [osint.rocks](https://osint.rocks)         | Tool for searching and finding people.                                       |
@@ -108,6 +110,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 3. [↑](#-content) Username Search
+
 | **Tool**                                       | **Description**                                                              |
 |-----------------------------------------------|------------------------------------------------------------------------------|
 | [WhatsMyName](https://whatsmyname.app)        | Search for usernames across multiple platforms.                              |
@@ -117,6 +120,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 4. [↑](#-content) Email Search
+
 |Tools|Description|
 |--|--|
 |[Industries OSINT](https://osint.industries)|Various OSINT tools for email investigation.|
@@ -128,6 +132,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|OSINT tool for email search.|
 
 #### 5. [↑](#-content) GEOINT
+
 |Tools|Description|
 |--|--|
 |[Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
@@ -137,11 +142,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[IPLogger](https://iplogger.org/)|IP Logger link shortener with geolocalizaction with advanced analytics.|
 
 #### 6. [↑](#-content) News
+
 |Tools|Description|
 |--|--|
 |[WolrdEinnwes](https://world.einnews.com )|News and search engine tools.|
 
 #### 7. [↑](#-content) Search Engines
+
 |Tools|Description|
 |--|--|
 |[True People Search](https://truepeoplesearch.net )|Search for people's information.|
@@ -154,11 +161,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)|An OSINT automation tool.|
 
 #### 8. [↑](#-content) DNS
+
 |Tools|Description|
 |--|--|
 |[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
 
 #### 9. [↑](#-content) Post Explotation
+
 | Tools|Description|
 |--|--|
 |[Empire](https://github.com/EmpireProject/Empire)|A post exploitation framework for powershell and python.|
@@ -167,12 +176,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[ebowla](https://github.com/Genetic-Malware/Ebowla)|Framework for Making Environmental Keyed Payloads.|
 
 #### 10. [↑](#-content) Deobfuscators
+
 |Tools|Description|
 |--|--|
 |[JS Nice](http://jsnice.org/)|Web service guessing JS variables names and types based on the model derived from open source.|
 |[de4dot](https://github.com/0xd4d/de4dot)|.NET deobfuscator and unpacker.|
 
 #### 11. [↑](#-content) Decompilers
+
 |Tools|Description|
 |--|--|
 |[uncompyle6](https://github.com/rocky/python-uncompyle6)|Decompiler for the over 20 releases and 20 years of CPython.|
@@ -187,6 +198,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[cutter](https://github.com/radareorg/cutter)|A decompiler based on radare2.|
 
 #### 12. [↑](#-content) Disassembler and debuggers
+
 |Tools|Description|
 |--|--|
 |[IDA](https://www.hex-rays.com/products/ida/)|IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger|
@@ -198,6 +210,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
 
 #### 13. [↑](#-content) Web
+
 |Web|Description|
 |--|--|
 |[recon-ng](https://github.com/lanmaster53/recon-ng)|A web reconnaissance framework.|
@@ -211,6 +224,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|
 
 #### 14. [↑](#-content) Network
+
 |Tools|Description|
 |--|--|
 |[NetworkMiner](http://www.netresec.com/?page=NetworkMiner)|A Network Forensic Analysis Tool (NFAT)|
@@ -236,6 +250,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[PETEP](https://github.com/Warxim/petep)|Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.|
 
 #### 15. [↑](#-content) Cryptography
+
 |Tools|Description|
 |--|--|
 |[xortool](https://github.com/hellman/xortool)| A tool to analyze multi-byte XOR cipher|
@@ -244,6 +259,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Ciphey](https://github.com/ciphey/ciphey)| Automated decryption tool using artificial intelligence & natural language processing.|
 
 #### 16. [↑](#-content) Forensic
+
 |Tools|Description|
 |--|--|
 |[Autopsy](http://www.sleuthkit.org/autopsy/)|A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools|
@@ -255,6 +271,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
 
 #### 17. [↑](#-content) Hex editors
+
 |Tools|Description|
 |--|--|
 |[HxD](http://mh-nexus.de/en/hxd/) |A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size|
@@ -264,6 +281,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Hexinator](https://hexinator.com/)||
 
 #### 18. [↑](#-content) Execution logging and tracing
+
 |Tools|Description|
 |--|--|
 |[Wireshark](https://www.wireshark.org/)|A free and open-source packet analyzer
@@ -276,6 +294,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[drltrace](https://github.com/mxmssh/drltrace) |shared library calls tracing.|
 
 #### 19. [↑](#-content) System
+
 |Tools|Description|
 |--|--|
 |[Metasploit](https://github.com/rapid7/metasploit-framework) |A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.|
@@ -370,6 +389,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 20.3  [↑](#-content) TikTok 
+
 | Tools | Description |
 |-------|-------------|
 | [Exolyt.com](https://exolyt.com/) | Tool for analyzing TikTok profiles and videos. | 
@@ -397,6 +417,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Vidnice](https://vidnice.com) | Tool for analyzing TikTok profiles and content. |
 
 #### 20.4  [↑](#-content) OnlyFans 
+
 | Tools | Description |
 |-------|-------------|
 | [fansmetrics.com](http://fansmetrics.com/) | Tool for analyzing OnlyFans metrics. | 
@@ -408,6 +429,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 20.5  [↑](#-content) Discord
+
 | Tools | Description |
 |-------|-------------|
 | [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord. | 
@@ -415,6 +437,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 20.6  [↑](#-content) Twitch
+
 | Tools | Description |
 |-------|-------------|
 [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) | Tool for viewing follower lists on Twitch. | 
@@ -431,6 +454,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 20.7  [↑](#-content) Tinder
+
 | Tools | Description |
 |-------|-------------|
 | [Badoo](https://badoo.com) | Social discovery and dating app. | 
@@ -455,6 +479,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 ### [↑](#-content) 21. Steganographic
+
 | Tools | Description |
 |--|--|
 | [110 steganographic tools](http://www.jjtc.com/Steganography/tools.html) | A comprehensive list of 110 steganographic tools. |
@@ -527,6 +552,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [instegogram](https://github.com/endgameinc/instegogram) | A tool for stegan|
 
 ### [↑](#-content) 22. Steganalysis
+
 | Tool | Description |
 | --- | --- |
 | [VSL](http://vsl.sourceforge.net/) | A steganographic tool that helps in hiding and detecting messages within digital images. |
@@ -581,6 +607,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2) | A steganography analysis tool. |
 
 ### [↑](#-content) 23. Cryptocurrency
+
 | Tool | Description |
 | --- | --- |
 |[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
@@ -628,6 +655,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
 
 ### [↑](#-content) 📝 Certifications
+
 |Certifications|Description|
 |--|--|
 |[Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)|Validate your knowledge and skills in network fundamentals and access, IP connectivity, IP services, security fundamentals, and more.|
@@ -635,6 +663,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 ### [↑](#-content) 🎥 Tutorials
+
 |Tutorials|
 |--|
 |[Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)|
@@ -648,6 +677,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Lena151: Reversing With Lena](https://archive.org/details/lena151)|
 
 ### [↑](#-content) 🚩 CTFs - Training
+
 |CTFs|Category|Description|
 |--|--|--|
 |[Kase Scenarios](https://kasescenarios.com)|OSINT|Imagine diving headfirst into captivating OSINT scenarios that mirror real-world investigations. You must apply OSINT techniques to solve intricate cases and mysteries.
@@ -664,17 +694,20 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)|BadUSB|Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.|
 
 ### [↑](#-content) 🕸️ Practice Webs
+
 |Web Practice|Category|Description|
 |--|--|--|
 |[Codeforces](https://codeforces.com)|Problems Solving|Codeforces is a project joining people interested in and taking part in programming contests.|
 |[DevChallenges](https://devchallenges.io/dashboard)|Challenges|Platform to improve your coding skills through practical projects and build an outstanding portfolio.|
 
 ## [↑](#-content) 🎤 Events
+
 |Event|Description|
 |--|--|
 |[BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid)|The calendar of BSides events arround the world.|
 
 ## [↑](#-content) 🎙️ Podcasts
+
 |Podcasts|Language|Description|
 |--|--|--|
 |[Tierra de Hackers](https://www.tierradehackers.com)|Spanish|Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.|
@@ -682,12 +715,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast)|English|Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.|
 
 ## [↑](#-content) 👤 Community
+
 |Community|Description|
 |--|--|
 |[RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)|Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field.|
 
 
 ## [↑](#-content) 📺 Documentaries
+
 | Documentaries                                                                                    | Genere                    | Year | Rating |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [BBS: The Documentary](https://www.imdb.com/title/tt0460402/)                              | Documentary               | 2005 | 8.7/10 |
