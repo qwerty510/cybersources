@@ -109,7 +109,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 #### 3. [↑](#-content) Username Search
-|Tools|Description|
 | **Tool** | **Description** |
 |----------|-----------------|
 | [WhatsMyName](https://whatsmyname.app) | Search for usernames across multiple platforms. |
