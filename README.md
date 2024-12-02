@@ -77,6 +77,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 -  [Documentaries](#--documentaries)
 -  [Books & Papers/Articles](#--books--papersarticles)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
+-  [Open-Source Repositories](#--open-source-repositories)
 -  [Colaborate](#--colaborate)
 
 
@@ -653,6 +654,16 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Udemy](https://www.udemy.com)| Affordable courses with video lectures, quizzes, and practice exams for various certifications.|
 |[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
+|[VirusTotal](https://www.virustotal.com/)|Malware analysis.|
+|[edX](https://www.edx.org/)|Online security courses.|
+
+|[Hybrid Analysis](https://www.hybrid-analysis.com/)|Advanced malware sandboxing.|
+|[AbuseIPDB](https://www.abuseipdb.com/)|IP address threat intelligence.|
+|[HackerOne](https://www.hackerone.com/)|Bug bounty platform.|
+|[Bugcrowd](https://www.bugcrowd.com/)|Crowdsourced cybersecurity.|
+|[Open Bug Bounty](https://www.openbugbounty.org/)|Open-source bug bounty program.|
+
+
 
 ### [↑](#-content) 📝 Certifications
 
@@ -782,6 +793,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Gray World projects](http://gray-world.net/projects.shtml.html) | Steganography | Various projects on steganography and security. |
 | [A guide to understanding cover channels analysis of trusted systems](https://www.researchgate.net/publication/235170603_Covert_Channel_Analysis_of_Trusted_Systems_A_Guide_to_Understanding/download) | Steganography | Guide on covert channel analysis in trusted systems. |
 | [MITRE ATT&CK Technique T1029](https://attack.mitre.org/techniques/T1029/) | Steganography | MITRE ATT&CK framework on techniques related to steganography. |
+|[The Web Application Hacker's Handbook](https://amzn.to/3yTq3ho)|Comprehensive guide to web security.|
+|[Practical Malware Analysis](https://amzn.to/3Z6oJxt)|Guide to reverse engineering malware.|
+
 
 
 ## [↑](#-content) 🖥️ TV Shows
@@ -806,6 +820,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Westworld](https://www.imdb.com/title/tt0475784/)                                         | Drama - Mystery             | 2016 | 9.0/10 |
 | [You Are Wanted](https://www.imdb.com/title/tt5462886/)                                    | Thriller - Drama            | 2017 | 6.1/10 |
 
+## [↑](#-content) 📙 Open-Source Repositories
+| Title                                                                                      | Description |
+|--------------------------------------------------------------------------------------------|---------------------------|
+|[OWASP](https://github.com/OWASP)| Tools and resources for web application security.|
+|[Mitre ATT&CK](https://github.com/mitre/)|Adversarial tactics and techniques.|
+|[TheHive Project](https://github.com/TheHive-Project)| Incident response tools.|
 
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
