@@ -666,6 +666,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[HackerOne](https://www.hackerone.com/)|Bug bounty platform.|
 |[Bugcrowd](https://www.bugcrowd.com/)|Crowdsourced cybersecurity.|
 |[Open Bug Bounty](https://www.openbugbounty.org/)|Open-source bug bounty program.|
+|[RangeForce](https://www.rangeforce.com/)|Hands-on blue team exercises.|
+
 
 
 
@@ -780,6 +782,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | Title | Category | Description |
 |--|--|--|
 | [Information Hiding Techniques for Steganography and Digital Watermarking](https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111) | Steganography | Techniques for steganography and digital watermarking. |
+|[Practical Network Defense](https://amzn.to/3kPqPvA)|Best practices for securing networks.|
 | [Information Hiding: Steganography and Watermarking-Attacks and Countermeasures](https://www.amazon.es/Information-Hiding-Steganography-Watermarking-Attacks-Countermeasures/dp/1461369673/ref=sr_1_50?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514854&s=gateway&sr=8-50) | Steganography | Attacks and countermeasures in steganography and watermarking. |
 | [Digital Watermarking and Steganography](https://www.amazon.es/Digital-Watermarking-Steganography-Ingemar-Cox/dp/0124054765/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514737&s=gateway&sr=8-8) | Steganography| Digital watermarking and steganography techniques. |
 | [Hiding in Plain Sight: Steganography and the Art of Covert Communication](https://www.amazon.es/Hiding-Plain-Sight-Steganography-Communication/dp/0471469793/ref=sr_1_20?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-20) | Steganography | Steganography and covert communication techniques. |
