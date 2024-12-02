@@ -656,7 +656,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
 |[VirusTotal](https://www.virustotal.com/)|Malware analysis.|
 |[edX](https://www.edx.org/)|Online security courses.|
-
 |[Hybrid Analysis](https://www.hybrid-analysis.com/)|Advanced malware sandboxing.|
 |[AbuseIPDB](https://www.abuseipdb.com/)|IP address threat intelligence.|
 |[HackerOne](https://www.hackerone.com/)|Bug bounty platform.|
