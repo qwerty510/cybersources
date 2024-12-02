@@ -270,6 +270,11 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
 |[CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
 |[CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
+|[Volatility](https://www.volatilityfoundation.org/)|Memory forensics framework.|
+|[Redline](https://www.fireeye.com/services/freeware/redline.html)| Host investigation and data acquisition tool.|
+|[REKALL](https://github.com/google/rekall)| Memory analysis and forensics.|
+|[Log2Timeline (Plaso)](https://plaso.readthedocs.io/)|Timeline creation for forensic analysis.|
+
 
 #### 17. [↑](#-content) Hex editors
 
