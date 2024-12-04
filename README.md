@@ -620,6 +620,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
 |[CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
 
+### [↑](#-content) 23. Delete you Information
+
+| Tool | Description |
+| --- | --- |
+|[Redact](https://redact.dev/)| Delete all you comments, likes... of your social acounts.|
+
 ## [↑](#-content) 🗂️ Resources
 
 |Resource|Description|
