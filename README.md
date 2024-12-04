@@ -64,7 +64,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganographic](#-21-steganographic)
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
-    - [Delete Your Trace](#-23-delete-your-trace)
+    - [Delete Your Trace](#-24-delete-your-trace)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -626,6 +626,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | Tool | Description |
 | --- | --- |
 |[Redact](https://redact.dev/)| Delete all you comments, likes... of your social acounts.|
+|[DeleteMe](https://joindeleteme.com/)| Delete your information on all your accounts.|
+|[incogni](https://incogni.com/)|Delete your information of databrokers.|
+|[JustDeleteMe](https://justdeleteme.xyz/)| Delete your accounts.| 
 
 ## [↑](#-content) 🗂️ Resources
 
