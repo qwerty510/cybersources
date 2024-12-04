@@ -64,6 +64,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganographic](#-21-steganographic)
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
+    - [Delete Your Trace](#-23-delete-your-trace)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -620,7 +621,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
 |[CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
 
-### [↑](#-content) 23. Delete you Information
+### [↑](#-content) 24. Delete Your Trail
 
 | Tool | Description |
 | --- | --- |
