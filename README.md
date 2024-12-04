@@ -91,6 +91,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/) | Password recovery utility for cracking hashes.                                  |
 | [BrowserLeaks](https://browserleaks.com)            | Suite of tools to test the security and privacy of your web browser.           |
 | [Have I Been Pwned](https://haveibeenpwned.com/)    | Check if your email address was compromised in data breaches.                  |
+| [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)  | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support |
 
 
 #### 2. [↑](#-content) Miscellaneous
