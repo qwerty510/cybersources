@@ -64,7 +64,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganographic](#-21-steganographic)
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
-    - [Delete Your Trace]([#-24-%EF%B8%8F-delete-your-trace))
+    - [Delete Your Trace]([#-24-%EF%B8%8F-delete-your-trace)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
