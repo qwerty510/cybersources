@@ -67,7 +67,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
     - [Delete Your Trace](#-24-delete-your-trace)
-    - [Playbooks](#-25-playbooks)
+    - [Playbooks](#-25-playbooks) 
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -668,7 +668,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[incogni](https://incogni.com/)|Delete your information of databrokers.|
 |[JustDeleteMe](https://justdeleteme.xyz/)| Delete your accounts.| 
 
-### [↑](#-content) 24. Playbooks
+### [↑](#-content) 25. Playbooks
 
 | Tool | Description |
 | --- | --- |
