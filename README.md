@@ -168,6 +168,10 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Tools|Description|
 |--|--|
 |[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
+|[Amass](https://github.com/owasp-amass/amass)|The amass tool searches Internet data sources,performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses.| 
+|[Columbus Project](https://columbus.elmasy.com/)|Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+|[findsubdomains](https://findsubdomains.com/)|Automatically scans different sources to collect as many subdomains as can. 
+|[Merklemap](https://www.merklemap.com/)| Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.|
 
 #### 9. [↑](#-content) Post Explotation
 
