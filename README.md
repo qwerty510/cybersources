@@ -845,6 +845,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[OWASP](https://github.com/OWASP)| Tools and resources for web application security.|
 |[Mitre ATT&CK](https://github.com/mitre/)|Adversarial tactics and techniques.|
 |[TheHive Project](https://github.com/TheHive-Project)| Incident response tools.|
+|[Awesome OSINT](https://github.com/jivoi/awesome-osint)| Awesome list of tools OSINT.|
 
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
