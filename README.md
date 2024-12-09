@@ -206,6 +206,10 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Columbus Project](https://columbus.elmasy.com/)|Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 |[findsubdomains](https://findsubdomains.com/)|Automatically scans different sources to collect as many subdomains as can. 
 |[Merklemap](https://www.merklemap.com/)| Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.|
+|[Subdomains Top 1 Million (5000](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt)|A file containing a list of subdomains from the top 1 million domains, useful for large-scale subdomain enumeration.|
+|[Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt)|This list includes a set of subdomains gathered from Shubs (a subdomain scanning tool), providing valuable data for reconnaissance.| 
+|[DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt)| This list is curated by the researcher Jhaddix, offering a more focused list of DNS subdomains for penetration testing. Link here​|
+
 
 #### 9. [↑](#-content) Post Explotation
 
