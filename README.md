@@ -67,6 +67,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
     - [Delete Your Trace](#-24-delete-your-trace)
+    - [Playbooks](#-25-playbooks)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -666,6 +667,19 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[DeleteMe](https://joindeleteme.com/)| Delete your information on all your accounts.|
 |[incogni](https://incogni.com/)|Delete your information of databrokers.|
 |[JustDeleteMe](https://justdeleteme.xyz/)| Delete your accounts.| 
+
+### [↑](#-content) 24. Playbooks
+
+| Tool | Description |
+| --- | --- |
+|[IRP-AccountCompromised](https://github.com/socfortress/Playbooks/tree/main/IRP-AccountCompromised)|  A guide for handling compromised accounts.|
+|[IRP-Critical](https://github.com/socfortress/Playbooks/tree/main/IRP-Critical)| Playbook for critical incidents requiring immediate attention.|
+|[IRP-DataLoss](https://github.com/socfortress/Playbooks/tree/main/IRP-DataLoss)| Steps for addressing data loss incidents.|
+|[IRP-Malware](https://github.com/socfortress/Playbooks/tree/main/IRP-Malware)|Playbook for responding to malware infections.|
+|[IRP-Phishing](https://github.com/socfortress/Playbooks/tree/main/IRP-Phishing)|A guide for investigating phishing attacks. |
+|[IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)|Playbook for handling ransomware incidents.|
+|[Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)|Templates for incident tracking in Hive.|
+
 
 ## [↑](#-content) 🗂️ Resources
 
