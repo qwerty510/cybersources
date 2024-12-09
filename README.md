@@ -350,6 +350,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Metasploit](https://github.com/rapid7/metasploit-framework) |A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.|
 |[mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|
 |[Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) |Tutorial on tools.|
+|[OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt)|A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers​|
+|[OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)|A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers​​|
 
 
 
