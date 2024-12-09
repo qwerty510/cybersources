@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to Cybersources! We welcome contributions from the community to enhance the collection of tools and resources for cybersecurity professionals. Please follow the guidelines below to ensure a smooth contribution process.
 
+- IMPORTANT: Join the reddit community ([r/cybersources](https://www.reddit.com/r/cybersources/)) to talk about your tool!
+
 ## How to Contribute
 
 1. **Fork the Repository**
