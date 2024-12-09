@@ -118,8 +118,24 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |-----------------------------------------------|------------------------------------------------------------------------------|
 | [WhatsMyName](https://whatsmyname.app)        | Search for usernames across multiple platforms.                              |
 | [NameCheck](https://www.namecheckr.com)       | Verify username availability on various websites.                           |
-| [UserSearch](https://usersearch.org)          | Locate user profiles and associated online activity.                        |
+| [UserSearch](https://usersearch.org)          | User-Searcher is a powerful and free tool to help you search username in 2000+ websites.                      |
 | [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced username search tool for OSINT.                                    |
+[CheckUser](https://checkuser.vercel.app/)| search username across social networks|
+[Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | A username search tool that crawls adult content platforms to see if a targeted account or person is present.|
+[Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)|Check for registered username on 100s of sites for free.|
+[IDCrawl](https://www.idcrawl.com/username)| Search for a username in popular social networks.|
+[Maigret](https://github.com/soxoj/maigret)| Collect a dossier on a person by username.|
+[Name Chk](http://www.namechk.com)|Check over 30 domains and more than 90 social media account platforms.|
+[Name Checkr](http://www.namecheckr.com)| Checks a domain and username across many platforms.|
+[Name Checkup](https://namecheckup.com)| Is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.|
+[NameKetchup](https://nameketchup.com)| Checks domain name and username in popular social media sites and platforms.|
+[NexFil](https://github.com/thewhiteh4t/nexfil)| Checks username from almost all social network sites.|
+[Seekr](https://github.com/seekr-osint/seekr) |A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.|
+[Sherlock](https://github.com/sherlock-project/sherlock)| Search for a username in multiple platforms/websites.|
+[SherlockEye](https://sherlockeye.io/)| Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.|
+[Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md)| Search for a nickname on the web (OSINT world)|
+[User Search](http://www.usersearch.org)| Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!|
+
 
 
 #### 4. [↑](#-content) Email Search
