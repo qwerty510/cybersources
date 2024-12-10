@@ -840,7 +840,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Resource|Price|Description|
 |--|--|--|
-|[Keepass](https://www.reddit.com/r/KeePass/)|Free|Available on windows, linux, mac, IOS and Android.|
+|[Keepass](https://keepass.info/)|Free|Available on windows, linux, mac, IOS and Android.|
 
 
 
