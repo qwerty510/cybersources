@@ -116,6 +116,16 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Social Catfish](https://socialcatfish.com) | Locate people by names, images, or other identifiers.                       |
 | [Google Lens](https://lens.google)         | AI-powered tool for finding information about images.                       |
 | [LensoAI](https://lenso.ai/en)             | AI-based reverse image search.                                              |
+| [Root the Box](https://cybersectools.com/tools/root-the-box)  | A CTF (Capture The Flag) platform for practicing hacking and learning real-world cybersecurity skills. |
+| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau) | Fetches known URLs from various sources like AlienVault, Wayback Machine, and URLScan for a given domain. |
+| [Guardey](https://cybersectools.com/tools/guardey) | A security awareness training platform offering gamified challenges, progress tracking, and industry-specific content. |
+| [NightShade](https://cybersectools.com/tools/nightshade) | A simple framework for creating and running security-focused CTF challenges. |
+| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely. |
+| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs) | Enhances the reading experience of Smali code (used in Android app reverse engineering) in Emacs. |
+| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups) | A collection of detailed writeups explaining how to solve CTF challenges, useful for both beginners and advanced users. |
+| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | A guide on how to integrate security into agile development teams. |
+| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes) | Provides a set of instructions for the Dalvik virtual machine, useful for reverse engineering Android applications. |
+| [AWS Config](https://cybersectools.com/tools/aws-config) | A tool to assess, audit, and evaluate the configurations of AWS resources. |
 
 
 
@@ -1040,6 +1050,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[TheHive Project](https://github.com/TheHive-Project)| Incident response tools.|
 |[Awesome OSINT](https://github.com/jivoi/awesome-osint)| Awesome list of tools OSINT.|
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
+|[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
 
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
