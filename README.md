@@ -68,7 +68,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Steganalysis](#-22-steganalysis)
     - [Cryptocurrency](#-23-cryptocurrency)
     - [Delete Your Trace](#-24-delete-your-trace)
-    - [Playbooks](#-25-playbooks) 
+    - [Playbooks](#-25-playbooks)
+    - [Malware Analysis](#-26-malware-analysis)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -687,6 +688,65 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[IRP-Phishing](https://github.com/socfortress/Playbooks/tree/main/IRP-Phishing)|A guide for investigating phishing attacks. |
 |[IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)|Playbook for handling ransomware incidents.|
 |[Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)|Templates for incident tracking in Hive.|
+
+### [↑](#-content) 26. Malware Analysis
+
+| Tool | Description |
+| --- | --- |
+| [Yabin](https://cybersectools.com/tools/yabin)         | Creates Yara signatures from malware to identify similar samples.        |
+| [Any Run](https://cybersectools.com/tools/anyrun)     | Interactive malware sandbox for real-time analysis and threat intelligence. |
+| [Bluepot](https://cybersectools.com/tools/bluepot)     | Bluetooth honeypot for monitoring and capturing malicious activity.        |
+| [Elastic Security YARA Rules](https://cybersectools.com/tools/elastic-security-yara-rules) | Signature-based YARA rules for detecting threats across multiple platforms. |
+| [YARA-Signator](https://cybersectools.com/tools/yara-signator) | Automatically generates YARA rules for malware repositories.                |
+| [CAPE](https://cybersectools.com/tools/cape)           | Malware sandbox for executing malicious files in an isolated environment.   |
+| [MalShare](https://cybersectools.com/tools/malshare)   | Platform for uploading, searching, and downloading malware samples.         |
+| [The DFIR Report](https://cybersectools.com/tools/dfir-report) | In-depth threat intelligence reports and services.                          |
+| [Mobile Audit](https://cybersectools.com/tools/mobile-audit) | SAST and malware analysis tool for Android APKs.                            |
+| [Mastiff](https://cybersectools.com/tools/mastiff)     | Static analysis framework for extracting key characteristics from files.   |
+| [Malheur](https://cybersectools.com/tools/malheur)     | Tool for automatic analysis of malware behavior using machine learning.    |
+| [PyaraScanner](https://cybersectools.com/tools/pyarascanner) | Multithreaded YARA scanner for incident response or malware zoos.           |
+| [Static File Analyzer (SFA)](https://cybersectools.com/tools/static-file-analyzer) | A deep analysis tool for malicious files using ClamAV and YARA rules.      |
+| [Yara Decompressor](https://cybersectools.com/tools/yara-decompressor) | Tool to decompress malware samples for running YARA rules.                |
+| [Shotgunyara](https://cybersectools.com/tools/shotgunyara) | Generates YARA rules for various string and encoded malware variations.     |
+| [VxSig](https://cybersectools.com/tools/vxsig)         | Automatically generates AV byte signatures for similar binaries.           |
+| [Hybrid-Analysis](https://cybersectools.com/tools/hybrid-analysis) | Provides in-depth static and dynamic analysis of files.                    |
+| [Findom-XSS](https://cybersectools.com/tools/findom-xss) | A simple DOM-based XSS vulnerability scanner.                               |
+| [Dalfox](https://cybersectools.com/tools/dalfox)       | Powerful open-source XSS scanner for automation.                            |
+| [PyLibEmu](https://cybersectools.com/tools/pylibemu)   | Python wrapper for Libemu for shellcode analysis.                           |
+| [Yara Station](https://cybersectools.com/tools/yara-station) | Management portal for LoKi scanner with a centralized database.            |
+| [NodeYara](https://cybersectools.com/tools/nodeyara)   | Yara module for Node.js for scanning with Yara rules.                      |
+| [Malware Traffic Analysis](https://cybersectools.com/tools/malware-traffic-analysis) | Analyzes malicious network traffic to detect malware activity.             |
+| [Yara-Rust](https://cybersectools.com/tools/yara-rust) | Yara bindings for Rust supporting various features like rule compilation.  |
+| [Yara Rule Generator](https://cybersectools.com/tools/yara-rule-generator) | A tool for creating YARA rules quickly to isolate malware families.        |
+| [StringSifter](https://cybersectools.com/tools/stringsifter) | A machine learning tool for ranking strings for malware analysis.          |
+| [Inlyse](https://cybersectools.com/tools/inlyse) | AI-based IT security platform for identifying and stopping advanced malware.    |
+| [yarGen](https://cybersectools.com/tools/yargen) | Generates YARA rules by extracting strings from malware files.                  |
+| [Cuckoo Sandbox](https://cybersectools.com/tools/cuckoo-sandbox) | Automated malware analysis and detection in an isolated environment.            |
+| [Vaya-Ciego-Nen](https://cybersectools.com/tools/vaya-cego-nen) | Tool to detect and exploit Blind XSS vulnerabilities.                           |
+| [BruteXSS](https://cybersectools.com/tools/brutexss) | Finds Cross-Site Scripting (XSS) vulnerabilities in web applications.           |
+| [Findsploit](https://cybersectools.com/tools/findsploit) | Instantly find exploits from local and online databases.                       |
+| [xssor2](https://cybersectools.com/tools/xssor2) | Tool for testing and exploiting XSS vulnerabilities.                           |
+| [CFR](https://cybersectools.com/tools/cfr)         | Java decompiler supporting features up to Java 14.                             |
+| [ReFlutter](https://cybersectools.com/tools/reflutter) | Framework for reverse engineering Flutter apps.                               |
+| [Dwarf Debugger](https://cybersectools.com/tools/dwarf-debugger) | A debugger for reverse engineers and security analysts.                        |
+| [Triton](https://cybersectools.com/tools/triton)     | Dynamic binary analysis library with emulation capabilities.                   |
+| [Klara](https://cybersectools.com/tools/klara)       | Distributed Python system to help hunt for new malware using Yara rules.       |
+| [Android Malware Sandbox](https://cybersectools.com/tools/android-malware-sandbox) | Sandbox for analyzing Android malware.                                       |
+| [Fabric Platform](https://cybersectools.com/tools/fabric-platform) | Automates cybersecurity reporting with open-source tools and templates.       |
+| [Wiz](https://cybersectools.com/tools/wiz)           | Cloud-native security platform for detecting and preventing security threats.  |
+| [XSSCon](https://cybersectools.com/tools/xsscon)     | A simple XSS scanner for detecting vulnerabilities.                            |
+| [GitHunter](https://cybersectools.com/tools/githunter) | Searches Git repositories for sensitive data.                                 |
+| [jwt-key-id-injector](https://cybersectools.com/tools/jwt-key-id-injector) | Python script to test for JWT vulnerabilities.                                |
+| [qsfuzz](https://cybersectools.com/tools/qsfuzz)     | Fuzzes query strings to identify security vulnerabilities.                    |
+| [Weaponised-XSS-payloads](https://cybersectools.com/tools/weaponised-xss-payloads) | A collection of XSS payloads for exploiting web vulnerabilities.               |
+| [XSSor](https://cybersectools.com/tools/xssor)       | A tool for exploiting and testing XSS vulnerabilities in web apps.             |
+| [KLara](https://cybersectools.com/tools/klara)       | Distributed Yara rule tool for malware research.                              |
+| [ReClass](https://cybersectools.com/tools/reclass)   | A reverse engineering tool for Windows executable analysis.                    |
+| [Malwover](https://cybersectools.com/tools/malwover) | Malware detection and prevention for advanced cyber threats.                  |
+| [Odin](https://cybersectools.com/tools/odin)         | Malware analysis platform with advanced threat detection.                     |
+| [Distribute](https://cybersectools.com/tools/distribute) | Malware analysis tool that helps distribute files for analysis.                |
+| [YaraStation](https://cybersectools.com/tools/yarastation) | Management portal for Yara rule-based malware scanning.                        |
+| [CAPE](https://cybersectools.com/tools/cape)         | Malware sandbox designed for executing and analyzing malicious files.          |
 
 
 ## [↑](#-content) 🗂️ Resources
