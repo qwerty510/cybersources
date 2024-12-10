@@ -70,6 +70,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Delete Your Trace](#-24-delete-your-trace)
     - [Playbooks](#-25-playbooks)
     - [Malware Analysis](#-26-malware-analysis)
+    - [SIEM](#-27-siem)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -747,6 +748,60 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Distribute](https://cybersectools.com/tools/distribute) | Malware analysis tool that helps distribute files for analysis.                |
 | [YaraStation](https://cybersectools.com/tools/yarastation) | Management portal for Yara rule-based malware scanning.                        |
 | [CAPE](https://cybersectools.com/tools/cape)         | Malware sandbox designed for executing and analyzing malicious files.          |
+
+### [↑](#-content) 27. SIEM
+
+| Tool | Description |
+| --- | --- |
+| [LogRhythm Axon](https://cybersectools.com)    | A cloud-native SIEM platform with security analytics and simplified incident response.            |
+| [syslog-ng](https://cybersectools.com)         | A log management solution that optimizes SIEM performance and meets compliance requirements.       |
+| [Graylog](https://cybersectools.com)           | Advanced log management and SIEM for enhancing security and compliance across industries.         |
+| [Matano Open Source Security Data Lake](https://cybersectools.com) | Open-source security data lake for AWS with real-time log normalization and detection capabilities.|
+| [LogESP](https://cybersectools.com)            | A minimalistic SIEM system focused on security analysis.                                         |
+| [LogSlash](https://cybersectools.com)          | Log volume reduction tool that maintains analytical capability.                                  |
+| [LastActivityView](https://cybersectools.com)  | Collects and displays user activity and system events on a Windows system.                       |
+| [WELA](https://cybersectools.com)              | Windows Event Log Analyzer with a logon timeline generator for fast forensics.                    |
+| [Python-evtx](https://cybersectools.com)       | A pure Python parser for Windows Event Log files with access to headers and event entries.        |
+| [GrokEVT](https://cybersectools.com)           | Tool for reading Windows event log files and converting them into a human-readable format.        |
+| [OpenSOC](https://cybersectools.com)           | A centralized tool for security monitoring and analysis integrating open-source big data tools.   |
+| [Apache Metron](https://cybersectools.com)     | A centralized platform for security monitoring, using big data technologies.                      |
+| [Panther Detections](https://cybersectools.com) | A collection of SIEM detections for Panther with detailed setup instructions.                    |
+| [Alterix](https://cybersectools.com)           | Converts Sigma and Yara rules to CRYPTTECH's SIEM query language.                                |
+| [Elastic SIEM](https://cybersectools.com)      | SIEM solution within the Elastic Stack, providing powerful data indexing and analysis.           |
+| [Sumo Logic](https://cybersectools.com)        | A cloud-native SIEM tool offering analytics, monitoring, and real-time data processing.           |
+| [QRadar](https://cybersectools.com)            | IBM's SIEM solution providing real-time threat detection and incident response.                   |
+| [Splunk](https://cybersectools.com)            | Industry-leading platform for log management and SIEM analytics, used for security intelligence.  |
+| [Sleuth](https://cybersectools.com)            | SIEM tool that provides scalable and flexible event log monitoring for security teams.            |
+| [SolarWinds](https://cybersectools.com)        | A suite of monitoring and security tools with SIEM capabilities to detect and manage threats.     |
+| [EventLog Analyzer](https://cybersectools.com) | Log management software with real-time event log collection and SIEM analysis.                    |
+| [LogPoint](https://cybersectools.com)          | A SIEM solution focused on real-time security intelligence and compliance reporting.              |
+| [InsightIDR](https://cybersectools.com)        | Rapid threat detection and SIEM tool by Rapid7, known for its user behavior analytics.            |
+| [OSSEC](https://cybersectools.com)             | Open-source HIDS and SIEM that provides intrusion detection and monitoring.                       |
+| [McAfee Enterprise Security Manager](https://cybersectools.com) | A scalable SIEM solution designed for enterprise-level security operations.                      |
+| [XpoLog](https://cybersectools.com)            | A platform designed to help manage log data with machine learning insights.                       |
+| [Falcon SIEM](https://cybersectools.com)       | CrowdStrike’s cloud-native SIEM offering integrated threat detection, investigation, and response. |
+| [Logz.io](https://cybersectools.com)           | SIEM platform built on open-source technologies, using machine learning for threat detection.      |
+| [ThreatConnect](https://cybersectools.com)     | A threat intelligence platform integrated with SIEM tools for enhanced security operations.       |
+| [Secureworks](https://cybersectools.com)       | Managed detection and response platform with integrated SIEM capabilities.                        |
+| [Arcsight](https://cybersectools.com)          | Advanced SIEM solution for large enterprises, offering real-time event correlation and analysis.   |
+| [Palo Alto Networks Cortex XSOAR](https://cybersectools.com) | Security automation and orchestration platform with SIEM integrations.                            |
+| [Vormetric Data Security](https://cybersectools.com) | SIEM integration for data security, providing centralized log management and threat detection.     |
+| [ThreatHunter](https://cybersectools.com)      | Security threat hunting tool with real-time log analysis and monitoring.                          |
+| [Corelight](https://cybersectools.com)         | Network monitoring tool providing security intelligence for SIEM platforms.                       |
+| [Exabeam](https://cybersectools.com)           | Advanced SIEM platform using behavioral analytics for rapid threat detection.                      |
+| [Verint](https://cybersectools.com)            | A comprehensive security intelligence and SIEM platform for real-time analysis and monitoring.     |
+| [Tenable](https://cybersectools.com)           | Vulnerability management platform with SIEM integration for comprehensive threat detection.        |
+| [DataDome](https://cybersectools.com)          | SIEM tool designed to detect and prevent bot attacks in real-time.                                |
+| [Edgewise](https://cybersectools.com)          | Security posture management tool for monitoring and preventing attacks across various endpoints.   |
+| [Tanium](https://cybersectools.com)            | SIEM and endpoint security platform that simplifies real-time detection and management.            |
+| [Splunk UBA](https://cybersectools.com)        | User behavior analytics solution integrated with Splunk SIEM for detecting insider threats.       |
+| [Logz.io](https://cybersectools.com)           | A comprehensive open-source log management platform with machine learning-based threat detection.  |
+| [Sumo Logic Cloud SIEM](https://cybersectools.com) | Real-time log management and SIEM solution for large-scale cloud infrastructures.                 |
+| [Yara](https://cybersectools.com)              | A tool for creating and using custom rules to detect malware and integrate with SIEM systems.       |
+| [AWS CloudTrail](https://cybersectools.com)    | AWS-specific service for monitoring and storing logs, integrated into cloud SIEM systems.          |
+| [Siemless](https://cybersectools.com)          | A simple, lightweight open-source SIEM tool for event log aggregation.                             |
+| [LogDNA](https://cybersectools.com)            | Real-time cloud log management tool that integrates with SIEM for threat detection.               |
+| [Kaspersky Security](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management.   |
 
 
 ## [↑](#-content) 🗂️ Resources
