@@ -71,6 +71,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Playbooks](#-25-playbooks)
     - [Malware Analysis](#-26-malware-analysis)
     - [SIEM](#-27-siem)
+    - [Password Managers](#-28-password-managers)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -833,6 +834,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Siemless](https://cybersectools.com)          | A simple, lightweight open-source SIEM tool for event log aggregation.                             |
 | [LogDNA](https://cybersectools.com)            | Real-time cloud log management tool that integrates with SIEM for threat detection.               |
 | [Kaspersky Security](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management.   |
+
+
+### [↑](#-content) 28. Password Managers
+
+|Resource|Price|Description|
+|--|--|--|
+|[Keepass](https://www.reddit.com/r/KeePass/)|Free|Available on windows, linux, mac, IOS and Android.|
+
 
 
 ## [↑](#-content) 🗂️ Resources
