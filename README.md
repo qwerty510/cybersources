@@ -254,7 +254,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[JADX](https://github.com/skylot/jadx)|Decompiler for Android apps. Not related to JAD.|
 |[JAD](http://varaneckas.com/jad/)|JAD Java Decompiler (closed-source, unmaintained)|
 |[Luyten](https://github.com/deathmarine/Luyten)|One of the best, though a bit slow, hangs on some binaries and not very well maintained.|
-|[cutter](https://github.com/radareorg/cutter)|A decompiler based on radare2.|
+|[R2Dec](https://github.com/wargio/r2dec-js)|Decompiler plugin for radare2|
+|[Decai](https://github.com/radareorg/r2ai)|LLM-based decompiler for radare2|
 
 #### 12. [↑](#-content) Disassembler and debuggers
 
@@ -264,6 +265,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Olly](http://www.ollydbg.de/)| A 32-bit assembler level analysing debugger for Windows|
 |[plasma](https://github.com/joelpx/plasma)|Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.|
 |[radare2](https://github.com/radare/radare2)|A portable reversing framework|
+|[iaito](https://github.com/radareorg/iaito)|Graphical interface for radare2.|
 |[x64dbg](https://github.com/x64dbg/x64dbg)|An open-source x64/x32 debugger for Windows|
 |[ScratchABit](https://github.com/pfalcon/ScratchABit)| Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API|
 |[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
