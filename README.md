@@ -311,18 +311,37 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[Autopsy](http://www.sleuthkit.org/autopsy/)|A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools|
-|[sleuthkit](https://github.com/sleuthkit/sleuthkit)|A library and collection of command-line digital forensics tools|
-|[EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) |The shared technology within a suite of digital investigations products by Guidance Software|
-|[malzilla](http://malzilla.sourceforge.net/) |Malware hunting tool|
-|[IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
-|[CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
-|[CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
-|[Volatility](https://www.volatilityfoundation.org/)|Memory forensics framework.|
-|[Redline](https://www.fireeye.com/services/freeware/redline.html)| Host investigation and data acquisition tool.|
-|[REKALL](https://github.com/google/rekall)| Memory analysis and forensics.|
-|[Log2Timeline (Plaso)](https://plaso.readthedocs.io/)|Timeline creation for forensic analysis.|
-
+| [Autopsy](http://www.sleuthkit.org/autopsy/)|A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools|
+| [sleuthkit](https://github.com/sleuthkit/sleuthkit)|A library and collection of command-line digital forensics tools|
+| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) |The shared technology within a suite of digital investigations products by Guidance Software|
+| [malzilla](http://malzilla.sourceforge.net/) |Malware hunting tool|
+| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
+| [CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
+| [CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
+| [Volatility](https://www.volatilityfoundation.org/)|Memory forensics framework.|
+| [Redline](https://www.fireeye.com/services/freeware/redline.html)| Host investigation and data acquisition tool.|
+| [REKALL](https://github.com/google/rekall)| Memory analysis and forensics.|
+| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)|Timeline creation for forensic analysis.|
+| [Cyber Triage](https://cybersectools.com/tools/cyber-triage) | Automated DFIR software for investigating malware, ransomware, and account takeovers. |  
+| [Dumpzilla](https://cybersectools.com/tools/dumpzilla) | Extracts forensic data from Firefox, Iceweasel, and Seamonkey browsers. |  
+| [DFTimewolf](https://cybersectools.com/tools/dftimewolf) | Framework for orchestrating forensic collection, processing, and export. |  
+| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool) | Open-source tool for analyzing disk images and file systems. |  
+| [Volatility 3](https://cybersectools.com/tools/volatility-3) | Framework for extracting data from volatile memory, enabling system state analysis. |  
+| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air) | Digital forensics platform with tools for comprehensive incident response. |  
+| [TestDisk](https://cybersectools.com/tools/testdisk) | Data recovery software for recovering lost partitions and undeleting files. |  
+| [WinHex](https://cybersectools.com/tools/winhex) | Universal hex editor for forensics, data recovery, and IT security tasks. |  
+| [Skadi](https://cybersectools.com/tools/skadi) | Collection of open-source tools for forensic artifact and image analysis. |  
+| [Hoarder](https://cybersectools.com/tools/hoarder) | Tool to collect and parse Windows artifacts for digital forensics. |  
+| [libregf](https://cybersectools.com/tools/libregf) | Library for accessing and parsing Windows NT Registry files. |  
+| [Radare2](https://cybersectools.com/tools/radare2) | Powerful framework for reverse engineering and analyzing binaries. |  
+| [Silk Guardian](https://cybersectools.com/tools/silk-guardian) | Anti-forensic Linux kernel module that acts as a USB port kill-switch. |  
+| [evtkit](https://cybersectools.com/tools/evtkit) | Tool for fixing acquired Windows Event Log files. |  
+| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |  
+| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic research tool for gathering traces from Android and iOS devices. |  
+| [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |  
+| [Skadi](https://cybersectools.com/tools/skadi) | A free, open-source toolset for analyzing forensic artifacts and images. |  
+| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive platform for digital forensics and incident response. |  
+| [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs. |  
 
 #### 17. [↑](#-content) Hex editors
 
