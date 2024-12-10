@@ -184,6 +184,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Tools|Description|
 |--|--|
 |[WolrdEinnwes](https://world.einnews.com )|News and search engine tools.|
+|[IT Security Guru](https://www.itsecurityguru.org/)|IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure.|
 
 #### 7. [↑](#-content) Search Engines
 
