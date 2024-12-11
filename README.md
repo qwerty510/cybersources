@@ -5,7 +5,9 @@
 <!-- INCLUDING STATS -->
 <!-- <p align="left"> -->
 <!-- <img src="https://img.shields.io/github/watchers/brunoooost/cybersources?style=for-the-badge"/> -->
- <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/> 
+ <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/>  [![](https://dcbadge.limes.pink/api/server/HhjhQgnp54)](https://discord.gg/HhjhQgnp54)
+
+
 <!-- </p> -->
 
 
