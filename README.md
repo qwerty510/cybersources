@@ -32,10 +32,8 @@ This repository contains a comprehensive collection of resources, including:
 
 If you find this repository helpful, please consider giving it a star! Your support helps increase the visibility of the project and encourages others to contribute. Starring the repository helps it grow and ensures that it remains an up-to-date and valuable resource for the entire cybersecurity community.
 
-- **Join The Reddit Community:** **[r/cybersources](https://www.reddit.com/r/cybersources/)**
-- **Join The Discord Community: [cybersources](https://discord.gg/DVXAMeae48)**
-  
-[![](https://dcbadge.limes.pink/api/server/HhjhQgnp54)](https://discord.gg/HhjhQgnp54)  [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54) 
+ [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=Social&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
 
 
 ## 📋 Content 
