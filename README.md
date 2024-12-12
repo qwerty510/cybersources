@@ -119,7 +119,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Social Catfish](https://socialcatfish.com) | Locate people by names, images, or other identifiers.                       |
 | [Google Lens](https://lens.google)         | AI-powered tool for finding information about images.                       |
 | [LensoAI](https://lenso.ai/en)             | AI-based reverse image search.                                              |
-| [Root the Box](https://cybersectools.com/tools/root-the-box)  | A CTF (Capture The Flag) platform for practicing hacking and learning real-world cybersecurity skills. |
 | [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau) | Fetches known URLs from various sources like AlienVault, Wayback Machine, and URLScan for a given domain. |
 | [Guardey](https://cybersectools.com/tools/guardey) | A security awareness training platform offering gamified challenges, progress tracking, and industry-specific content. |
 | [NightShade](https://cybersectools.com/tools/nightshade) | A simple framework for creating and running security-focused CTF challenges. |
@@ -154,7 +153,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 [Sherlock](https://github.com/sherlock-project/sherlock)| Search for a username in multiple platforms/websites.|
 [SherlockEye](https://sherlockeye.io/)| Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.|
 [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md)| Search for a nickname on the web (OSINT world)|
-[User Search](http://www.usersearch.org)| Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!|
+
 
 
 
@@ -887,6 +886,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Professor Messer](https://www.professormesser.com)| Free video lessons and practice exams for CompTIA certifications.|
 |[Roppers Practical Networking](https://www.roppers.org/courses/security)|Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.|
 |[VirusTotal](https://www.virustotal.com/)|Malware analysis.|
+| [Root the Box](https://cybersectools.com/tools/root-the-box)  | A CTF (Capture The Flag) platform for practicing hacking and learning real-world cybersecurity skills. |
 |[edX](https://www.edx.org/)|Online security courses.|
 |[Hybrid Analysis](https://www.hybrid-analysis.com/)|Advanced malware sandboxing.|
 |[AbuseIPDB](https://www.abuseipdb.com/)|IP address threat intelligence.|
@@ -936,6 +936,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/)|Steganography||
 |[awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)|Steganography|
 |[Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)|BadUSB|Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.|
+
 
 ### [↑](#-content) 🕸️ Practice Webs
 
