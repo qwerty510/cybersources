@@ -5,7 +5,7 @@
 <!-- INCLUDING STATS -->
 <!-- <p align="left"> -->
 <!-- <img src="https://img.shields.io/github/watchers/brunoooost/cybersources?style=for-the-badge"/> -->
- <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/>  [![](https://dcbadge.limes.pink/api/server/HhjhQgnp54)](https://discord.gg/HhjhQgnp54) [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
+ <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/>  
 
 
 <!-- </p> -->
@@ -34,7 +34,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 - **Join The Reddit Community:** **[r/cybersources](https://www.reddit.com/r/cybersources/)**
 - **Join The Discord Community: [cybersources](https://discord.gg/DVXAMeae48)**
-
+  
+[![](https://dcbadge.limes.pink/api/server/HhjhQgnp54)](https://discord.gg/HhjhQgnp54)  [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
 
 
 ## 📋 Content 
