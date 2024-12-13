@@ -476,7 +476,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Osint Support Linkedin](https://github.com/jqueguiner/lk_scraper) | Support tools for LinkedIn OSINT. | 
 | [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for LinkedIn tasks. | 
 | [raven](https://github.com/0x09AL/raven) | LinkedIn enumeration and scraping tool. | 
-| [Recruit’em](https://recruitin.net) | Tool for finding profiles on LinkedIn. | 
 | [Recruitin.net](https://recruitin.net/) | Tool for recruiting on LinkedIn. | 
 | [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin) | LinkedIn search tool for recruiters. | 
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn) | Tool for scraping LinkedIn profiles. |
