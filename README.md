@@ -80,14 +80,15 @@ If you find this repository helpful, please consider giving it a star! Your supp
   - [Tutorials](#--tutorials)
   -  [CTFs - Training](#--ctfs---training)
   -  [Practice Webs](#-%EF%B8%8F-practice-webs)
--  [Events](#--events)
--  [Podcasts](#-%EF%B8%8F-podcasts)
--  [Community](#--community)
--  [Documentaries](#--documentaries)
--  [Books & Papers/Articles](#--books--papersarticles)
--  [TV Shows](#-%EF%B8%8F-tv-shows)
--  [Open-Source Repositories](#--open-source-repositories)
--  [Learning Path](#-%EF%B8%8F-learning-path)
+  -  [Events](#--events)
+  -  [Podcasts](#-%EF%B8%8F-podcasts)
+  -  [Community](#--community)
+  -  [Documentaries](#--documentaries)
+  -  [Books & Papers/Articles](#--books--papersarticles)
+  -  [TV Shows](#-%EF%B8%8F-tv-shows)
+  -  [Open-Source Repositories](#--open-source-repositories)
+  -  [Learning Path](#-%EF%B8%8F-learning-path)
+  -  [Projects Based](#-%EF%B8%8F-projects-based)
 -  [Colaborate](#--colaborate)
 
 
@@ -878,6 +879,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/)| Description of main penetration testing distributions|
 |[Security @ Distrowatch](http://distrowatch.com/search.php?category=Security)|Website dedicated to talking about, reviewing and keeping up to date with open source operating systems|
 |[Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of cheat sheets useful for pentesting|
+|[Anna's Achive](https://annas-archive.org/)| The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.|
+|[PDFdrive](https://www.pdfdrive.com/)|PDF Drive is your search engine for PDF files. |
 
 
 
@@ -909,6 +912,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Bugcrowd](https://www.bugcrowd.com/)|Crowdsourced cybersecurity.|
 |[Open Bug Bounty](https://www.openbugbounty.org/)|Open-source bug bounty program.|
 |[RangeForce](https://www.rangeforce.com/)|Hands-on blue team exercises.|
+|[Free Education Web](https://freeeducationweb.com/)|We are Sharing the Knowledge for Free of Charge and Help Students and Learners all Over the World.|
+|[elHacker](https://elhacker.info/Cursos/)|All hacking courses for free.|
 
 
 
@@ -1024,6 +1029,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 | Title | Category | Description |
 |--|--|--|
+
 | [Information Hiding Techniques for Steganography and Digital Watermarking](https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111) | Steganography | Techniques for steganography and digital watermarking. |
 |[Practical Network Defense](https://amzn.to/3kPqPvA)|Best practices for securing networks.|
 | [Information Hiding: Steganography and Watermarking-Attacks and Countermeasures](https://www.amazon.es/Information-Hiding-Steganography-Watermarking-Attacks-Countermeasures/dp/1461369673/ref=sr_1_50?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514854&s=gateway&sr=8-50) | Steganography | Attacks and countermeasures in steganography and watermarking. |
@@ -1088,6 +1094,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Cybersecurity](https://roadmap.sh/cyber-security)| Learn to become a Cyber Security Expert.|
 |[Linux](https://roadmap.sh/linux)|Step by step guide to learn Linux in 2024.|
 |[Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)|Community driven roadmaps, articles and guides for developers to grow in their career.|
+
+
+## [↑](#-content) 🖌️ Projects Based
+
+| Projects                                                                                      | Description |
+|--------------------------------------------------------------------------------------------|---------------------------|
+|[Fynd Academy](https://www.fynd.academy/blog/cyber-security-projects)|30 Cyber Projects on 2025 (With Source Code.|
+|[CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/)|List of ideas for your cyber projects.|
 
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
