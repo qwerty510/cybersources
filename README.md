@@ -854,6 +854,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |--|--|--|
 |[Mullvad VPN](https://mullvad.net/)|5€/month|A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.|
 |[Proton VPN](https://protonvpn.com/)|Free & Paid (Subscription)|A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.|
+|[IVPN](https://www.ivpn.net/)|Paid (Subscription)|A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security.|
+
 
 
 
