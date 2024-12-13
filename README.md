@@ -73,8 +73,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [SIEM](#-27-siem)
     - [Password Managers](#-28-password-managers)
     - [VPNs](#-29-VPNs)
-- [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
+  - [Resources](#-%EF%B8%8F-resources)
   - [Courses](#--courses)
   - [Certifications](#--certifications)
   - [Tutorials](#--tutorials)
@@ -858,10 +858,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[IVPN](https://www.ivpn.net/)|Paid (Subscription)|A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security.|
 
 
+## [↑](#-content) 📖 Learning
 
-
-
-## [↑](#-content) 🗂️ Resources
+### [↑](#-content) 🗂 Resources
 
 |Resource|Description|
 |--|--|
@@ -881,11 +880,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of cheat sheets useful for pentesting|
 |[Anna's Achive](https://annas-archive.org/)| The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.|
 |[PDFdrive](https://www.pdfdrive.com/)|PDF Drive is your search engine for PDF files. |
-
-
-
-## [↑](#-content) 📖 Learning
-
 
 ### [↑](#-content) 📚 Courses
 
