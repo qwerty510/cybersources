@@ -72,7 +72,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Malware Analysis](#-26-malware-analysis)
     - [SIEM](#-27-siem)
     - [Password Managers](#-28-password-managers)
-    - [VPNs](#29--VPNs)
+    - [VPNs](#-29-VPNs)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
