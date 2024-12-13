@@ -87,7 +87,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 -  [Books & Papers/Articles](#--books--papersarticles)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
 -  [Open-Source Repositories](#--open-source-repositories)
--  [Learning Path](#--learning-path)
+-  [Learning Path](#-%EF%B8%8F-learning-path)
 -  [Colaborate](#--colaborate)
 
 
