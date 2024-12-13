@@ -123,7 +123,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau) | Fetches known URLs from various sources like AlienVault, Wayback Machine, and URLScan for a given domain. |
 | [Guardey](https://cybersectools.com/tools/guardey) | A security awareness training platform offering gamified challenges, progress tracking, and industry-specific content. |
 | [NightShade](https://cybersectools.com/tools/nightshade) | A simple framework for creating and running security-focused CTF challenges. |
-| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely. |
 | [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs) | Enhances the reading experience of Smali code (used in Android app reverse engineering) in Emacs. |
 | [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups) | A collection of detailed writeups explaining how to solve CTF challenges, useful for both beginners and advanced users. |
 | [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | A guide on how to integrate security into agile development teams. |
@@ -871,8 +870,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[BadUSB File Format](https://developer.flipper.net/flipperzero/doxygen/badusb_file_format.html)| Document that explains how badusb works on Flipper Zero
 |[Osint-Dojo](https://www.osintdojo.com/resources/)| Project that aims to guide those new to Open Source Intelligence (OSINT)|
 |[OSTIN Attack Surface Diagrams](https://www.osintdojo.com/diagrams/main)| Diagram of diferent types of attacks on OSINT.
-|[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
-|[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 |[AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag](https://www.nxp.com/docs/en/application-note/AN1305.pdf)|NFC Forum, NFC data mapping, MIFARE Classic 1K/4K, MIFARE Classic 1K, MIFARE Classic 4K, MIFARE Plus X/S, NFC Type MIFARE Tag|
 |[Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html)|Complete list of security related operating systems|
 |[Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/)| Description of main penetration testing distributions|
@@ -978,6 +975,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Community|Description|
 |--|--|
 |[RedProtect](https://brunoooost.github.io/info.redprotect/#inicio)|Our community was born out of the shared passion of three students: [bst04](https://www.linkedin.com/in/bruno-salvatella-teichman/), [Gabriel Grigor](https://www.linkedin.com/in/vasile-gabriel-g-9468072b6/), and Luu. United by our interest in the fascinating world of cybersecurity, we decided to create a space where we can learn, share knowledge, and grow together in this dynamic and crucial field.|
+|[cybersources](https://discord.gg/HhjhQgnp54)|The community about this repository.|
+| [Harden the World](https://cybersectools.com/tools/harden-the-world) | A community-driven project focused on developing security best practices and guidelines for configuring systems securely. |
 
 
 ## [↑](#-content) 📺 Documentaries
@@ -1080,6 +1079,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Awesome OSINT](https://github.com/jivoi/awesome-osint)| Awesome list of tools OSINT.|
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
+|[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
+|[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 
 ## [↑](#-content) 🛣️ Learning Path
 
