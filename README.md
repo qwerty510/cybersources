@@ -72,6 +72,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Malware Analysis](#-26-malware-analysis)
     - [SIEM](#-27-siem)
     - [Password Managers](#-28-password-managers)
+    - [VPNs](#29--VPNs)
 - [Resources](#-%EF%B8%8F-resources)
 - [Learning](#--learning)
   - [Courses](#--courses)
@@ -283,6 +284,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Shodan](https://www.shodan.io/)|A web-crawling search engine that lets users search for various types of servers connected to the internet.|
 |[SubFinder](https://github.com/subfinder/subfinder)|SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.|
 |[sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|
+|[URLVoid](https://www.urlvoid.com/)|A website reputation checker that scans URLs with multiple security engines and blocklists to assess their safety and trustworthiness.|
+
 
 #### 14. [↑](#-content) Network
 
@@ -387,6 +390,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) |Tutorial on tools.|
 |[OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt)|A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers​|
 |[OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)|A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers​​|
+|[Everything](https://www.voidtools.com/)|A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.|
+
 
 
 
@@ -448,6 +453,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader) | Tool for downloading Instagram profile pictures. |
 | [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
 | [Webstagram](https://webstagram.org) | Instagram web viewer and search tool. |
+|[Flufi](https://flufi.me/)|A tool for exploring public stories, posts, reels, tags, followers, and more..|
+
 
 
 ##### 20.2  [↑](#-content) Linkedin
@@ -840,6 +847,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Resource|Price|Description|
 |--|--|--|
 |[Keepass](https://keepass.info/)|Free|Available on windows, linux, mac, IOS and Android.|
+
+### [↑](#-content) 29. VPNs
+
+|Resource|Price|Description|
+|--|--|--|
+|[Mullvad VPN](https://mullvad.net/)|5€/month|A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.|
+|[Proton VPN](https://protonvpn.com/)|Free & Paid (Subscription)|A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.|
+
 
 
 
