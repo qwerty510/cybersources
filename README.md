@@ -170,7 +170,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|OSINT tool for email search.|
 [MailTester](http://mailtester.com)|hunt for emails and improve your email deliverability|
 [mxtoolbox](https://mxtoolbox.com/)|Free online tools to investigate/troubleshoot email server issues.|
-[DeHashed](https://dehashed.com/)| DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.|
+[DeHashed](https://dehashed.com/)| DeHashed helps prevent ATO with our extensive data set & breach notification solution.|
 [Email Address Validator](http://www.email-validator.net)| Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.|
 [Email Format](http://email-format.com)| is a website that allows you to find email address formats used by different companies.|
 [Email Permutator](https://www.polished.app/email-permutator/)| a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. |
