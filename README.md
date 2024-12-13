@@ -87,6 +87,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 -  [Books & Papers/Articles](#--books--papersarticles)
 -  [TV Shows](#-%EF%B8%8F-tv-shows)
 -  [Open-Source Repositories](#--open-source-repositories)
+-  [Learning Path](#--learning-path)
 -  [Colaborate](#--colaborate)
 
 
@@ -1079,6 +1080,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Awesome OSINT](https://github.com/jivoi/awesome-osint)| Awesome list of tools OSINT.|
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
+
+## [↑](#-content) 🛣️ Learning Path
+
+| Roadmap                                                                                      | Description |
+|--------------------------------------------------------------------------------------------|---------------------------|
+|[Cybersecurity](https://roadmap.sh/cyber-security)| Learn to become a Cyber Security Expert.|
+|[Linux](https://roadmap.sh/linux)|Step by step guide to learn Linux in 2024.|
+|[Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)|Community driven roadmaps, articles and guides for developers to grow in their career.|
 
 ## [↑](#-content) 💬 Colaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
