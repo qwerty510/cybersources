@@ -74,7 +74,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Password Managers](#-28-password-managers)
     - [VPNs](#-29-VPNs)
 - [Learning](#--learning)
-  - [Resources](#-%EF%B8%8F-resources)
+  - [Resources](#--resources)
   - [Courses](#--courses)
   - [Certifications](#--certifications)
   - [Tutorials](#--tutorials)
