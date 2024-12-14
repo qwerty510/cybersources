@@ -110,50 +110,48 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 | **Tool**                                    | **Description**                                                              |
 |--------------------------------------------|------------------------------------------------------------------------------|
-| [osint.rocks](https://osint.rocks)         | Tool for searching and finding people.                                       |
-| [Pim Eyes](https://pimeyes.com/en)         | Reverse image search for face recognition.                                   |
-| [IntelTechniques](https://inteltechniques.com/tools/Search.htm) | OSINT search engine tool for various data types.                            |
-| [Cybdetective](https://cybdetective.com/osintmap) | Global map of OSINT tools.                                                  |
-| [Face Comparison](https://facecomparison.toolpie.com) | Tool for comparing facial images.                                           |
-| [OSINT Framework](https://osintframework.com) | Comprehensive collection of OSINT resources.                                |
-| [FaceCheckID](https://facecheck.id)        | Reverse image search focused on facial recognition.                         |
-| [Social Catfish](https://socialcatfish.com) | Locate people by names, images, or other identifiers.                       |
-| [Google Lens](https://lens.google)         | AI-powered tool for finding information about images.                       |
-| [LensoAI](https://lenso.ai/en)             | AI-based reverse image search.                                              |
-| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau) | Fetches known URLs from various sources like AlienVault, Wayback Machine, and URLScan for a given domain. |
-| [Guardey](https://cybersectools.com/tools/guardey) | A security awareness training platform offering gamified challenges, progress tracking, and industry-specific content. |
-| [NightShade](https://cybersectools.com/tools/nightshade) | A simple framework for creating and running security-focused CTF challenges. |
-| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs) | Enhances the reading experience of Smali code (used in Android app reverse engineering) in Emacs. |
-| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups) | A collection of detailed writeups explaining how to solve CTF challenges, useful for both beginners and advanced users. |
-| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | A guide on how to integrate security into agile development teams. |
-| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes) | Provides a set of instructions for the Dalvik virtual machine, useful for reverse engineering Android applications. |
-| [AWS Config](https://cybersectools.com/tools/aws-config) | A tool to assess, audit, and evaluate the configurations of AWS resources. |
-
+| [osint.rocks](https://osint.rocks)         | A resource for locating and investigating individuals.                        |
+| [Pim Eyes](https://pimeyes.com/en)         | Facial recognition tool for reverse image searches.                          |
+| [IntelTechniques](https://inteltechniques.com/tools/Search.htm) | Search engine tailored for OSINT investigations across multiple data types.  |
+| [Cybdetective](https://cybdetective.com/osintmap) | Visual global directory of OSINT tools.                                      |
+| [Face Comparison](https://facecomparison.toolpie.com) | Compare facial images to find matches.                                       |
+| [OSINT Framework](https://osintframework.com) | Extensive repository of OSINT tools and techniques.                          |
+| [FaceCheckID](https://facecheck.id)        | Reverse image lookup specialized in facial recognition.                      |
+| [Social Catfish](https://socialcatfish.com) | Find people using names, images, or other details.                           |
+| [Google Lens](https://lens.google)         | AI-powered tool to analyze and extract information from images.              |
+| [LensoAI](https://lenso.ai/en)             | AI-driven platform for reverse image searching.                              |
+| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau) | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
+| [Guardey](https://cybersectools.com/tools/guardey) | Offers gamified training and content for improving cybersecurity awareness.   |
+| [NightShade](https://cybersectools.com/tools/nightshade) | Framework for designing and executing CTF challenges with a focus on security. |
+| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs) | Improves Emacs usability for reading Smali code, aiding Android reverse engineering. |
+| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups) | Detailed explanations and solutions for Capture the Flag (CTF) challenges.    |
+| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.   |
+| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes) | A guide to Dalvik VM instructions, useful for analyzing Android applications. |
+| [AWS Config](https://cybersectools.com/tools/aws-config) | Evaluates and audits AWS resource configurations for compliance and security. | 
 
 
 #### 3. [↑](#-content) Username Search
 
 | **Tool**                                       | **Description**                                                              |
 |-----------------------------------------------|------------------------------------------------------------------------------|
-| [WhatsMyName](https://whatsmyname.app)        | Search for usernames across multiple platforms.                              |
-| [NameCheck](https://www.namecheckr.com)       | Verify username availability on various websites.                           |
-| [UserSearch](https://usersearch.org)          | User-Searcher is a powerful and free tool to help you search username in 2000+ websites.                      |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced username search tool for OSINT.                                    |
-[CheckUser](https://checkuser.vercel.app/)| search username across social networks|
-[Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | A username search tool that crawls adult content platforms to see if a targeted account or person is present.|
-[Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)|Check for registered username on 100s of sites for free.|
-[IDCrawl](https://www.idcrawl.com/username)| Search for a username in popular social networks.|
-[Maigret](https://github.com/soxoj/maigret)| Collect a dossier on a person by username.|
-[Name Chk](http://www.namechk.com)|Check over 30 domains and more than 90 social media account platforms.|
-[Name Checkr](http://www.namecheckr.com)| Checks a domain and username across many platforms.|
-[Name Checkup](https://namecheckup.com)| Is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.|
-[NameKetchup](https://nameketchup.com)| Checks domain name and username in popular social media sites and platforms.|
-[NexFil](https://github.com/thewhiteh4t/nexfil)| Checks username from almost all social network sites.|
-[Seekr](https://github.com/seekr-osint/seekr) |A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.|
-[Sherlock](https://github.com/sherlock-project/sherlock)| Search for a username in multiple platforms/websites.|
-[SherlockEye](https://sherlockeye.io/)| Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.|
-[Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md)| Search for a nickname on the web (OSINT world)|
-
+| [WhatsMyName](https://whatsmyname.app)        | Locate usernames across numerous platforms.                                   |
+| [NameCheck](https://www.namecheckr.com)       | Check username availability on various websites.                             |
+| [UserSearch](https://usersearch.org)          | Free tool to search usernames on 2000+ websites.                             |
+| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced tool for OSINT username searches.                                   |
+| [CheckUser](https://checkuser.vercel.app/)    | Search for usernames across social networks.                                 |
+| [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | Crawls adult content platforms to search for specific usernames.             |
+| [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html) | Free tool to verify usernames registered on hundreds of sites.               |
+| [IDCrawl](https://www.idcrawl.com/username)   | Find usernames on popular social networks.                                   |
+| [Maigret](https://github.com/soxoj/maigret)   | Collect detailed information on individuals using their username.            |
+| [Name Chk](http://www.namechk.com)            | Verify usernames on over 90 social media platforms and 30 domain extensions. |
+| [Name Checkr](http://www.namecheckr.com)      | Search for domains and usernames across multiple platforms.                  |
+| [Name Checkup](https://namecheckup.com)       | Check username and domain availability across social media and websites.     |
+| [NameKetchup](https://nameketchup.com)        | Explore domain name and username availability on popular platforms.          |
+| [NexFil](https://github.com/thewhiteh4t/nexfil) | Identify usernames across nearly all social network sites.                   |
+| [Seekr](https://github.com/seekr-osint/seekr) | Multi-tool for OSINT data management, note-taking, and username checking.    |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Search for usernames across various platforms.                               |
+| [SherlockEye](https://sherlockeye.io/)        | Discover publicly available information tied to a username.                  |
+| [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) | Search for nicknames and usernames on the web within the OSINT domain.       | 
 
 
 
@@ -161,27 +159,27 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[Industries OSINT](https://osint.industries)|Various OSINT tools for email investigation.|
-|[BlackBird](https://blackbird-osint.herokuapp.com)|Comprehensive email search tool.|
-|[Epieos](https://epieos.com)|Investigate email addresses.|
-|[ScanIdentity](https://scan.identityguard.com/full)|Identity scanning and verification tool.|
-|[LeakPeak](https://leakpeek.com )|Check if email addresses have been leaked.|
-|[BreachDirectory](https://breachdirectory.org )|Directory of breached emails.|
-|[0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file)|OSINT tool for email search.|
-[MailTester](http://mailtester.com)|hunt for emails and improve your email deliverability|
-[mxtoolbox](https://mxtoolbox.com/)|Free online tools to investigate/troubleshoot email server issues.|
-[DeHashed](https://dehashed.com/)| DeHashed helps prevent ATO with our extensive data set & breach notification solution.|
-[Email Address Validator](http://www.email-validator.net)| Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.|
-[Email Format](http://email-format.com)| is a website that allows you to find email address formats used by different companies.|
-[Email Permutator](https://www.polished.app/email-permutator/)| a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact. |
-[EmailHippo](https://tools.verifyemailaddress.io)| is an email address verification platform that will check whether a given email address exist or not.|
-[Ghunt](https://github.com/mxrch/GHunt)| Investigate Google emails and documents.|
-[Gitrecon](https://github.com/atiilla/gitrecon)| Node.js tool to scan GitHub repositories for exposed email addresses and names.|
-[h8mail](https://github.com/khast3x/h8mail)|Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.|
-[Have I Been Pwned](https://haveibeenpwned.com)| Search across multiple data breaches to see if your email address has been compromised.|
-[Holehe](https://github.com/megadose/holehe)| allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.|
-[Hunter](https://hunter.io)| Hunter lets you find email addresses in seconds and connect with the people that matter for your business.|
-[LeakCheck](https://leakcheck.io/)|Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.| 
+| [Industries OSINT](https://osint.industries) | Offers a variety of tools for investigating email addresses.                 |
+| [BlackBird](https://blackbird-osint.herokuapp.com) | Comprehensive search platform for email investigation.                       |
+| [Epieos](https://epieos.com)                 | Analyze and investigate email addresses.                                     |
+| [ScanIdentity](https://scan.identityguard.com/full) | Verify identities and scan for security risks.                              |
+| [LeakPeak](https://leakpeek.com)             | Identify whether email addresses have been leaked.                          |
+| [BreachDirectory](https://breachdirectory.org) | Explore databases of breached email accounts.                               |
+| [0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file) | OSINT tool dedicated to email searches.                                     |
+| [MailTester](http://mailtester.com)          | Locate email addresses and optimize email deliverability.                   |
+| [MXToolbox](https://mxtoolbox.com/)          | Troubleshoot and investigate email server issues using free tools.          |
+| [DeHashed](https://dehashed.com/)            | Prevent account takeovers with breach notifications and data analysis.       |
+| [Email Address Validator](http://www.email-validator.net) | Enhance email deliverability, reduce bounce rates, and prevent fraud.        |
+| [Email Format](http://email-format.com)      | Discover the email formats used by different organizations.                 |
+| [Email Permutator](https://www.polished.app/email-permutator/) | Generate potential email addresses for targeted contacts.                    |
+| [EmailHippo](https://tools.verifyemailaddress.io) | Verify if an email address exists with accuracy.                            |
+| [Ghunt](https://github.com/mxrch/GHunt)      | Investigate Google-related emails and associated documents.                 |
+| [Gitrecon](https://github.com/atiilla/gitrecon) | Scan GitHub repositories for exposed emails and names.                      |
+| [h8mail](https://github.com/khast3x/h8mail)  | Perform local or premium email OSINT and password breach hunting.           |
+| [Have I Been Pwned](https://haveibeenpwned.com) | Check whether an email address has been exposed in data breaches.           |
+| [Holehe](https://github.com/megadose/holehe) | Discover accounts linked to email addresses across various platforms.        |
+| [Hunter](https://hunter.io)                  | Find email addresses quickly and connect with business contacts.            |
+| [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
 
 #### 5. [↑](#-content) GEOINT
 
@@ -217,15 +215,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum)|Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.|
-|[Amass](https://github.com/owasp-amass/amass)|The amass tool searches Internet data sources,performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses.| 
-|[Columbus Project](https://columbus.elmasy.com/)|Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
-|[findsubdomains](https://findsubdomains.com/)|Automatically scans different sources to collect as many subdomains as can. 
-|[Merklemap](https://www.merklemap.com/)| Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.|
-|[Subdomains Top 1 Million (5000](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt)|A file containing a list of subdomains from the top 1 million domains, useful for large-scale subdomain enumeration.|
-|[Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt)|This list includes a set of subdomains gathered from Shubs (a subdomain scanning tool), providing valuable data for reconnaissance.| 
-|[DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt)| This list is curated by the researcher Jhaddix, offering a more focused list of DNS subdomains for penetration testing. Link here​|
-
+| [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum) | Multithreaded Perl script for DNS enumeration and identifying non-contiguous IP blocks. |
+| [Amass](https://github.com/owasp-amass/amass) | Tool for subdomain enumeration using data sources, brute force, web archives, and machine learning. |
+| [Columbus Project](https://columbus.elmasy.com/) | Advanced subdomain discovery service with a fast, user-friendly API. |
+| [findsubdomains](https://findsubdomains.com/) | Automatically collects subdomains from various online sources. |
+| [Merklemap](https://www.merklemap.com/) | Enumerates subdomains, including hidden ones, by analyzing certificate transparency logs. |
+| [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration. |
+| [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
+| [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
 
 #### 9. [↑](#-content) Post Explotation
 
@@ -263,56 +260,57 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[IDA](https://www.hex-rays.com/products/ida/)|IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger|
-|[Olly](http://www.ollydbg.de/)| A 32-bit assembler level analysing debugger for Windows|
-|[plasma](https://github.com/joelpx/plasma)|Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.|
-|[radare2](https://github.com/radare/radare2)|A portable reversing framework|
-|[iaito](https://github.com/radareorg/iaito)|Graphical interface for radare2.|
-|[x64dbg](https://github.com/x64dbg/x64dbg)|An open-source x64/x32 debugger for Windows|
-|[ScratchABit](https://github.com/pfalcon/ScratchABit)| Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API|
-|[Ghidra](https://ghidra-sre.org/)|A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
+| [IDA](https://www.hex-rays.com/products/ida/) | Multi-platform disassembler and debugger for Windows, Linux, and macOS.         |
+| [Olly](http://www.ollydbg.de/)                | 32-bit assembler-level debugging tool for Windows.                            |
+| [plasma](https://github.com/joelpx/plasma)    | Interactive disassembler for x86, ARM, and MIPS, with indented pseudo-code and syntax coloring. |
+| [radare2](https://github.com/radare/radare2)  | Portable and versatile reverse engineering framework.                         |
+| [iaito](https://github.com/radareorg/iaito)   | Graphical interface for the radare2 reverse engineering framework.            |
+| [x64dbg](https://github.com/x64dbg/x64dbg)    | Open-source debugger for x64 and x32 applications on Windows.                 |
+| [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins. |
+| [Ghidra](https://ghidra-sre.org/)             | Comprehensive reverse engineering suite developed by the NSA.                 |
 
 #### 13. [↑](#-content) Web
 
 |Web|Description|
 |--|--|
-|[recon-ng](https://github.com/lanmaster53/recon-ng)|A web reconnaissance framework.|
-|[SpySe](https://spyse.com/)|Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.|
-|[FindSubdomains](https://findsubdomains.com/)|A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.|
-|[Git-Scanner](https://github.com/HightechSec/git-scanner)|A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public|
-|[Keyscope](https://github.com/SpectralOps/keyscope)|An extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors|
-|[VHostScan](https://github.com/codingo/VHostScan)|A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.|
-|[Shodan](https://www.shodan.io/)|A web-crawling search engine that lets users search for various types of servers connected to the internet.|
-|[SubFinder](https://github.com/subfinder/subfinder)|SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.|
-|[sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|
-|[URLVoid](https://www.urlvoid.com/)|A website reputation checker that scans URLs with multiple security engines and blocklists to assess their safety and trustworthiness.|
+| [recon-ng](https://github.com/lanmaster53/recon-ng)  | Web reconnaissance framework for gathering OSINT.                                  |
+| [SpySe](https://spyse.com/)                        | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT. |
+| [FindSubdomains](https://findsubdomains.com/)       | Subdomain discovery tool that gathers and validates subdomains from open-source internet sources. |
+| [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.     |
+| [Keyscope](https://github.com/SpectralOps/keyscope)  | Key and secret auditing tool that checks secrets against multiple SaaS platforms. |
+| [VHostScan](https://github.com/codingo/VHostScan)    | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations. |
+| [Shodan](https://www.shodan.io/)                    | Search engine for finding servers and devices connected to the internet.          |
+| [SubFinder](https://github.com/subfinder/subfinder)  | Tool for discovering valid subdomains through passive online sources.            |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap)    | Automatic SQL injection tool for database takeover.                              |
+| [URLVoid](https://www.urlvoid.com/)                 | Website reputation checker that scans URLs for safety using multiple security engines and blocklists. |
 
 
 #### 14. [↑](#-content) Network
 
 |Tools|Description|
 |--|--|
-|[NetworkMiner](http://www.netresec.com/?page=NetworkMiner)|A Network Forensic Analysis Tool (NFAT)|
-|[Paros](http://sourceforge.net/projects/paros/)|A Java-based HTTP/HTTPS proxy for assessing web application vulnerability.|
-|[pig](https://github.com/rafael-santiago/pig)|A Linux packet crafting tool|
-|[findsubdomains](https://findsubdomains.com)|really fast subdomains scanning service that has much greater opportunities than simple subs finder(works using OSINT).|
-|[cirt-fuzzer](http://www.cirt.dk/)|A simple TCP/UDP protocol fuzzer.|
-|[ASlookup](https://aslookup.com/)|A useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)|
-|[ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)|The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.|
-|[mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j)|Man-in-the-middle SOCKS Proxy for Java|
-|[ssh-mitm](https://github.com/jtesta/ssh-mitm)|An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.|
-|[nmap](https://nmap.org/)|Nmap (Network Mapper) is a security scanner|
-|[Aircrack-ng](http://www.aircrack-ng.org/)| An 802.11 WEP and WPA-PSK keys cracking program||
-|[Nipe](https://github.com/GouveaHeitor/nipe)|A script to make Tor Network your default gateway.|
-|[Habu](https://github.com/portantier/habu)|Python Network Hacking Toolkit|
-|[Wifi Jammer](https://n0where.net/wifijammer/)|Free program to jam all wifi clients in range|
-|[Firesheep](https://codebutler.github.io/firesheep/)|Free program for HTTP session hijacking attacks.|
-|[Scapy](https://github.com/secdev/awesome-scapy)|A Python tool and library for low level packet creation and manipulation|
-|[Amass](https://github.com/OWASP/Amass)|In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping|
-|[sniffglue](https://github.com/kpcyrd/sniffglue)|Secure multithreaded packet sniffer|
-|[Netz](https://github.com/spectralops/netz)|Discover internet-wide misconfigurations, using zgrab2 and others.|
-|[RustScan](https://github.com/rustscan/rustscan)|Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.|
-|[PETEP](https://github.com/Warxim/petep)|Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.|
+| [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) | Network Forensic Analysis Tool (NFAT) for analyzing network traffic. |
+| [Paros](http://sourceforge.net/projects/paros/) | Java-based HTTP/HTTPS proxy for web application vulnerability assessment. |
+| [pig](https://github.com/rafael-santiago/pig) | Linux-based packet crafting tool. |
+| [findsubdomains](https://findsubdomains.com) | Fast subdomain scanning service using OSINT for discovery. |
+| [cirt-fuzzer](http://www.cirt.dk/) | Simple TCP/UDP protocol fuzzer for vulnerability testing. |
+| [ASlookup](https://aslookup.com/) | Tool for exploring autonomous systems with related data (CIDR, ASN, Org). |
+| [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | Integrated penetration testing tool for identifying vulnerabilities in web applications. |
+| [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) | Man-in-the-middle SOCKS proxy for Java. |
+| [ssh-mitm](https://github.com/jtesta/ssh-mitm) | SSH/SFTP man-in-the-middle tool for logging sessions and passwords. |
+| [nmap](https://nmap.org/) | Security scanner for network exploration and vulnerability scanning. |
+| [Aircrack-ng](http://www.aircrack-ng.org/) | WEP and WPA-PSK cracking tool for 802.11 wireless networks. |
+| [Nipe](https://github.com/GouveaHeitor/nipe) | Script to route traffic through the Tor network. |
+| [Habu](https://github.com/portantier/habu) | Python toolkit for network hacking. |
+| [Wifi Jammer](https://n0where.net/wifijammer/) | Program to jam all Wi-Fi clients in range. |
+| [Firesheep](https://codebutler.github.io/firesheep/) | HTTP session hijacking attack tool. |
+| [Scapy](https://github.com/secdev/awesome-scapy) | Python tool for creating and manipulating network packets. |
+| [Amass](https://github.com/OWASP/Amass) | Subdomain enumeration tool with scraping, brute forcing, crawling, and reverse DNS capabilities. |
+| [sniffglue](https://github.com/kpcyrd/sniffglue) | Multithreaded secure packet sniffer. |
+| [Netz](https://github.com/spectralops/netz) | Tool for discovering internet-wide misconfigurations using zgrab2. |
+| [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner using Rust, designed for quick scanning and integration with Nmap. |
+| [PETEP](https://github.com/Warxim/petep) | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support. |
+
 
 #### 15. [↑](#-content) Cryptography
 
@@ -327,37 +325,38 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-| [Autopsy](http://www.sleuthkit.org/autopsy/)|A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools|
-| [sleuthkit](https://github.com/sleuthkit/sleuthkit)|A library and collection of command-line digital forensics tools|
-| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) |The shared technology within a suite of digital investigations products by Guidance Software|
-| [malzilla](http://malzilla.sourceforge.net/) |Malware hunting tool|
-| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/)| Brazilian Federal Police Tool for Forensic Investigation|
-| [CyLR](https://github.com/orlikoski/CyLR)| NTFS forensic image collector |
-| [CAINE](https://www.caine-live.net/)|CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.|
-| [Volatility](https://www.volatilityfoundation.org/)|Memory forensics framework.|
-| [Redline](https://www.fireeye.com/services/freeware/redline.html)| Host investigation and data acquisition tool.|
-| [REKALL](https://github.com/google/rekall)| Memory analysis and forensics.|
-| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)|Timeline creation for forensic analysis.|
-| [Cyber Triage](https://cybersectools.com/tools/cyber-triage) | Automated DFIR software for investigating malware, ransomware, and account takeovers. |  
-| [Dumpzilla](https://cybersectools.com/tools/dumpzilla) | Extracts forensic data from Firefox, Iceweasel, and Seamonkey browsers. |  
-| [DFTimewolf](https://cybersectools.com/tools/dftimewolf) | Framework for orchestrating forensic collection, processing, and export. |  
-| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool) | Open-source tool for analyzing disk images and file systems. |  
-| [Volatility 3](https://cybersectools.com/tools/volatility-3) | Framework for extracting data from volatile memory, enabling system state analysis. |  
-| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air) | Digital forensics platform with tools for comprehensive incident response. |  
-| [TestDisk](https://cybersectools.com/tools/testdisk) | Data recovery software for recovering lost partitions and undeleting files. |  
-| [WinHex](https://cybersectools.com/tools/winhex) | Universal hex editor for forensics, data recovery, and IT security tasks. |  
-| [Skadi](https://cybersectools.com/tools/skadi) | Collection of open-source tools for forensic artifact and image analysis. |  
-| [Hoarder](https://cybersectools.com/tools/hoarder) | Tool to collect and parse Windows artifacts for digital forensics. |  
-| [libregf](https://cybersectools.com/tools/libregf) | Library for accessing and parsing Windows NT Registry files. |  
-| [Radare2](https://cybersectools.com/tools/radare2) | Powerful framework for reverse engineering and analyzing binaries. |  
-| [Silk Guardian](https://cybersectools.com/tools/silk-guardian) | Anti-forensic Linux kernel module that acts as a USB port kill-switch. |  
-| [evtkit](https://cybersectools.com/tools/evtkit) | Tool for fixing acquired Windows Event Log files. |  
-| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |  
-| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic research tool for gathering traces from Android and iOS devices. |  
-| [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |  
-| [Skadi](https://cybersectools.com/tools/skadi) | A free, open-source toolset for analyzing forensic artifacts and images. |  
-| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive platform for digital forensics and incident response. |  
-| [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs. |  
+| [Autopsy](http://www.sleuthkit.org/autopsy/) | Digital forensics platform and graphical interface for The Sleuth Kit and other tools. |
+| [sleuthkit](https://github.com/sleuthkit/sleuthkit) | A collection of command-line digital forensics tools and library. |
+| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) | Suite of digital investigation products by Guidance Software. |
+| [malzilla](http://malzilla.sourceforge.net/) | Malware hunting tool for analysis and detection. |
+| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) | Brazilian Federal Police forensic investigation tool. |
+| [CyLR](https://github.com/orlikoski/CyLR) | NTFS forensic image collector for forensic investigations. |
+| [CAINE](https://www.caine-live.net/) | Ubuntu-based tool that provides a complete forensic environment with a graphical interface. |
+| [Volatility](https://www.volatilityfoundation.org/) | Framework for memory forensics and analysis of volatile memory. |
+| [Redline](https://www.fireeye.com/services/freeware/redline.html) | Host investigation and data acquisition tool. |
+| [REKALL](https://github.com/google/rekall) | Memory analysis and forensics framework. |
+| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/) | Tool for creating timelines for forensic analysis. |
+| [Cyber Triage](https://cybersectools.com/tools/cyber-triage) | Automated DFIR software for investigating malware, ransomware, and account takeovers. |
+| [Dumpzilla](https://cybersectools.com/tools/dumpzilla) | Tool to extract forensic data from Firefox, Iceweasel, and Seamonkey browsers. |
+| [DFTimewolf](https://cybersectools.com/tools/dftimewolf) | Framework for orchestrating forensic collection, processing, and export. |
+| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool) | Open-source tool for analyzing disk images and file systems. |
+| [Volatility 3](https://cybersectools.com/tools/volatility-3) | Framework for extracting data from volatile memory for system state analysis. |
+| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air) | Digital forensics platform for comprehensive incident response. |
+| [TestDisk](https://cybersectools.com/tools/testdisk) | Data recovery software for recovering lost partitions and undeleting files. |
+| [WinHex](https://cybersectools.com/tools/winhex) | Universal hex editor for forensics, data recovery, and IT security tasks. |
+| [Skadi](https://cybersectools.com/tools/skadi) | Open-source tools for forensic artifact and image analysis. |
+| [Hoarder](https://cybersectools.com/tools/hoarder) | Tool for collecting and parsing Windows artifacts for digital forensics. |
+| [libregf](https://cybersectools.com/tools/libregf) | Library for accessing and parsing Windows NT Registry files. |
+| [Radare2](https://cybersectools.com/tools/radare2) | Powerful framework for reverse engineering and binary analysis. |
+| [Silk Guardian](https://cybersectools.com/tools/silk-guardian) | Anti-forensic Linux kernel module that acts as a USB port kill-switch. |
+| [evtkit](https://cybersectools.com/tools/evtkit) | Tool for fixing acquired Windows Event Log files. |
+| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |
+| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic tool for gathering traces from Android and iOS devices. |
+| [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |
+| [Skadi](https://cybersectools.com/tools/skadi) | Free, open-source toolset for analyzing forensic artifacts and images. |
+| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive digital forensics and incident response platform. |
+| [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
+
 
 #### 17. [↑](#-content) Hex editors
 
@@ -373,26 +372,25 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[Wireshark](https://www.wireshark.org/)|A free and open-source packet analyzer
-|[tcpdump](http://www.tcpdump.org/)|A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture.|
-|[mitmproxy](https://github.com/mitmproxy/mitmproxy)| An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.|
-|[Charles Proxy](https://charlesproxy.com) |A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.|
-|[usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)|USB capture for Linux.|
-|[USBPcap](https://github.com/desowin/usbpcap) |USB capture for Windows.|
-|[dynStruct](https://github.com/ampotos/dynStruct) |structures recovery via dynamic instrumentation.|
-|[drltrace](https://github.com/mxmssh/drltrace) |shared library calls tracing.|
+| [Wireshark](https://www.wireshark.org/) | A free and open-source packet analyzer for network protocol analysis. |
+| [tcpdump](http://www.tcpdump.org/) | A powerful command-line packet analyzer, along with libpcap for network traffic capture. |
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface. |
+| [Charles Proxy](https://charlesproxy.com) | A cross-platform GUI web debugging proxy for viewing intercepted HTTP and HTTPS/SSL live traffic. |
+| [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) | USB capture tool for Linux, used for monitoring USB traffic. |
+| [USBPcap](https://github.com/desowin/usbpcap) | USB capture tool for Windows, useful for monitoring USB traffic. |
+| [dynStruct](https://github.com/ampotos/dynStruct) | A tool for structure recovery via dynamic instrumentation. |
+| [drltrace](https://github.com/mxmssh/drltrace) | A tool for tracing shared library calls. |
 
 #### 19. [↑](#-content) System
 
 |Tools|Description|
 |--|--|
-|[Metasploit](https://github.com/rapid7/metasploit-framework) |A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.|
-|[mimikatz](https://github.com/gentilkiwi/mimikatz)|A little tool to play with Windows security|
-|[Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) |Tutorial on tools.|
-|[OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt)|A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers​|
-|[OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)|A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers​​|
-|[Everything](https://www.voidtools.com/)|A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.|
-
+| [Metasploit](https://github.com/rapid7/metasploit-framework) | A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. |
+| [mimikatz](https://github.com/gentilkiwi/mimikatz) | A tool for Windows security that can extract plaintext passwords, hashes, and other secrets from memory. |
+| [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) | A YouTube playlist offering tutorials on various hacking tools. |
+| [OBEX_common.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_common.txt) | A list of common OBEX (Object Exchange) paths, useful for targeting OBEX servers. |
+| [OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt) | A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers. |
+| [Everything](https://www.voidtools.com/) | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage. |
 
 
 
@@ -643,7 +641,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [stegify](https://github.com/DimitarPetrov/stegify) | A simple steganography tool. |
 | [Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101) | An introductory guide to steganography. |
 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | A tool for embedding PowerShell scripts in images. |
-| [instegogram](https://github.com/endgameinc/instegogram) | A tool for stegan|
+| [instegogram](https://github.com/endgameinc/instegogram) | A tool for steganography in Instagram images. |
 
 ### [↑](#-content) 22. Steganalysis
 
