@@ -181,6 +181,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Holehe](https://github.com/megadose/holehe) | Discover accounts linked to email addresses across various platforms.        |
 | [Hunter](https://hunter.io)                  | Find email addresses quickly and connect with business contacts.            |
 | [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
+| [LeakRadar](https://leakradar.io/) | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
 
 #### 5. [↑](#-content) GEOINT
 
