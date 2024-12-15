@@ -1083,5 +1083,5 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 ![](https://contrib.rocks/image?repo=brunoooost/cybersources)
 
-### [↑](#-content) 🪪 Credits
+## [↑](#-content) 🪪 Credits
 - [awesome-osint](https://github.com/jivoi/awesome-osint)
