@@ -40,9 +40,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Utility](#1--utility)
     - [Miscellaneous](#2--miscellaneous)
     - [OSINT](#3--osint)
-      - [Username Search](#3--username-search)
-      - [Email Search](#4--email-search)
-      - [GEOINT](#5--geoint)
+      - [Username Search](#31--username-search)
+      - [Email Search](#32--email-search)
+      - [GEOINT](#33--geoint)
     - [News](#4--news)
     - [Search Engines](#5--search-engines)
     - [DNS](#6--dns)
@@ -134,7 +134,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 #### 3. [↑](#-content) OSINT
 
 
-##### [↑](#-content) Username Search
+##### 3.1 [↑](#-content) Username Search
 
 | **Tool**                                       | **Description**                                                              |
 |-----------------------------------------------|------------------------------------------------------------------------------|
@@ -159,7 +159,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 
-##### [↑](#-content) Email Search
+##### 3.2 [↑](#-content) Email Search
 
 |Tools|Description|
 |--|--|
@@ -186,7 +186,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
 | [LeakRadar](https://leakradar.io/) | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
 
-##### [↑](#-content) GEOINT
+##### 3.3 [↑](#-content) GEOINT
 
 |Tools|Description|
 |--|--|
