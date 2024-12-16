@@ -45,7 +45,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
       - [GEOINT](#33--geoint)
     - [News](#4--news)
     - [Search Engines](#5--search-engines)
-    - [DNS](#6--dns)
+    - [DNS/IP](#6--dns/ip)
     - [Post Explotation](#7--post-explotation)
     - [Deobfuscators](#8--deobfuscators)
     - [Decompilers](#9--decompilers)
@@ -241,7 +241,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 
-#### 6. [↑](#-content) DNS
+#### 6. [↑](#-content) DNS/IP
 
 |Tools|Description|
 |--|--|
@@ -253,6 +253,47 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration. |
 | [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
 | [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
+Here is a revised list of the tools and services you mentioned, with changed wording and presented in a table format:
+| [Domain Digger](https://www.domaindigger.com) | Explore DNS records, WHOIS data, SSL/TLS certificates, subdomains, and more.             |  
+| [DNSlytics](https://dnslytics.com)         | Search for domain IPs, IPv4, IPv6, or associated providers.                             |  
+| [DNSTwist](https://dnstwist.com)           | Scan for phishing domains and related risks.                                           |  
+| [SecurityTrails](https://securitytrails.com) | Search for domain names, IPs, keywords, or hostnames to assess cybersecurity risks.      |  
+| [Shodan](https://www.shodan.io)           | Search for internet-connected servers and devices using advanced filters.               |  
+| [InternetDB](https://internetdb.shodan.io)  | View open ports and device types linked to specific IP addresses.                       |  
+| [GreyNoise Intelligence](https://www.greynoise.io) | Identify internet scanners and common business activities in your security logs.        |  
+| [FOFA](https://fofa.so)                   | Explore internet-connected devices for reconnaissance and vulnerability analysis.        |  
+| [ZoomEye](https://www.zoomeye.org)        | A freemium tool for security reconnaissance, scanning for vulnerable devices online.      |  
+| [Censys](https://www.censys.io)           | Assess the attack surface of internet-connected devices and platforms.                   |  
+| [ViewDNS.info](https://viewdns.info)     | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.    |  
+| [Internet Census 2012](https://internetcensus2012.org) | Access service probe records from a large-scale 2012 internet scan.                      |  
+| [ONYPHE](https://www.onyphe.io)           | Cyber defense search engine that indexes exposed assets from the internet and dark web.  |  
+| [IPLeak](https://ipleak.net)             | Test for leaks in your IP address, DNS, and WebRTC during online activity.                |  
+| [Robtex](https://www.robtex.com)          | Research IP numbers, domains, and other online assets for deeper analysis.               |  
+| [Wappalyzer](https://www.wappalyzer.com)   | Identify the technology stack behind any website, including CMS, e-commerce, and more.    |  
+| [Photon](https://github.com/s0md3v/Photon) | A fast web crawler designed for OSINT (Open Source Intelligence) collection.              |  
+| [Technology Lookup](https://www.technologylookup.com) | Check which technologies a website is built with, including frameworks and tools.         |  
+| [BuiltWith](https://www.builtwith.com)     | Discover the technologies used to build any website, from CMS to hosting platforms.       |  
+| [OSINT.SH](https://osint.sh)              | A suite of OSINT tools for comprehensive information gathering.                           |  
+| [Nmap Checker Tool](https://nmap.org)      | Analyze network infrastructure and devices using Nmap’s powerful scanning features.      |  
+| [Free Network Tools](https://www.networktools.com) | Offers network diagnostics such as traceroute, nslookup, ping, and DNS lookups.          |  
+| [Google Transparency Report](https://transparencyreport.google.com) | Reports on HTTPS encryption across the web.                                              |  
+| [Certificate Search](https://www.certificate-search.com) | Lookup and analyze SSL certificates and their associated domains.                        |  
+| [CRT](https://crt.sh)                    | Search and analyze SSL certificates for cybersecurity insights.                          |  
+| [LeakIX](https://leakix.net)              | Scan for exposed internet services and find relevant vulnerabilities.                    |  
+| [URLScan.io](https://urlscan.io)          | A tool to scan and analyze websites, recording all interactions during page navigation.   |  
+| [DNSDumpster](https://dnsdumpster.com)    | A free DNS research tool that identifies hosts related to a domain for security analysis. |  
+| [Domain Codex](https://www.domaincodex.com) | Perform private investigations and legal case research, including digital piracy analysis. |  
+| [SimilarWeb](https://www.similarweb.com)   | Analyze website traffic sources and compare competitors’ online performance.             |  
+| [IP Search](https://www.ipsearch.com)      | Access a network reputation database to find malicious IP addresses.                     |  
+| [Reverse Domain](https://www.reversedomain.com) | Discover domain names based on keyword searches.                                         |  
+| [IANA - Root Zone Database](https://www.iana.org/domains/root/db) | Provides delegation details for top-level domains (TLDs) like .com, .uk, and more.        |  
+| [PunkSpider](https://www.punkspider.org)   | Search for vulnerable websites to assess security risks.                                |  
+| [Metabigor](https://www.metabigor.com)     | Offers various OSINT tools without requiring an API key for access.                     |  
+| [URLDNA](https://www.urldna.com)           | Gather information about URLs, such as SSL certificates, IP, and metadata.               |  
+| [Check-The-Sum](https://www.checkthesum.com) | A database of malicious files, IPs, and domains collected from honeypots.                |
+
+
+
 
 #### 7. [↑](#-content) Post Explotation
 
