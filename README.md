@@ -45,7 +45,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
       - [GEOINT](#33--geoint)
     - [News](#4--news)
     - [Search Engines](#5--search-engines)
-    - [DNS/IP](#6--dns/ip)
+    - [DNS/IP](#6--dnsip)
     - [Post Explotation](#7--post-explotation)
     - [Deobfuscators](#8--deobfuscators)
     - [Decompilers](#9--decompilers)
