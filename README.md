@@ -185,6 +185,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Hunter](https://hunter.io)                  | Find email addresses quickly and connect with business contacts.            |
 | [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
 | [LeakRadar](https://leakradar.io/) | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
+|[Telegram Group](https://t.me/+tObrYXqGOetmODhl)|A Telegram bot that allows you to search people's names in more than 3000 websites.|
+
 
 ##### 3.3 [↑](#-content) GEOINT
 
