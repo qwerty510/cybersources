@@ -792,8 +792,18 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 | Tool | Description |
 | --- | --- |
-|[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
-|[CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
+| [CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
+| [CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
+| [Coinwink](https://www.coinwink.com) | Receive alerts for significant cryptocurrency price changes.                   |
+| [Flowscan](https://www.flowscan.org) | Blockchain explorer and analytics for various cryptocurrencies.                |
+| [Bitcoin Explorer](https://www.bitcoinexplorer.org) | Explore Bitcoin's blockchain, tracking all transactions in its public ledger. |
+| [Ethereum Block Explorer](https://www.etherscan.io) | Etherscan is a comprehensive block explorer and analytics platform for Ethereum.|
+| [Blockchain Explorer](https://www.blockchain.com/explorer) | A platform offering various services, starting with Bitcoin blockchain exploration.|
+| [Blockcypher](https://www.blockcypher.com) | A blockchain explorer that provides additional information not found elsewhere.|
+| [Bitcoin Forums Search Engine](https://www.google.com) | Custom Google search engine focused on Bitcoin forums and discussions.         |
+| [Addresschecker.eu](https://www.addresschecker.eu) | Tool for verifying and checking the validity of cryptocurrency addresses.      |
+| [Cryptocurrency Alerting](https://www.cryptocurrencyalerting.com) | Real-time customizable price alerts for cryptocurrencies, stocks, and coins.  |
+
 
 ### [↑](#-content) 22. Delete Your Trace
 
