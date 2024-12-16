@@ -253,7 +253,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration. |
 | [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
 | [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
-Here is a revised list of the tools and services you mentioned, with changed wording and presented in a table format:
 | [Domain Digger](https://www.domaindigger.com) | Explore DNS records, WHOIS data, SSL/TLS certificates, subdomains, and more.             |  
 | [DNSlytics](https://dnslytics.com)         | Search for domain IPs, IPv4, IPv6, or associated providers.                             |  
 | [DNSTwist](https://dnstwist.com)           | Scan for phishing domains and related risks.                                           |  
