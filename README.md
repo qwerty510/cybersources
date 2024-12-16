@@ -131,8 +131,10 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes) | A guide to Dalvik VM instructions, useful for analyzing Android applications. |
 | [AWS Config](https://cybersectools.com/tools/aws-config) | Evaluates and audits AWS resource configurations for compliance and security. | 
 
+#### 3. [↑](#-content) OSINT
 
-#### 3. [↑](#-content) Username Search
+
+##### [↑](#-content) Username Search
 
 | **Tool**                                       | **Description**                                                              |
 |-----------------------------------------------|------------------------------------------------------------------------------|
@@ -157,7 +159,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 
-#### 4. [↑](#-content) Email Search
+##### [↑](#-content) Email Search
 
 |Tools|Description|
 |--|--|
@@ -184,7 +186,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [LeakCheck](https://leakcheck.io/)           | Search over 7.5B breached entries for emails, usernames, and other data.    |
 | [LeakRadar](https://leakradar.io/) | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
 
-#### 5. [↑](#-content) GEOINT
+##### [↑](#-content) GEOINT
 
 |Tools|Description|
 |--|--|
