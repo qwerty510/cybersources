@@ -457,8 +457,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader) | Tool for downloading Instagram profile pictures. |
 | [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
 | [Webstagram](https://webstagram.org) | Instagram web viewer and search tool. |
-|[Flufi](https://flufi.me/)|A tool for exploring public stories, posts, reels, tags, followers, and more..|
-
+| [Flufi](https://flufi.me/)|A tool for exploring public stories, posts, reels, tags, followers, and more..|
+| [Find Instagram User ID](https://findinstagramuserid.com/) | A tool to find the Instagram user ID for any profile.                                                                          |
 
 
 ##### 18.2  [↑](#-content) Linkedin
@@ -502,7 +502,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. | 
 | [Tikbuddy](https://app.tikbuddy.com/) | Tool for analyzing TikTok profiles and content. | 
 | [TikTok API](https://github.com/szdc/tiktok-api) | API for interacting with TikTok. | 
-| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok. | 
+| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok. |
 | [TikTok Downloader](https://tiktokdownloader.com/) | Tool for downloading TikTok videos. | 
 | [TikTok Hashtags](https://tiktokhashtags.com) | Tool for generating TikTok hashtags. | 
 | [TikTok Scraper](https://github.com/Dutchosintguy/tiktok-scraper) | Tool for scraping TikTok profiles and videos. | 
@@ -524,13 +524,20 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [SimilarFans](https://similarfans.com/) | Tool for finding similar OnlyFans profiles. | 
 | [FanSearch](https://www.fansearch.com/) | Comprehensive search tool for OnlyFans. |
 
-
 #### 18.5  [↑](#-content) Discord
 
 | Tools | Description |
 |-------|-------------|
 | [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord. | 
 | [Discord History Tracker](https://dht.chylex.com/) | A tool for tracking and saving chat histories in Discord. |
+| [DISBOARD](https://disboard.org/)                  | A platform to discover and list Discord servers.                                                                               |
+| [Discord Bots (Community)](https://discord.bots.gg/)  | A collection of publicly available Discord bots created by community members, serving various functions.                       |
+| [Discord ID Lookup](https://discord.id/)         | An unofficial tool for looking up Discord user information.                                                                   |
+| [Discord Bots (Exploration)](https://top.gg/) | A vast collection to explore millions of Discord bots for different purposes.                                                   |
+| [DiscordServers](https://discordservers.com/)            | A curated selection of popular and interesting public Discord servers.                                                        |
+| [Discord Me](https://discord.me/)                | A site for finding public Discord servers and bots.                                                                            |
+| [DiscordOSINT](https://discordosint.com/)              | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots.            |
+| [Discord Bots](https://discordbots.org/)              | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.                    |
 
 
 #### 18.6  [↑](#-content) Twitch
