@@ -1067,6 +1067,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Mitre ATT&CK](https://github.com/mitre/)|Adversarial tactics and techniques.|
 |[TheHive Project](https://github.com/TheHive-Project)| Incident response tools.|
 |[Awesome OSINT](https://github.com/jivoi/awesome-osint)| Awesome list of tools OSINT.|
+|[awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)| Awesome for some tools OSINT|
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
 |[awesome-hacking](https://github.com/carpedm20/awesome-hacking)| Awesome list of hacking.|
@@ -1098,3 +1099,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 - [awesome-osint](https://github.com/jivoi/awesome-osint)
 - [achirou](https://achirou.com)
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+- [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
