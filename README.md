@@ -302,8 +302,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Metabigor](https://www.metabigor.com)     | Offers various OSINT tools without requiring an API key for access.                     |  
 | [URLDNA](https://www.urldna.com)           | Gather information about URLs, such as SSL certificates, IP, and metadata.               |  
 | [Check-The-Sum](https://www.checkthesum.com) | A database of malicious files, IPs, and domains collected from honeypots.                |
-
-
+| [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file) | Open Source Active Directory ACL Visualizer and Explorer.|
 
 
 #### 7. [↑](#-content) Post Explotation
