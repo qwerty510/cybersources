@@ -190,11 +190,23 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
-|[OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
-|[GeoSpy](https://geospy.ai)|The World's Best AI Geolocation Tool|
-|[Picarta](https://picarta.ai)|We find where a photo has been taken in the world using Artificial Intelligence.|
-|[IPLogger](https://iplogger.org/)|IP Logger link shortener with geolocalizaction with advanced analytics.|
+| [Bellingcat](https://osm-search.bellingcat.com )|Geospatial intelligence and analysis.|
+| [OhShint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geospatial-intelligence-geoint )|Geospatial OSINT tools.|
+| [GeoSpy](https://geospy.ai)|The World's Best AI Geolocation Tool|
+| [Picarta](https://picarta.ai)|We find where a photo has been taken in the world using Artificial Intelligence.|
+| [IPLogger](https://iplogger.org/)|IP Logger link shortener with geolocalizaction with advanced analytics.|
+| [GeoNames](https://www.geonames.org) | The GeoNames geographical database with over 11 million placenames.            |
+| [Geoseer.net](https://www.geoseer.net) | Search over 3.5 million spatial GIS datasets hosted on over 40k live services. |
+| [GeoINT Search](https://www.google.com) | Custom Google search for geographical-related queries.                         |
+| [Earth Engine Dataset](https://earthengine.google.com) | Public data archive with over 40 years of imagery and scientific datasets.    |
+| [GeoPlatform Portal](https://www.geoplatform.gov) | Cross-agency collaborative effort for geospatial data sharing and transparency. |
+| [FAO Map Catalog](https://www.fao.org) | Collection of geographical maps from the FAO.                                   |
+| [Geocreepy](https://github.com/benmcgann/geocreepy) | Geolocation OSINT tool for gathering location data from social networks.       |
+| [US Crisis Monitor](https://www.uscrisismonitor.com) | In-depth coverage of political violence trends in the US.                      |
+| [Toronto Live](https://www.torontolive.ca) | Provides live information about public schools, traffic, bike shares, etc.     |
+| [GeoProtests API](https://www.geoprotests.com) | Query and visualize protests worldwide with spatial aggregations.              |
+| [GeoINT-py](https://github.com/geoint-py) | A collection of geospatial intelligence workflows implemented in Python.        |
+
 
 #### 4. [↑](#-content) News
 
