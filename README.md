@@ -1085,3 +1085,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 ## [↑](#-content) 🪪 Credits
 - [awesome-osint](https://github.com/jivoi/awesome-osint)
+- [achirou](https://achirou.com)
