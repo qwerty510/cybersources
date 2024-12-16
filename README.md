@@ -43,37 +43,37 @@ If you find this repository helpful, please consider giving it a star! Your supp
       - [Username Search](#3--username-search)
       - [Email Search](#4--email-search)
       - [GEOINT](#5--geoint)
-    - [News](#6--news)
-    - [Search Engines](#7--search-engines)
-    - [DNS](#8--dns)
-    - [Post Explotation](#9--post-explotation)
-    - [Deobfuscators](#10--username-search)
-    - [Decompilers](#11--decompilers)
-    - [Disassembler and debuggers](#12--Disassembler-and-debuggers)
-    - [Web](#13--web)
-    - [Network](#14--network)
-    - [Cryptography](#15--cryptography)
-    - [Forensic](#16--forensic)
-    - [Hex editors](#17--hex-editors)
-    - [Execution logging and tracing](#18--execution-logging-and-tracing)
-    - [System](#19--system)
-    - [Social Networks](#20--social-networks)
-      - [Instagram](#201--instagram)
-      - [Linkedin](#202---linkedin)
-      - [TikTok](#203---tiktok)
-      - [OnlyFans](#204---onlyfans)
-      - [Discord](#205---discord)
-      - [Twitch](#206---twitch)
-      - [Tinder](#207---tinder)
-    - [Steganographic](#-21-steganographic)
-    - [Steganalysis](#-22-steganalysis)
-    - [Cryptocurrency](#-23-cryptocurrency)
-    - [Delete Your Trace](#-24-delete-your-trace)
-    - [Playbooks](#-25-playbooks)
+    - [News](#4--news)
+    - [Search Engines](#5--search-engines)
+    - [DNS](#6--dns)
+    - [Post Explotation](#7--post-explotation)
+    - [Deobfuscators](#8--username-search)
+    - [Decompilers](#9--decompilers)
+    - [Disassembler and debuggers](#10--Disassembler-and-debuggers)
+    - [Web](#11--web)
+    - [Network](#12--network)
+    - [Cryptography](#13--cryptography)
+    - [Forensic](#14--forensic)
+    - [Hex editors](#15--hex-editors)
+    - [Execution logging and tracing](#16--execution-logging-and-tracing)
+    - [System](#17--system)
+    - [Social Networks](#18--social-networks)
+      - [Instagram](#181--instagram)
+      - [Linkedin](#182---linkedin)
+      - [TikTok](#183---tiktok)
+      - [OnlyFans](#184---onlyfans)
+      - [Discord](#185---discord)
+      - [Twitch](#186---twitch)
+      - [Tinder](#187---tinder)
+    - [Steganographic](#-19-steganographic)
+    - [Steganalysis](#-20-steganalysis)
+    - [Cryptocurrency](#-21-cryptocurrency)
+    - [Delete Your Trace](#-22-delete-your-trace)
+    - [Playbooks](#-23-playbooks)
     - [Malware Analysis](#-26-malware-analysis)
-    - [SIEM](#-27-siem)
-    - [Password Managers](#-28-password-managers)
-    - [VPNs](#-29-VPNs)
+    - [SIEM](#-24-siem)
+    - [Password Managers](#-25-password-managers)
+    - [VPNs](#-26-VPNs)
 - [Learning](#--learning)
   - [Resources](#--resources)
   - [Courses](#--courses)
@@ -196,14 +196,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Picarta](https://picarta.ai)|We find where a photo has been taken in the world using Artificial Intelligence.|
 |[IPLogger](https://iplogger.org/)|IP Logger link shortener with geolocalizaction with advanced analytics.|
 
-#### 6. [↑](#-content) News
+#### 4. [↑](#-content) News
 
 |Tools|Description|
 |--|--|
 |[WolrdEinnwes](https://world.einnews.com )|News and search engine tools.|
 |[IT Security Guru](https://www.itsecurityguru.org/)|IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure.|
 
-#### 7. [↑](#-content) Search Engines
+#### 5. [↑](#-content) Search Engines
 
 |Tools|Description|
 |--|--|
@@ -216,7 +216,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)|An OSINT automation tool.|
 
-#### 8. [↑](#-content) DNS
+#### 6. [↑](#-content) DNS
 
 |Tools|Description|
 |--|--|
@@ -229,7 +229,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
 | [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
 
-#### 9. [↑](#-content) Post Explotation
+#### 7. [↑](#-content) Post Explotation
 
 | Tools|Description|
 |--|--|
@@ -238,14 +238,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)| A PowerShell post exploitation framework.|
 |[ebowla](https://github.com/Genetic-Malware/Ebowla)|Framework for Making Environmental Keyed Payloads.|
 
-#### 10. [↑](#-content) Deobfuscators
+#### 8. [↑](#-content) Deobfuscators
 
 |Tools|Description|
 |--|--|
 |[JS Nice](http://jsnice.org/)|Web service guessing JS variables names and types based on the model derived from open source.|
 |[de4dot](https://github.com/0xd4d/de4dot)|.NET deobfuscator and unpacker.|
 
-#### 11. [↑](#-content) Decompilers
+#### 9. [↑](#-content) Decompilers
 
 |Tools|Description|
 |--|--|
@@ -261,7 +261,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[R2Dec](https://github.com/wargio/r2dec-js)|Decompiler plugin for radare2|
 |[Decai](https://github.com/radareorg/r2ai)|LLM-based decompiler for radare2|
 
-#### 12. [↑](#-content) Disassembler and debuggers
+#### 10. [↑](#-content) Disassembler and debuggers
 
 |Tools|Description|
 |--|--|
@@ -274,7 +274,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins. |
 | [Ghidra](https://ghidra-sre.org/)             | Comprehensive reverse engineering suite developed by the NSA.                 |
 
-#### 13. [↑](#-content) Web
+#### 11. [↑](#-content) Web
 
 |Web|Description|
 |--|--|
@@ -290,7 +290,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [URLVoid](https://www.urlvoid.com/)                 | Website reputation checker that scans URLs for safety using multiple security engines and blocklists. |
 
 
-#### 14. [↑](#-content) Network
+#### 12. [↑](#-content) Network
 
 |Tools|Description|
 |--|--|
@@ -317,7 +317,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [PETEP](https://github.com/Warxim/petep) | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support. |
 
 
-#### 15. [↑](#-content) Cryptography
+#### 13. [↑](#-content) Cryptography
 
 |Tools|Description|
 |--|--|
@@ -326,7 +326,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Aircrack](http://www.aircrack-ng.org/) |Aircrack is 802.11 WEP and WPA-PSK keys cracking program.|
 |[Ciphey](https://github.com/ciphey/ciphey)| Automated decryption tool using artificial intelligence & natural language processing.|
 
-#### 16. [↑](#-content) Forensic
+#### 14. [↑](#-content) Forensic
 
 |Tools|Description|
 |--|--|
@@ -363,7 +363,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
 
 
-#### 17. [↑](#-content) Hex editors
+#### 15. [↑](#-content) Hex editors
 
 |Tools|Description|
 |--|--|
@@ -373,7 +373,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Synalize It](https://www.synalysis.net/)||
 |[Hexinator](https://hexinator.com/)||
 
-#### 18. [↑](#-content) Execution logging and tracing
+#### 16. [↑](#-content) Execution logging and tracing
 
 |Tools|Description|
 |--|--|
@@ -386,7 +386,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [dynStruct](https://github.com/ampotos/dynStruct) | A tool for structure recovery via dynamic instrumentation. |
 | [drltrace](https://github.com/mxmssh/drltrace) | A tool for tracing shared library calls. |
 
-#### 19. [↑](#-content) System
+#### 17. [↑](#-content) System
 
 |Tools|Description|
 |--|--|
@@ -399,9 +399,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 
-#### 20. [↑](#-content) Social Networks
+#### 18. [↑](#-content) Social Networks
 
-##### 20.1 [↑](#-content) Instagram
+##### 18.1 [↑](#-content) Instagram
 
 | Tools | Description |
 |-------|-------------|
@@ -461,7 +461,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 
 
-##### 20.2  [↑](#-content) Linkedin
+##### 18.2  [↑](#-content) Linkedin
 
 | Tools | Description |
 |-------|-------------|
@@ -485,7 +485,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn) | Tool for scraping LinkedIn profiles. |
 
 
-#### 20.3  [↑](#-content) TikTok 
+#### 18.3  [↑](#-content) TikTok 
 
 | Tools | Description |
 |-------|-------------|
@@ -513,7 +513,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [TubeHi](https://tubehi.com) | Tool for analyzing TikTok and YouTube content. | 
 | [Vidnice](https://vidnice.com) | Tool for analyzing TikTok profiles and content. |
 
-#### 20.4  [↑](#-content) OnlyFans 
+#### 18.4  [↑](#-content) OnlyFans 
 
 | Tools | Description |
 |-------|-------------|
@@ -525,7 +525,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [FanSearch](https://www.fansearch.com/) | Comprehensive search tool for OnlyFans. |
 
 
-#### 20.5  [↑](#-content) Discord
+#### 18.5  [↑](#-content) Discord
 
 | Tools | Description |
 |-------|-------------|
@@ -533,7 +533,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Discord History Tracker](https://dht.chylex.com/) | A tool for tracking and saving chat histories in Discord. |
 
 
-#### 20.6  [↑](#-content) Twitch
+#### 18.6  [↑](#-content) Twitch
 
 | Tools | Description |
 |-------|-------------|
@@ -550,7 +550,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage) | Tool for checking how long users have been following a Twitch channel.
 
 
-#### 20.7  [↑](#-content) Tinder
+#### 18.7  [↑](#-content) Tinder
 
 | Tools | Description |
 |-------|-------------|
@@ -575,7 +575,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [zoosk](https://www.zoosk.com) | Dating site with a behavioral matchmaking algorithm. |
 
 
-### [↑](#-content) 21. Steganographic
+### [↑](#-content) 19. Steganographic
 
 | Tools | Description |
 |--|--|
@@ -648,7 +648,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | A tool for embedding PowerShell scripts in images. |
 | [instegogram](https://github.com/endgameinc/instegogram) | A tool for steganography in Instagram images. |
 
-### [↑](#-content) 22. Steganalysis
+### [↑](#-content) 20. Steganalysis
 
 | Tool | Description |
 | --- | --- |
@@ -703,14 +703,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DeepSteg](https://github.com/deepsteg/deepsteg) | A steganalysis tool for detecting hidden data in images using deep learning techniques. |
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2) | A steganography analysis tool. |
 
-### [↑](#-content) 23. Cryptocurrency
+### [↑](#-content) 21. Cryptocurrency
 
 | Tool | Description |
 | --- | --- |
 |[CryptoID](https://chainz.cryptoid.info/ltc/)|This site provides blockchain explorers for several crypto-currencies.|
 |[CoinTracker](https://www.cointracker.io/wallets/2/7d1bdc76-c995-4739-b7ab-dbe8c52f6305)|Platform that connects your crypto wallets|
 
-### [↑](#-content) 24. Delete Your Trace
+### [↑](#-content) 22. Delete Your Trace
 
 | Tool | Description |
 | --- | --- |
@@ -719,7 +719,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[incogni](https://incogni.com/)|Delete your information of databrokers.|
 |[JustDeleteMe](https://justdeleteme.xyz/)| Delete your accounts.| 
 
-### [↑](#-content) 25. Playbooks
+### [↑](#-content) 23. Playbooks
 
 | Tool | Description |
 | --- | --- |
@@ -731,7 +731,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)|Playbook for handling ransomware incidents.|
 |[Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)|Templates for incident tracking in Hive.|
 
-### [↑](#-content) 26. Malware Analysis
+### [↑](#-content) 24. Malware Analysis
 
 | Tool | Description |
 | --- | --- |
@@ -790,7 +790,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [YaraStation](https://cybersectools.com/tools/yarastation) | Management portal for Yara rule-based malware scanning.                        |
 | [CAPE](https://cybersectools.com/tools/cape)         | Malware sandbox designed for executing and analyzing malicious files.          |
 
-### [↑](#-content) 27. SIEM
+### [↑](#-content) 25. SIEM
 
 | Tool | Description |
 | --- | --- |
@@ -845,13 +845,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Kaspersky Security](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management.   |
 
 
-### [↑](#-content) 28. Password Managers
+### [↑](#-content) 26. Password Managers
 
 |Resource|Price|Description|
 |--|--|--|
 |[Keepass](https://keepass.info/)|Free|Available on windows, linux, mac, IOS and Android.|
 
-### [↑](#-content) 29. VPNs
+### [↑](#-content) 27. VPNs
 
 |Resource|Price|Description|
 |--|--|--|
