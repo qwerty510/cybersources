@@ -207,14 +207,39 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-|[True People Search](https://truepeoplesearch.net )|Search for people's information.|
-|[Webmii](https://webmii.com )|Aggregate search for personal information.|
-|[Usa-Oficial](https://usa-official.com)|Official USA search tools.|
-|[Ussearch](https://ussearch.com  )|Search for people in the USA.|
-|[ThatsThem](https://thatsthem.com )|Comprehensive search for personal information.|
-|[Shodan Search](https://www.shodan.io)|Search engine for Internet-connected devices.|
-|[Maltego](https://www.maltego.com)|Tool for link analysis and data visualization.|
-|[Spiderfoot](https://github.com/smicallef/spiderfoot)|An OSINT automation tool.|
+| [True People Search](https://truepeoplesearch.net )| Search for people's information.|
+| [Webmii](https://webmii.com )| Aggregate search for personal information.|
+| [Usa-Oficial](https://usa-official.com)| Official USA search tools.|
+| [Ussearch](https://ussearch.com  )| Search for people in the USA.|
+| [ThatsThem](https://thatsthem.com )| Comprehensive search for personal information.|
+| [Shodan Search](https://www.shodan.io)| Search engine for Internet-connected devices.|
+| [Maltego](https://www.maltego.com)| Tool for link analysis and data visualization.|
+| [Spiderfoot](https://github.com/smicallef/spiderfoot)| An OSINT automation tool.|
+| [Google Advanced Search](https://www.google.com/advanced_search) | A tool to filter and refine search results based on specific needs.               |  
+| [Google Scholar](https://scholar.google.com)                     | Search engine for scholarly articles, theses, books, and other academic resources.|  
+| [Bing](https://www.bing.com)                                     | Microsoft’s search engine with intelligent features and integrated services.      |  
+| [Yandex](https://www.yandex.com)                                 | Popular Russian search engine offering web, image, and video search capabilities. |  
+| [MetaGer](https://metager.org)                                   | Privacy-focused search engine combining results from multiple indexes.            |  
+| [DuckDuckGo](https://duckduckgo.com)                             | Privacy-oriented search engine that doesn’t track user activity.                  |  
+| [Startpage](https://www.startpage.com)                           | Privacy-friendly search engine offering anonymous browsing.                       |  
+| [Swisscows](https://swisscows.com)                               | Anonymous search engine that protects user privacy and filters inappropriate content. |  
+| [Qwant](https://www.qwant.com)                                   | Privacy-respecting search engine with a European origin.                          |  
+| [Ecosia](https://www.ecosia.org)                                 | Eco-friendly search engine that uses ad revenue to plant trees worldwide.         |  
+| [Mojeek](https://www.mojeek.com)                                 | Independent search engine with a no-tracking policy.                              |  
+| [Brave Search](https://search.brave.com)                         | Privacy-centric search engine integrated with the Brave browser.                  |  
+| [Yahoo Search](https://search.yahoo.com)                         | Yahoo’s search engine offering web, image, and video search.                      |  
+| [Baidu](https://www.baidu.com)                                   | China’s leading search engine.                                                   |  
+| [Dogpile](https://www.dogpile.com)                               | Metasearch engine that aggregates results from multiple search engines.           |  
+| [Million Short](https://millionshort.com)                        | A search engine that filters out top-ranked websites for deeper web discovery.    |  
+| [MetaCrawler (Zoo Search)](https://www.metacrawler.com)          | Combines results from multiple search engines into a unified format.              |  
+| [Carrot2](https://search.carrot2.org)                            | Organizes search results into topic-based clusters for better navigation.         |  
+| [Ask](https://www.ask.com)                                       | Combines a search engine with a news feed.                                        |  
+| [Search Engines Index](https://www.searchengineindex.com)        | Directory of search engines for different countries worldwide.                    |  
+| [CachedViews](https://www.cachedviews.com)                       | Access cached versions of web pages from various sources.                         |  
+| [LibGen](https://libgen.rs)                                      | The largest free digital library of books.                                        |  
+| [2lingual](https://www.2lingual.com)                             | Allows simultaneous Google searches in two languages.                             |  
+
+
 
 #### 6. [↑](#-content) DNS
 
