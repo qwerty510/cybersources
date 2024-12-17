@@ -375,7 +375,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) | Network Forensic Analysis Tool (NFAT) for analyzing network traffic. |
 | [Paros](http://sourceforge.net/projects/paros/) | Java-based HTTP/HTTPS proxy for web application vulnerability assessment. |
 | [pig](https://github.com/rafael-santiago/pig) | Linux-based packet crafting tool. |
-| [findsubdomains](https://findsubdomains.com) | Fast subdomain scanning service using OSINT for discovery. |
 | [cirt-fuzzer](http://www.cirt.dk/) | Simple TCP/UDP protocol fuzzer for vulnerability testing. |
 | [ASlookup](https://aslookup.com/) | Tool for exploring autonomous systems with related data (CIDR, ASN, Org). |
 | [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | Integrated penetration testing tool for identifying vulnerabilities in web applications. |
