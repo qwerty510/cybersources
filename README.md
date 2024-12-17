@@ -359,7 +359,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Cyberbro](https://github.com/stanfrbd/cyberbro) | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
 | [recon-ng](https://github.com/lanmaster53/recon-ng)  | Web reconnaissance framework for gathering OSINT.                                  |
 | [SpySe](https://spyse.com/)                        | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT. |
-| [FindSubdomains](https://findsubdomains.com/)       | Subdomain discovery tool that gathers and validates subdomains from open-source internet sources. |
 | [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.     |
 | [Keyscope](https://github.com/SpectralOps/keyscope)  | Key and secret auditing tool that checks secrets against multiple SaaS platforms. |
 | [VHostScan](https://github.com/codingo/VHostScan)    | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations. |
