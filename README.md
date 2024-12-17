@@ -359,7 +359,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Cyberbro](https://github.com/stanfrbd/cyberbro) | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
 | [recon-ng](https://github.com/lanmaster53/recon-ng)  | Web reconnaissance framework for gathering OSINT.                                  |
 | [SpySe](https://spyse.com/)                        | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT. |
-| [FindSubdomains](https://findsubdomains.com/)       | Subdomain discovery tool that gathers and validates subdomains from open-source internet sources. |
 | [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.     |
 | [Keyscope](https://github.com/SpectralOps/keyscope)  | Key and secret auditing tool that checks secrets against multiple SaaS platforms. |
 | [VHostScan](https://github.com/codingo/VHostScan)    | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations. |
@@ -376,7 +375,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) | Network Forensic Analysis Tool (NFAT) for analyzing network traffic. |
 | [Paros](http://sourceforge.net/projects/paros/) | Java-based HTTP/HTTPS proxy for web application vulnerability assessment. |
 | [pig](https://github.com/rafael-santiago/pig) | Linux-based packet crafting tool. |
-| [findsubdomains](https://findsubdomains.com) | Fast subdomain scanning service using OSINT for discovery. |
 | [cirt-fuzzer](http://www.cirt.dk/) | Simple TCP/UDP protocol fuzzer for vulnerability testing. |
 | [ASlookup](https://aslookup.com/) | Tool for exploring autonomous systems with related data (CIDR, ASN, Org). |
 | [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | Integrated penetration testing tool for identifying vulnerabilities in web applications. |
@@ -437,7 +435,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |
 | [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic tool for gathering traces from Android and iOS devices. |
 | [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |
-| [Skadi](https://cybersectools.com/tools/skadi) | Free, open-source toolset for analyzing forensic artifacts and images. |
 | [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive digital forensics and incident response platform. |
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
 
@@ -523,8 +520,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Otzberg.net](https://www.otzberg.net/iguserid/index.php) | Tool for finding Instagram user IDs. |
 | [Panoramiq](https://apps.hootsuite.com/apps/panoramiq) | Tool for scheduling and managing Instagram posts. |
 | [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for social media platforms. |
-| [Phlanx: Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) | Tool for calculating Instagram engagement rates. |
-| [Picker](https://commentpicker.com) | Tool for selecting random winners from Instagram comments. |
 | [Picodash](https://www.picodash.com) | Tool for searching and organizing Instagram content. |
 | [Scylla](https://github.com/josh0xA/Scylla) | Tool for Instagram OSINT and data scraping. |
 | [Skimagram](https://snoopreport.com) | Tool for tracking Instagram activity. |
@@ -698,8 +693,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography) | A deep learning based steganography tool. |
 | [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
 | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
-| [StegCracker](https://github.com/Paradoxis/StegCracker) | A steganography brute-force tool. |
-| [StegExpose](https://github.com/b3dk7/StegExpose) | A steganalysis tool for detecting hidden data. |
 | [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
 | [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
 | [SteCoSteg](https://github.com/cryptolok/SteCoSteg) | A steganography tool. |
@@ -836,7 +829,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Bluepot](https://cybersectools.com/tools/bluepot)     | Bluetooth honeypot for monitoring and capturing malicious activity.        |
 | [Elastic Security YARA Rules](https://cybersectools.com/tools/elastic-security-yara-rules) | Signature-based YARA rules for detecting threats across multiple platforms. |
 | [YARA-Signator](https://cybersectools.com/tools/yara-signator) | Automatically generates YARA rules for malware repositories.                |
-| [CAPE](https://cybersectools.com/tools/cape)           | Malware sandbox for executing malicious files in an isolated environment.   |
 | [MalShare](https://cybersectools.com/tools/malshare)   | Platform for uploading, searching, and downloading malware samples.         |
 | [The DFIR Report](https://cybersectools.com/tools/dfir-report) | In-depth threat intelligence reports and services.                          |
 | [Mobile Audit](https://cybersectools.com/tools/mobile-audit) | SAST and malware analysis tool for Android APKs.                            |
@@ -878,7 +870,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [qsfuzz](https://cybersectools.com/tools/qsfuzz)     | Fuzzes query strings to identify security vulnerabilities.                    |
 | [Weaponised-XSS-payloads](https://cybersectools.com/tools/weaponised-xss-payloads) | A collection of XSS payloads for exploiting web vulnerabilities.               |
 | [XSSor](https://cybersectools.com/tools/xssor)       | A tool for exploiting and testing XSS vulnerabilities in web apps.             |
-| [KLara](https://cybersectools.com/tools/klara)       | Distributed Yara rule tool for malware research.                              |
 | [ReClass](https://cybersectools.com/tools/reclass)   | A reverse engineering tool for Windows executable analysis.                    |
 | [Malwover](https://cybersectools.com/tools/malwover) | Malware detection and prevention for advanced cyber threats.                  |
 | [Odin](https://cybersectools.com/tools/odin)         | Malware analysis platform with advanced threat detection.                     |
