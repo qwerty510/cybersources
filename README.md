@@ -693,7 +693,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography) | A deep learning based steganography tool. |
 | [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
 | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
-| [StegExpose](https://github.com/b3dk7/StegExpose) | A steganalysis tool for detecting hidden data. |
 | [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
 | [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
 | [SteCoSteg](https://github.com/cryptolok/SteCoSteg) | A steganography tool. |
