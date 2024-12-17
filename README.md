@@ -829,7 +829,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Bluepot](https://cybersectools.com/tools/bluepot)     | Bluetooth honeypot for monitoring and capturing malicious activity.        |
 | [Elastic Security YARA Rules](https://cybersectools.com/tools/elastic-security-yara-rules) | Signature-based YARA rules for detecting threats across multiple platforms. |
 | [YARA-Signator](https://cybersectools.com/tools/yara-signator) | Automatically generates YARA rules for malware repositories.                |
-| [CAPE](https://cybersectools.com/tools/cape)           | Malware sandbox for executing malicious files in an isolated environment.   |
 | [MalShare](https://cybersectools.com/tools/malshare)   | Platform for uploading, searching, and downloading malware samples.         |
 | [The DFIR Report](https://cybersectools.com/tools/dfir-report) | In-depth threat intelligence reports and services.                          |
 | [Mobile Audit](https://cybersectools.com/tools/mobile-audit) | SAST and malware analysis tool for Android APKs.                            |
