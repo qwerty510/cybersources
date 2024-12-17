@@ -435,7 +435,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |
 | [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic tool for gathering traces from Android and iOS devices. |
 | [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |
-| [Skadi](https://cybersectools.com/tools/skadi) | Free, open-source toolset for analyzing forensic artifacts and images. |
 | [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive digital forensics and incident response platform. |
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
 
