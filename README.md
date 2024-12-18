@@ -163,7 +163,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Tools|Description|
 |--|--|
 | [Industries OSINT](https://osint.industries) | Offers a variety of tools for investigating email addresses.                 |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Comprehensive search platform for email investigation.                       |
 | [Epieos](https://epieos.com)                 | Analyze and investigate email addresses.                                     |
 | [ScanIdentity](https://scan.identityguard.com/full) | Verify identities and scan for security risks.                              |
 | [LeakPeak](https://leakpeek.com)             | Identify whether email addresses have been leaked.                          |
