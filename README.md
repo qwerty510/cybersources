@@ -103,7 +103,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/) | Password recovery utility for cracking hashes.                                  |
 | [BrowserLeaks](https://browserleaks.com)            | Suite of tools to test the security and privacy of your web browser.           |
-| [Have I Been Pwned](https://haveibeenpwned.com/)    | Check if your email address was compromised in data breaches.                  |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)    | Check if your email address or domain was compromised in global Infostealer malware attacks |
 | [CavalierGPT - The First Comprehensive Infostealers AI Bot](www.hudsonrock.com/cavaliergpt)    | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency.                  |
 | [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)  | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support |
@@ -154,7 +153,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [NameKetchup](https://nameketchup.com)        | Explore domain name and username availability on popular platforms.          |
 | [NexFil](https://github.com/thewhiteh4t/nexfil) | Identify usernames across nearly all social network sites.                   |
 | [Seekr](https://github.com/seekr-osint/seekr) | Multi-tool for OSINT data management, note-taking, and username checking.    |
-| [Sherlock](https://github.com/sherlock-project/sherlock) | Search for usernames across various platforms.                               |
 | [SherlockEye](https://sherlockeye.io/)        | Discover publicly available information tied to a username.                  |
 | [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) | Search for nicknames and usernames on the web within the OSINT domain.       | 
 
@@ -165,7 +163,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |Tools|Description|
 |--|--|
 | [Industries OSINT](https://osint.industries) | Offers a variety of tools for investigating email addresses.                 |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Comprehensive search platform for email investigation.                       |
 | [Epieos](https://epieos.com)                 | Analyze and investigate email addresses.                                     |
 | [ScanIdentity](https://scan.identityguard.com/full) | Verify identities and scan for security risks.                              |
 | [LeakPeak](https://leakpeek.com)             | Identify whether email addresses have been leaked.                          |
@@ -272,7 +269,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DNSlytics](https://dnslytics.com)         | Search for domain IPs, IPv4, IPv6, or associated providers.                             |  
 | [DNSTwist](https://dnstwist.com)           | Scan for phishing domains and related risks.                                           |  
 | [SecurityTrails](https://securitytrails.com) | Search for domain names, IPs, keywords, or hostnames to assess cybersecurity risks.      |  
-| [Shodan](https://www.shodan.io)           | Search for internet-connected servers and devices using advanced filters.               |  
 | [InternetDB](https://internetdb.shodan.io)  | View open ports and device types linked to specific IP addresses.                       |  
 | [GreyNoise Intelligence](https://www.greynoise.io) | Identify internet scanners and common business activities in your security logs.        |  
 | [FOFA](https://fofa.so)                   | Explore internet-connected devices for reconnaissance and vulnerability analysis.        |  
@@ -382,7 +378,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) | Man-in-the-middle SOCKS proxy for Java. |
 | [ssh-mitm](https://github.com/jtesta/ssh-mitm) | SSH/SFTP man-in-the-middle tool for logging sessions and passwords. |
 | [nmap](https://nmap.org/) | Security scanner for network exploration and vulnerability scanning. |
-| [Aircrack-ng](http://www.aircrack-ng.org/) | WEP and WPA-PSK cracking tool for 802.11 wireless networks. |
 | [Nipe](https://github.com/GouveaHeitor/nipe) | Script to route traffic through the Tor network. |
 | [Habu](https://github.com/portantier/habu) | Python toolkit for network hacking. |
 | [Wifi Jammer](https://n0where.net/wifijammer/) | Program to jam all Wi-Fi clients in range. |
@@ -574,7 +569,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Savefrom.net](https://en.savefrom.net/download-from-tiktok) | Tool for downloading TikTok videos. | 
 | [Sinwindie TikTok Bookmarklet Tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools) | Bookmarklet tools for TikTok OSINT. | 
 | [Snaptik.app](https://snaptik.app/) | Tool for downloading TikTok videos. | 
-| [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. | 
 | [Tikbuddy](https://app.tikbuddy.com/) | Tool for analyzing TikTok profiles and content. | 
 | [TikTok API](https://github.com/szdc/tiktok-api) | API for interacting with TikTok. | 
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok. |
@@ -1152,7 +1146,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
 |[awesome-hacking](https://github.com/carpedm20/awesome-hacking)| Awesome list of hacking.|
-|[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 
 ## [↑](#-content) 🛣️ Learning Path
