@@ -106,7 +106,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Have I Been Pwned](https://haveibeenpwned.com/)    | Check if your email address was compromised in data breaches.                  |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)    | Check if your email address or domain was compromised in global Infostealer malware attacks |
 | [CavalierGPT - The First Comprehensive Infostealers AI Bot](www.hudsonrock.com/cavaliergpt)    | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency.                  |
-
 | [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)  | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support |
 
 
