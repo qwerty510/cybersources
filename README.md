@@ -378,7 +378,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) | Man-in-the-middle SOCKS proxy for Java. |
 | [ssh-mitm](https://github.com/jtesta/ssh-mitm) | SSH/SFTP man-in-the-middle tool for logging sessions and passwords. |
 | [nmap](https://nmap.org/) | Security scanner for network exploration and vulnerability scanning. |
-| [Aircrack-ng](http://www.aircrack-ng.org/) | WEP and WPA-PSK cracking tool for 802.11 wireless networks. |
 | [Nipe](https://github.com/GouveaHeitor/nipe) | Script to route traffic through the Tor network. |
 | [Habu](https://github.com/portantier/habu) | Python toolkit for network hacking. |
 | [Wifi Jammer](https://n0where.net/wifijammer/) | Program to jam all Wi-Fi clients in range. |
