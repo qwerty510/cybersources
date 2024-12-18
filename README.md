@@ -154,7 +154,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [NameKetchup](https://nameketchup.com)        | Explore domain name and username availability on popular platforms.          |
 | [NexFil](https://github.com/thewhiteh4t/nexfil) | Identify usernames across nearly all social network sites.                   |
 | [Seekr](https://github.com/seekr-osint/seekr) | Multi-tool for OSINT data management, note-taking, and username checking.    |
-| [Sherlock](https://github.com/sherlock-project/sherlock) | Search for usernames across various platforms.                               |
 | [SherlockEye](https://sherlockeye.io/)        | Discover publicly available information tied to a username.                  |
 | [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) | Search for nicknames and usernames on the web within the OSINT domain.       | 
 
