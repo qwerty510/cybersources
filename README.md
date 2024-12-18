@@ -269,7 +269,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DNSlytics](https://dnslytics.com)         | Search for domain IPs, IPv4, IPv6, or associated providers.                             |  
 | [DNSTwist](https://dnstwist.com)           | Scan for phishing domains and related risks.                                           |  
 | [SecurityTrails](https://securitytrails.com) | Search for domain names, IPs, keywords, or hostnames to assess cybersecurity risks.      |  
-| [Shodan](https://www.shodan.io)           | Search for internet-connected servers and devices using advanced filters.               |  
 | [InternetDB](https://internetdb.shodan.io)  | View open ports and device types linked to specific IP addresses.                       |  
 | [GreyNoise Intelligence](https://www.greynoise.io) | Identify internet scanners and common business activities in your security logs.        |  
 | [FOFA](https://fofa.so)                   | Explore internet-connected devices for reconnaissance and vulnerability analysis.        |  
