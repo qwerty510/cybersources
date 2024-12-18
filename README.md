@@ -569,7 +569,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Savefrom.net](https://en.savefrom.net/download-from-tiktok) | Tool for downloading TikTok videos. | 
 | [Sinwindie TikTok Bookmarklet Tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools) | Bookmarklet tools for TikTok OSINT. | 
 | [Snaptik.app](https://snaptik.app/) | Tool for downloading TikTok videos. | 
-| [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. | 
 | [Tikbuddy](https://app.tikbuddy.com/) | Tool for analyzing TikTok profiles and content. | 
 | [TikTok API](https://github.com/szdc/tiktok-api) | API for interacting with TikTok. | 
 | [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok. |
