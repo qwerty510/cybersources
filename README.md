@@ -1146,7 +1146,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Playbooks](https://github.com/socfortress/Playbooks)| Repository of playbooks.|
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
 |[awesome-hacking](https://github.com/carpedm20/awesome-hacking)| Awesome list of hacking.|
-|[awesome-osint](https://github.com/jivoi/awesome-osint)|A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 
 ## [↑](#-content) 🛣️ Learning Path
