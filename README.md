@@ -74,6 +74,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [SIEM](#-25-siem)
     - [Password Managers](#-26-password-managers)
     - [VPNs](#-27-VPNs)
+    - [RFID](#-28-RFID)
 - [Learning](#--learning)
   - [Resources](#--resources)
   - [Courses](#--courses)
@@ -893,6 +894,21 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Proton VPN](https://protonvpn.com/)|Free & Paid (Subscription)|A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.|
 |[IVPN](https://www.ivpn.net/)|Paid (Subscription)|A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security.|
 
+### [↑](#-content) 28. RFID
+| Tool | Description |
+| --- | --- |
+| [Proxmark3](https://proxmark.com/) | A powerful tool for reading, writing, and analyzing RFID and NFC cards. |
+| [ChameleonMini](https://github.com/emsec/ChameleonMini) | An RFID emulator for security analysis. |  
+| [Flipper Zero](https://flipperzero.one/) | A versatile multi-tool device for interacting with RFID, NFC, and other protocols. |  
+| [ACR122U](https://www.acs.com.hk/en/products/92/acr122u-usb-nfc-reader/) | A USB-based NFC reader and writer commonly used for RFID development and testing. |  
+| [LibNFC](https://github.com/nfc-tools/libnfc) | An open-source library for using NFC readers and performing RFID interactions. |  
+| [MIFARE Classic Tool (MCT)](https://github.com/ikarus23/MifareClassicTool) | A mobile app for interacting with MIFARE Classic cards, reading, writing, and analyzing their data. |  
+| [Cardpeek](https://github.com/L1L1/cardpeek) | A tool for analyzing smart cards, including Calypso-based transit cards, with a focus on data parsing and visualization. |  
+| [Metrodroid](https://github.com/metrodroid/metrodroid) | A mobile app for reading and analyzing transit cards, providing insights into metro card data. |  
+| [Metroflip](https://lab.flipper.net/apps/metroflip) | A Flipper Zero app for reading and parsing metro cards, inspired by Metrodroid. It supports multi-protocol card reading and global transit card analysis. |  
+| [Seader](https://github.com/bettse/seader)| A Flipper Zero application to interface with a SAM from the Flipper Zero over UART |
+| [NFC Magic](https://lab.flipper.net/apps/nfc_magic) | A Flipper zero application for writing to NFC tags with modifiable sector 0 |
+| [MFOC](https://github.com/nfc-tools/mfoc)| MFOC is an open source implementation of "offline nested" attack |
 
 ## [↑](#-content) 📖 Learning
 
