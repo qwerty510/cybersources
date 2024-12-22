@@ -251,6 +251,37 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [CachedViews](https://www.cachedviews.com)                       | Access cached versions of web pages from various sources.                         |  
 | [LibGen](https://libgen.rs)                                      | The largest free digital library of books.                                        |  
 | [2lingual](https://www.2lingual.com)                             | Allows simultaneous Google searches in two languages.                             |  
+| [IntelligenceX](https://intelx.io)            | Search Tor, I2P, data leaks, domains, and emails.                             |  
+| [Censys](https://censys.io)                  | Assessing attack surface for internet-connected devices.                      |  
+| [Binary Edge](https://www.binaryedge.io)     | Scans the internet for threat intelligence.                                   |  
+| [PublicWWW](https://publicwww.com)           | Marketing and affiliate marketing research.                                   |  
+| [AlienVault](https://www.alienvault.com)     | Extensive threat intelligence feed.                                           |  
+| [GrayHatWarfare](https://buckets.grayhatwarfare.com) | Search public S3 buckets.                                                      |  
+| [PolySwarm](https://polyswarm.io)            | Scan files and URLs for threats.                                              |  
+| [Packet Storm Security](https://packetstormsecurity.com) | Browse latest vulnerabilities and exploits.                                   |  
+| [Shodan](https://www.shodan.io)              | Search for devices connected to the internet.                                 |  
+| [ONYPHE](https://www.onyphe.io)              | Collects cyber-threat intelligence data.                                      |  
+| [Netlas](https://netlas.io)                  | Search and monitor internet-connected assets.                                 |  
+| [Hunter](https://hunter.io)                 | Search for email addresses belonging to a website.                            |  
+| [ZoomEye](https://www.zoomeye.org)            | Gather information about targets.                                             |  
+| [Pulsedive](https://pulsedive.com)           | Search for threat intelligence.                                               |  
+| [Vulners](https://vulners.com)               | Search vulnerabilities in a large database.                                   |  
+| [CRT.sh](https://crt.sh)                    | Search for certs that have been logged by CT.                                 |  
+| [SecurityTrails](https://securitytrails.com) | Extensive DNS data.                                                          |  
+| [FullHunt](https://fullhunt.io)              | Search and discovery attack surfaces.                                         |  
+| [Grep App](https://grep.app)                 | Search across a half million git repos.                                       |  
+| [GreyNoise](https://www.greynoise.io)        | Search for devices connected to the internet.                                 |  
+| [DNSDumpster](https://dnsdumpster.com)      | Search for DNS records quickly.                                               |  
+| [ExploitDB](https://www.exploit-db.com)      | Archive of various exploits.                                                 |  
+| [SearchCode](https://searchcode.com)        | Search 75 billion lines of code from 40 million projects.                     |  
+| [LeakIX](https://leakix.net)                 | Search publicly indexed information.                                          |  
+| [DorkSearch](https://dorksearch.com)         | Really fast Google dorking.                                                  |  
+| [WiGLE](https://wigle.net)                  | Database of wireless networks, with statistics.                               |  
+| [URL Scan](https://urlscan.io)               | Free service to scan and analyze websites.                                    |  
+| [WayBackMachine](https://archive.org/web)    | View content from deleted websites.                                           |  
+| [DeHashed](https://www.dehashed.com)         | View leaked credentials.                                                     |  
+| [Fofa](https://fofa.so)                     | Search for various threat intelligence.                                       |
+
 
 
 
