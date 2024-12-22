@@ -960,6 +960,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[RangeForce](https://www.rangeforce.com/)|Hands-on blue team exercises.|
 |[Free Education Web](https://freeeducationweb.com/)|We are Sharing the Knowledge for Free of Charge and Help Students and Learners all Over the World.|
 |[elHacker](https://elhacker.info/Cursos/)|All hacking courses for free.|
+|[Seguridad/si](https://formacion.seguridadsi.com/order?ct=f9289319-8db6-4dc3-a74e-a01335084f44)|Free Introduction of CIS|
+|[Udemy](https://www.udemy.com/course/cissp-all-in-one-practice-exam/)| 34€ Ultimate CISSP Exam Prep with Practical Practice Tests and Expert Explanations Designed for Guaranteed Success!|
 
 
 
