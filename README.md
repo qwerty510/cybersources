@@ -970,6 +970,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |--|--|
 |[Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)|Validate your knowledge and skills in network fundamentals and access, IP connectivity, IP services, security fundamentals, and more.|
 |[CompTIA Security+](https://www.comptia.org/certifications/security)|CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.|
+|[CC](https://www.isc2.org/Certifications/CC)| Certified in Cybersecurity (CC) from ISC2|
 
 
 ### [↑](#-content) 🎥 Tutorials
