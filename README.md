@@ -985,6 +985,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)|
 |[Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)|
 |[Lena151: Reversing With Lena](https://archive.org/details/lena151)|
+|[Blue Team Introduction](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx)| Video of Blue Team Introduction - Fundamentals|
 
 ### [↑](#-content) 🚩 CTFs - Training
 
