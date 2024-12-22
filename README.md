@@ -932,6 +932,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)|Collection of cheat sheets useful for pentesting|
 |[Anna's Achive](https://annas-archive.org/)| The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.|
 |[PDFdrive](https://www.pdfdrive.com/)|PDF Drive is your search engine for PDF files. |
+|[PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)|125 PowerShell scripts designed to simplify daily administrative tasks, enhance reporting, and streamline auditing processes.|
 
 ### [↑](#-content) 📚 Courses
 
