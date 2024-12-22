@@ -305,6 +305,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file) | Open Source Active Directory ACL Visualizer and Explorer.|
 
 
+
 #### 7. [↑](#-content) Post Explotation
 
 | Tools|Description|
@@ -1116,6 +1117,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[CyberSecTools](https://cybersectools.com/)|The Largest Hub of Cybersecurity Tools|
 |[awesome-hacking](https://github.com/carpedm20/awesome-hacking)| Awesome list of hacking.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
+|[awesome-YARA](https://github.com/InQuest/awesome-yara)|A curated list of awesome YARA rules, tools, and resources.|
 
 ## [↑](#-content) 🛣️ Learning Path
 
