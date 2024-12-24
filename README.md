@@ -1005,7 +1005,10 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)|Validate your knowledge and skills in network fundamentals and access, IP connectivity, IP services, security fundamentals, and more.|
 |[CompTIA Security+](https://www.comptia.org/certifications/security)|CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.|
 |[CC](https://www.isc2.org/Certifications/CC)| Certified in Cybersecurity (CC) from ISC2|
-
+|[OSCP](https://www.offsec.com/courses/pen-200/)|PEN-200 (PWK) is our foundational pentesting course where students learn and practice the latest techniques.|
+|[OSWP](https://www.offsec.com/courses/pen-210/)|Learn Foundational Wireless Network Attacks to advance your skills in network security red-teaming|
+|[OSEP](https://www.offsec.com/courses/pen-300/)|Learn advanced techniques including bypassing security mechanisms and evading defenses.|
+|[eJPT](https://security.ine.com/certifications/ejpt-certification/)|eJPT is a hands-on, entry-level Red Team certification that simulates skills utilized during real-world engagements.|
 
 ### [↑](#-content) 🎥 Tutorials
 
