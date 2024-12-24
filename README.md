@@ -1038,6 +1038,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/)|Steganography||
 |[awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)|Steganography|
 |[Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)|BadUSB|Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.|
+|[InfoMachines](https://infosecmachines.io/)|S4vitar Machine's Resolutions.|
 
 
 ### [↑](#-content) 🕸️ Practice Webs
