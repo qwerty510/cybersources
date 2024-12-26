@@ -131,6 +131,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.   |
 | [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes) | A guide to Dalvik VM instructions, useful for analyzing Android applications. |
 | [AWS Config](https://cybersectools.com/tools/aws-config) | Evaluates and audits AWS resource configurations for compliance and security. | 
+| [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)   | Cyber threat intelligence tool for monitoring and analyzing the dark web. |  
 
 #### 3. [↑](#-content) OSINT
 
