@@ -107,6 +107,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)    | Check if your email address or domain was compromised in global Infostealer malware attacks |
 | [CavalierGPT - The First Comprehensive Infostealers AI Bot](http://www.hudsonrock.com/cavaliergpt)  | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency.                  |
 | [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)  | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support |
+|[VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)| Crawls and monitors .onion sites for specified keywords or changes.  |
+|[OnionIngestor](https://github.com/danieleperera/OnionIngestor)| Gathers data from Tor hidden services for analysis or intelligence purposes.  |
 
 
 #### 2. [↑](#-content) Miscellaneous
@@ -288,7 +290,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Ahmia Search Engine](https://ahmia.fi)                 | Search engine for Tor Hidden Services on the dark web, with a public GitHub repo.     |  
 | [Darkus](https://github.com/Lucksi/Darkus)              | Powerful search tool designed for discovering .onion websites on the dark web.        |  
 | [Onion Search Engine](https://onionengine.com)          | Comprehensive dark web .onion search engine with multiple Tor links available: [Link 1](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/) and [Link 2](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/). |  
-
+| [TorBot](https://github.com/DedSecInside/TorBot)| Automates crawling and searching for data across .onion sites.  |
+|[Darc](https://github.com/JarryShaw/darc)| Distributed and automated .onion site crawler for large-scale data collection on the dark web.  |
+|[Prying Deep](https://github.com/iudicium/pryingdeep)|Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.  |
 
 
 
@@ -428,6 +432,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Netz](https://github.com/spectralops/netz) | Tool for discovering internet-wide misconfigurations using zgrab2. |
 | [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner using Rust, designed for quick scanning and integration with Nmap. |
 | [PETEP](https://github.com/Warxim/petep) | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support. |
+|[TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)| Python-based tool to crawl .onion websites efficiently.  |
+|[Midnight Sea](https://github.com/RicYaben/midnight_sea)| A dark web crawler designed for flexibility and integration with analysis tools.  |
+
 
 
 #### 13. [↑](#-content) Cryptography
@@ -1165,6 +1172,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[awesome-hacking](https://github.com/carpedm20/awesome-hacking)| Awesome list of hacking.|
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 |[awesome-YARA](https://github.com/InQuest/awesome-yara)|A curated list of awesome YARA rules, tools, and resources.|
+|[dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|OSINT Tools for the Dark Web|
+
 
 ## [↑](#-content) 🛣️ Learning Path
 
@@ -1192,3 +1201,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 - [achirou](https://achirou.com)
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 - [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+- [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
