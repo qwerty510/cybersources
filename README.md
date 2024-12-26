@@ -281,6 +281,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [WayBackMachine](https://archive.org/web)    | View content from deleted websites.                                           |  
 | [DeHashed](https://www.dehashed.com)         | View leaked credentials.                                                     |  
 | [Fofa](https://fofa.so)                     | Search for various threat intelligence.                                       |
+| [Katana](https://github.com/adnane-X-tebbaa/Katana)      | Open-source framework for web scanning and recon, useful for dark web investigations. |  
+| [OnionSearch](https://github.com/megadose/OnionSearch)   | Tool to search for .onion services across the dark web.                               |  
+| [Darkdump](https://github.com/josh0xA/darkdump)          | Command-line search engine for exploring the dark web.                                |  
+| [Ahmia Search Engine](https://ahmia.fi)                 | Search engine for Tor Hidden Services on the dark web, with a public GitHub repo.     |  
+| [Darkus](https://github.com/Lucksi/Darkus)              | Powerful search tool designed for discovering .onion websites on the dark web.        |  
+| [Onion Search Engine](https://onionengine.com)          | Comprehensive dark web .onion search engine with multiple Tor links available: [Link 1](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/) and [Link 2](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/). |  
 
 
 
