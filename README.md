@@ -210,6 +210,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Toronto Live](https://www.torontolive.ca) | Provides live information about public schools, traffic, bike shares, etc.     |
 | [GeoProtests API](https://www.geoprotests.com) | Query and visualize protests worldwide with spatial aggregations.              |
 | [GeoINT-py](https://github.com/geoint-py) | A collection of geospatial intelligence workflows implemented in Python.        |
+| [OverPass Turbo](https://overpass-turbo.eu/) | Ways I use ChatGPT with OverpassTurbo for OSINT Geolocation Research |
 
 
 #### 4. [↑](#-content) News
