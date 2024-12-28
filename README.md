@@ -75,6 +75,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
     - [Password Managers](#-26-password-managers)
     - [VPNs](#-27-VPNs)
     - [RFID](#-28-RFID)
+    - [Bug Bounty](#-29-bug-bounty)
 - [Learning](#--learning)
   - [Resources](#--resources)
   - [Courses](#--courses)
@@ -941,6 +942,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Proton VPN](https://protonvpn.com/)|Free & Paid (Subscription)|A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.|
 |[IVPN](https://www.ivpn.net/)|Paid (Subscription)|A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security.|
 
+
 ### [↑](#-content) 28. RFID
 
 | Tool | Description |
@@ -957,6 +959,62 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Seader](https://github.com/bettse/seader)| A Flipper Zero application to interface with a SAM from the Flipper Zero over UART |
 | [NFC Magic](https://lab.flipper.net/apps/nfc_magic) | A Flipper zero application for writing to NFC tags with modifiable sector 0 |
 | [MFOC](https://github.com/nfc-tools/mfoc)| MFOC is an open source implementation of "offline nested" attack |
+
+
+### [↑](#-content) 29. Bug Bounty
+
+| Tool | Description |
+| --- | --- |
+| [123Contact Form](https://www.123contactform.com) | A versatile form builder for websites and mobile applications. |  
+| [99designs](https://99designs.com) | A platform to connect designers with clients needing logos, websites, and more. |  
+| [Abacus](https://www.abacus.com) | A tool for simplifying expense reporting and tracking for businesses. |  
+| [Acquia](https://www.acquia.com) | Cloud-based solutions for managing and optimizing digital experiences on Drupal. |  
+| [ActiveCampaign](https://www.activecampaign.com) | A customer experience automation platform for email marketing and CRM. |  
+| [ActiveProspect](https://activeprospect.com) | A SaaS platform to automate lead acquisition and qualification processes. |  
+| [Adobe](https://www.adobe.com) | Industry-leading software solutions for creative professionals, including Photoshop and Acrobat. |  
+| [AeroFS](https://www.aerofs.com) | A private cloud collaboration tool for secure team file sharing. |  
+| [Airbitz](https://airbitz.co) | A secure Bitcoin wallet and platform for decentralized applications. |  
+| [Airbnb](https://www.airbnb.com) | A platform for booking short-term homestays and unique travel experiences. |  
+| [Algolia](https://www.algolia.com) | A search and discovery API for websites and mobile applications. |  
+| [Altervista](https://www.altervista.org) | A platform for creating free blogs and websites with monetization options. |  
+| [Altroconsumo](https://www.altroconsumo.it) | Italy’s largest consumer organization offering product reviews and advice. |  
+| [Amara](https://amara.org) | A tool for creating and managing subtitles for videos collaboratively. |  
+| [Amazon Web Services](https://aws.amazon.com) | A comprehensive cloud platform offering computing power, storage, and other services. |  
+| [Amazon.com](https://www.amazon.com) | The world’s largest online retailer offering a vast array of products and services. |  
+| [ANCILE Solutions Inc.](https://www.ancile.com) | Solutions for creating and delivering on-demand learning and performance support. |  
+| [Anghami](https://www.anghami.com) | A music streaming platform focused on Arabic content. |  
+| [ANXBTC](https://anxbtc.com) | A Bitcoin trading and exchange platform. |  
+| [Apache httpd](https://httpd.apache.org) | An open-source HTTP server for hosting websites and applications. |  
+| [Appcelerator](https://www.appcelerator.com) | A cross-platform mobile app development tool. |  
+| [Apple](https://www.apple.com) | A global leader in consumer electronics, software, and online services. |  
+| [Apptentive](https://www.apptentive.com) | A platform for mobile app engagement and customer feedback. |  
+| [Aptible](https://www.aptible.com) | A security and compliance platform for DevOps teams. |  
+| [Ardour](https://ardour.org) | A digital audio workstation for recording, editing, and mixing sound. |  
+| [Arkane](https://www.arkane.network) | A blockchain wallet and API service for developers. |  
+| [ARM mbed](https://www.mbed.com) | A platform for IoT device development and deployment. |  
+| [Asana](https://asana.com) | A project management tool for team collaboration and task tracking. |  
+| [YesWeHack](https://www.yeswehack.com) | A global bug bounty and vulnerability disclosure platform. |  
+| [intigriti](https://www.intigriti.com) | A leading European platform for crowdsourced security testing. |  
+| [HackerOne](https://www.hackerone.com) | A vulnerability coordination and bug bounty platform connecting businesses with hackers. |  
+| [Bugcrowd](https://www.bugcrowd.com) | A platform offering managed bug bounty programs and vulnerability disclosure. |  
+| [Cobalt](https://cobalt.io) | A pen-testing as a service platform with a global community of security experts. |  
+| [Bountysource](https://www.bountysource.com) | A funding platform for open-source projects and software development bounties. |  
+| [Bounty Factory](https://bountyfactory.io) | A platform for launching bug bounty programs with a community of ethical hackers. |  
+| [Coder Bounty](https://coderbounty.com) | A platform for developers to earn rewards by solving coding challenges. |  
+| [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes. |  
+| [FOSS Factory](https://fossfactory.org) | A platform for funding free and open-source software development. |  
+| [Synack](https://www.synack.com) | A crowdsourced security platform combining automation with a network of ethical hackers. |  
+| [HackenProof](https://hackenproof.com) | A bug bounty and vulnerability coordination platform for businesses. |  
+| [Detectify](https://detectify.com) | A SaaS platform offering web vulnerability scanning and crowdsourced security. |  
+| [Bugbountyjp](https://bugbounty.jp) | A Japanese platform for launching and managing bug bounty programs. |  
+| [Safehats](https://safehats.com) | A vulnerability coordination platform for organizations to work with ethical hackers. |  
+| [BugbountyHQ](https://www.bugbountyhq.com) | A community platform for ethical hackers to collaborate and find bug bounty opportunities. |  
+| [Hackerhive](https://hackerhive.com) | A security platform for crowdsourced vulnerability assessments and bug bounties. |  
+| [Hacktrophy](https://www.hacktrophy.com) | A Slovak bug bounty platform for finding vulnerabilities in digital assets. |  
+| [AntiHACK](https://antihack.me) | A bug bounty and penetration testing platform based in Asia. |  
+| [CESPPA](https://cesppa.com) | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure. |  
+
+
 
 ## [↑](#-content) 📖 Learning
 
@@ -979,6 +1037,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Anna's Achive](https://annas-archive.org/)| The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.|
 |[PDFdrive](https://www.pdfdrive.com/)|PDF Drive is your search engine for PDF files. |
 |[PowerShell Scripts](https://github.com/admindroid-community/powershell-scripts)|125 PowerShell scripts designed to simplify daily administrative tasks, enhance reporting, and streamline auditing processes.|
+| [How to Become a Successful Bug Bounty Hunter](https://hackerone.com/blog/what-great-hackers-share) | Learn what makes successful hackers thrive in the world of bug bounty hunting. |  
+| [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102) | A comprehensive guide by Bugcrowd on becoming a bug bounty hunter. |  
+| [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/) | A beginner's guide to getting started with bug bounty hunting. |  
+| [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter) | An insightful Q&A on the experiences of a bug bounty hunter. |  
+| [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet) | A curated list of bug bounty cheatsheets and tools. |  
+| [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology) | Step-by-step methodology to begin your bug bounty journey. |  
 
 ### [↑](#-content) 📚 Courses
 
@@ -1174,6 +1238,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[awsome-CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs.|
 |[awesome-YARA](https://github.com/InQuest/awesome-yara)|A curated list of awesome YARA rules, tools, and resources.|
 |[dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|OSINT Tools for the Dark Web|
+|[awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)| Awesome list of bug bounty|
 
 
 ## [↑](#-content) 🛣️ Learning Path
@@ -1203,3 +1268,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 - [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 - [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)
