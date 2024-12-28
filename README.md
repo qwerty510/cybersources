@@ -482,6 +482,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |
 | [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive digital forensics and incident response platform. |
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
+| [Sherloq](https://github.com/GuidoBartoli/sherloq) | An open-source digital image forensic toolset.|
 
 
 #### 15. [↑](#-content) Hex editors
