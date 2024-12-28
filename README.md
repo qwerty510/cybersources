@@ -506,6 +506,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [USBPcap](https://github.com/desowin/usbpcap) | USB capture tool for Windows, useful for monitoring USB traffic. |
 | [dynStruct](https://github.com/ampotos/dynStruct) | A tool for structure recovery via dynamic instrumentation. |
 | [drltrace](https://github.com/mxmssh/drltrace) | A tool for tracing shared library calls. |
+| [Research on CMSTP.exe](https://msitpros.com/?p=3960) | Detailed research on using CMSTP.exe for bypassing security restrictions and executing arbitrary code. |  
+| [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/) | Explains one-liner PowerShell commands for downloading and executing malicious payloads. |  
+| [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |  
+| [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd) | A case study on exploiting Windows Script Host (WSH) injection for command execution. |  
+| [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html) | Introduction to using Gscript as a dropper tool in red team operations. |  
+
+
 
 #### 17. [↑](#-content) System
 
@@ -1073,7 +1080,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[elHacker](https://elhacker.info/Cursos/)|All hacking courses for free.|
 |[Seguridad/si](https://formacion.seguridadsi.com/order?ct=f9289319-8db6-4dc3-a74e-a01335084f44)|Free Introduction of CIS|
 |[Udemy](https://www.udemy.com/course/cissp-all-in-one-practice-exam/)| 34€ Ultimate CISSP Exam Prep with Practical Practice Tests and Expert Explanations Designed for Guaranteed Success!|
-
+| [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz) | A YouTube playlist providing a detailed course on red team operations. |  
+| [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) | A comprehensive guide and course on advanced threat tactics by Cobalt Strike. |  
+| [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html) | A video session from FireEye that covers red team operations and assessments. |  
 
 
 
@@ -1088,6 +1097,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[OSWP](https://www.offsec.com/courses/pen-210/)|Learn Foundational Wireless Network Attacks to advance your skills in network security red-teaming|
 |[OSEP](https://www.offsec.com/courses/pen-300/)|Learn advanced techniques including bypassing security mechanisms and evading defenses.|
 |[eJPT](https://security.ine.com/certifications/ejpt-certification/)|eJPT is a hands-on, entry-level Red Team certification that simulates skills utilized during real-world engagements.|
+| [CREST Certified Simulated Attack Specialist](https://www.crest-approved.org) | Certification focusing on simulated attack scenarios and advanced penetration testing techniques. |  
+| [CREST Certified Simulated Attack Manager](https://www.crest-approved.org) | Designed for managing and overseeing simulated attack engagements effectively. |  
+| [SEC564: Red Team Operations and Threat Emulation](https://www.sans.org/cyber-security-courses/red-team-operations-and-threat-emulation/) | A SANS course covering red team methodologies and threat emulation tactics. |  
+| [ELearn Security Penetration Testing eXtreme](https://elearnsecurity.com/product/penetration-testing-extreme/) | Advanced penetration testing certification from eLearn Security. |  
+| [Certified Red Team Professional](https://www.zeropointsecurity.co.uk/certifications/certified-red-team-professional) | Practical certification emphasizing hands-on red team operations. |  
+| [Certified Red Teaming Expert](https://www.practicalinfosec.com/certifications/certified-red-teaming-expert/) | Expert-level certification in advanced red teaming strategies and tools. |  
+| [PentesterAcademy Certified Enterprise Security Specialist (PACES)](https://www.pentesteracademy.com) | Certification focusing on enterprise security and defense evasion techniques. |  
+
 
 ### [↑](#-content) 🎥 Tutorials
 
@@ -1194,9 +1211,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 ## [↑](#-content) 📖 Books & Papers/Articles
 
-| Title | Category | Description |
-|--|--|--|
-|non|non|non|non|
+| Title | Description |  
+|---|---|  
+| [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714) | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats. |  
+| [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048) | Offers insights into planning, executing, and defending against cyberattacks. |  
+| [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689) | Guides readers through techniques to breach highly secure networks. |  
+| [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/) | A practical manual focusing on social engineering tactics and pretexting scenarios. |  
+| [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2) | An essential resource for penetration testers, covering advanced tactics and strategies. |  
+| [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK]([https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)) | A step-by-step narrative illustrating hacking methods for breaching financial institutions. |  
 
 
 
@@ -1239,7 +1261,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[awesome-YARA](https://github.com/InQuest/awesome-yara)|A curated list of awesome YARA rules, tools, and resources.|
 |[dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|OSINT Tools for the Dark Web|
 |[awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)| Awesome list of bug bounty|
-
+|[awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)| Awesome Red Team|
 
 ## [↑](#-content) 🛣️ Learning Path
 
@@ -1269,3 +1291,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 - [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 - [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)
+- [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)
