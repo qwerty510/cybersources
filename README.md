@@ -541,7 +541,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) | Chrome extension for downloading photos and videos from Instagram. |
 | [Engagement-calculator](https://phlanx.com/engagement-calculator) | Tool for calculating engagement rates on Instagram. |
 | [Export Comments](https://exportcomments.com) | Tool for exporting Instagram comments. |
-| [Find-instagram-user-id](https://codeofaninja.com/tools/find-instagram-user-id) | Tool to find Instagram user IDs. |
 | [Gramfind](http://gramfind.com) | Tool for finding Instagram profiles and posts. |
 | [Hashtagify](http://hashtagify.me) | Tool for finding and analyzing hashtags. |
 | [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for Instagram. |
