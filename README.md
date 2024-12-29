@@ -541,10 +541,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) | Chrome extension for downloading photos and videos from Instagram. |
 | [Engagement-calculator](https://phlanx.com/engagement-calculator) | Tool for calculating engagement rates on Instagram. |
 | [Export Comments](https://exportcomments.com) | Tool for exporting Instagram comments. |
-| [Gramfind](http://gramfind.com) | Tool for finding Instagram profiles and posts. |
 | [Hashtagify](http://hashtagify.me) | Tool for finding and analyzing hashtags. |
 | [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for Instagram. |
-| [Helper Tools for Instagram](https://chrome.google.com/webstore/detail/helper-tools-forinstagra/hcdbfckhdcpepllecbkaaojfgipnpbpb) | Chrome extension to enhance Instagram functionalities. |
 | [HypeAuditor](https://hypeauditor.com) | Tool for analyzing the authenticity of influencers and their engagement. |
 | [Iconosquare](http://iconosquare.com) | Tool for managing and analyzing Instagram accounts. |
 | [IGSuperStar](https://igsuperstar.com) | Tool for finding Instagram influencers. |
@@ -561,7 +559,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [InstaLoader](https://github.com/instaloader/instaloader) | Tool for downloading Instagram photos, videos, and metadata. |
 | [instaloctrack](https://github.com/bernsteining/instaloctrack) | Tool for tracking Instagram locations. |
 | [InstaLooter](https://github.com/althonos/InstaLooter) | Tool for downloading photos and videos from Instagram profiles. |
-| [Izuum](http://izuum.com) | Instagram search engine. |
 | [Keyhole](http://keyhole.co) | Tool for tracking and analyzing social media campaigns. |
 | [Leetags](https://www.leetags.com) | Tool for finding the best hashtags for Instagram posts. |
 | [MetaHashtags](https://metahashtags.com) | Tool for generating and analyzing hashtags. |
