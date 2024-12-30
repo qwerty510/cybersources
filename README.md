@@ -483,6 +483,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive digital forensics and incident response platform. |
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
 | [Sherloq](https://github.com/GuidoBartoli/sherloq) | An open-source digital image forensic toolset.|
+| [Kuiper](https://github.com/DFIRKuiper/Kuiper) | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
 
 
 #### 15. [↑](#-content) Hex editors
