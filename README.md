@@ -484,6 +484,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs for forensic analysis. |
 | [Sherloq](https://github.com/GuidoBartoli/sherloq) | An open-source digital image forensic toolset.|
 | [Kuiper](https://github.com/DFIRKuiper/Kuiper) | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
+| [RegRipper4.0](https://github.com/keydet89/RegRipper4.0) |The key tool for forensic analysis of Windows DAT. |
 
 
 #### 15. [↑](#-content) Hex editors
