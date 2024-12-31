@@ -92,7 +92,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
   -  [Open-Source Repositories](#--open-source-repositories)
   -  [Learning Path](#-%EF%B8%8F-learning-path)
   -  [Projects Based](#-%EF%B8%8F-projects-based)
--  [Colaborate](#--colaborate)
+-  [Collaborate](#--collaborate)
 -  [Credits](#--credits)
 
 
@@ -1278,7 +1278,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Fynd Academy](https://www.fynd.academy/blog/cyber-security-projects)|30 Cyber Projects on 2025 (With Source Code.|
 |[CyberAcademy - Project Ideas](https://cybercademy.org/project-ideas/)|List of ideas for your cyber projects.|
 
-## [↑](#-content) 💬 Colaborate 
+## [↑](#-content) 💬 Collaborate 
 - If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
 
 ![](https://contrib.rocks/image?repo=brunoooost/cybersources)
